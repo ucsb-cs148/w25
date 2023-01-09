@@ -1,10 +1,10 @@
-# f21
+# w23
 
-https://ucsb-cs148.github.io/f21/
+https://ucsb-cs148.github.io/w23/
 
-Jekyll based website for UCSB CS148, Fall 2021
+Jekyll based website for UCSB CS148, Winter 2023
 
-Website: <https://ucsb-cs148.github.io/f21/>
+Website: <https://ucsb-cs148.github.io/w23/>
 
 This version is intended to replace <https://ucsb-cs148-f21.github.io>.
 
@@ -15,9 +15,9 @@ in `_config.yml`
 
 The navigation is set by the values in `_data/navigation.yml`
 
-Jekyll status on Travis-CI: [![Build Status](https://travis-ci.com/ucsb-cs48/f21.svg?branch=main)](https://travis-ci.com/ucsb-cs148/f21)
+Jekyll status on Travis-CI: [![Build Status](https://travis-ci.com/ucsb-cs48/w23.svg?branch=main)](https://travis-ci.com/ucsb-cs148/f21)
 
-* Travis-ci: https://travis-ci.com/ucsb-cs148/f21
+* Travis-ci: https://travis-ci.com/ucsb-cs148/w23
 * To add a status image like this in your README.md, see [these instructions](https://docs.travis-ci.com/user/status-images/)
 
 To test locally:

@@ -34,8 +34,8 @@ main_dropdown:
 
 offering_menus:
   -
-    term: F21
-    baseurl: /f21
+    term: W23
+    baseurl: /w23
     items:
 
       - title: Hwk
@@ -81,8 +81,8 @@ offering_menus:
              description: "Q&A Forum"
       - title: Github
         dropdown:
-           - title: ucsb-cs148-f21
-             url: https://github.com/ucsb-cs148-f21
+           - title: ucsb-cs148-w23
+             url: https://github.com/ucsb-cs148-w23
 
   -
     term: S21
@@ -134,5 +134,6 @@ offering_menus:
         dropdown:
            - title: ucsb-cs148-s21
              url: https://github.com/ucsb-cs148-s21
+             
              
     
