@@ -10,7 +10,7 @@ desc: "Rules governing group formation, project selection, and project completio
 This quarter the instructional staff will assist and partly direct the formation of groups.
 
 We will try to minimize the number of groups, subject to the restriction that no group may
-have more than 6 nor fewer than 4 members.
+have more than 7 nor fewer than 5 members.
 
 Attendance is always important, but it is mandatory during the first week of lectures and
 at your first discussion section.  Otherwise, you cannot be assigned to a group, and will
@@ -20,7 +20,7 @@ All remaining rules apply after the groups are formed.
 
 # Type of project to choose
 
-CS 48 is mostly about analyzing problems and designing systems. It is not primarily
+CS 148 is mostly about analyzing problems and designing systems. It is not primarily
 about programming, at least not programming at the method or even class level.
 Therefore, what we are looking for in projects are problem domains that
 are "interesting" - i.e., have
@@ -62,7 +62,7 @@ Suppose you have a choice between two projects, A and B.
 </div>
 
 
-For CS 48, project A is a *much* better choice. A key goal is for you
+For CS 148, project A is a *much* better choice. A key goal is for you
 to learn how to analyze and design, and thus a major portion of your
 work on the project should be in that area.
 
@@ -107,7 +107,7 @@ As CMPSC 32 is a pre-requisite for this course, every enrolled student is assume
 sufficient C++ programming knowlege to be an effective team member if the project is mostly written
 in that language.
 
-CMPSC 56 is another required course for CS majors, many students have
+CMPSC 156 is a similar project-oriented course for CS majors, many students have
 or are gaining experience with the Java programming language and
 related libraries.   If all of your team members are comfortable with Java, that's an acceptable choice.
 
@@ -220,6 +220,6 @@ will be met with disciplinary action".
 
 
 Credits:
-* Updated December 27, 2018, P. Conrad.
-* Based on previous CS48 course material from  provided by C. Michael Costanzo and Chandra Krinz.
+* Updated January 9, 2023, T. Hollerer.
+* Based on previous CS148/CS48 course material from  provided by P. Conrad, C. Michael Costanzo and Chandra Krintz.
 
