@@ -101,10 +101,12 @@ of CS156, CS184 for mobile app development, and capstone (CS189A/B) if you take 
 
 So concentrate on something that people can actually use.
 
-# Programming language and other source code requirements
+# Programming language and other source code considerations
 
-For webapps, client side code may be written in JavaScript, but it should be
-well-structured, well-organized and well-tested JavaScript.
+For web apps, code (especially client-side) may be written in JavaScript, but it should be
+well-structured, well-organized and well-tested JavaScript. The use of Libraries such as React and component frameworks, such as Next.js, is encouraged. 
+
+As part of web app development, other computer language choices may make sense if you agree among all 6-7 students in a project group that you'd like to invest in the associated development infrastructure: Python and Ruby (on rails).   
 
 As CMPSC 32 is a pre-requisite for this course, every enrolled student is assumed to possess
 sufficient C++ programming knowlege to be an effective team member if the project is mostly written
@@ -112,10 +114,10 @@ in that language.
 
 CMPSC 156 is a similar project-oriented course for CS majors, many students have
 or are gaining experience with the Java programming language and
-related libraries.   If all of your team members are comfortable with Java, that's an acceptable choice, as is C#.
+related libraries. If all of your team members are comfortable with Java, that's an acceptable choice, as is C#.
 
 Another object-oriented language may only be used with explicit permission, and only if there is a compelling
-justification for using that language in contradistinction to C++ or Java.
+justification for using that language in contradistinction to the ones already listed.
 
 
 # Additional Requirements.
