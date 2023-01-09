@@ -3,12 +3,12 @@ layout: exam_info
 num: project
 ready: true
 desc: "Final Presentations"
-exam_date: 2021-12-06 16:00
+exam_date: 2023-03-23 16:00
 ---
 
 # Final Presentations 
 
-**4pm to 7pm, Monday December 6th** (original finals slot)
+**4pm to 7pm, Thursday March 23** (original finals slot)
 
 Here is the point percentage breakdown for grading that the teaching team plans to use for the “Final Product” 40% of the course grade.
 
