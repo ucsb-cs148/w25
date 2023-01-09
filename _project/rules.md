@@ -54,7 +54,7 @@ Suppose you have a choice between two projects, A and B.
 	<h5 class="card-title poor-choice">Project B: Poor Choice</h5>
 	<p class="card-text poor-choice">
 	  Has fewer concepts, and classes are difficult to
-	  implement due to tricky algorithms and/or fancy graphics.
+	  implement due to tricky algorithms and/or involvement of complex research topics such as machine learning, computer vision or fancy graphics.
 	</p>	    
       </div>
     </div>
