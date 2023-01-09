@@ -1,0 +1,172 @@
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+remote_theme: ucsb-cs-course-repos/course-repo-jekyll-theme
+
+url: https://ucsb-cs148.github.io # the base hostname & protocol for your site
+baseurl: /w23  # the subpath of your site, e.g. "/blog"
+
+include:
+  - _pages
+exclude:
+  - .sass-cache
+  - Gemfile
+  - LICENSE
+  - .bundle
+
+course: "CS148"
+qtr: "W23"
+qxx: "W23"
+quarter: "Winter 2023"
+piazza_url: none
+gauchospace_course_page: https://ucsb.instructure.com/courses/3302
+github_org_name: ucsb-cs148-w23
+github_org_url: https://github.com/ucsb-cs148-w23
+slack_url: https://ucsb-cs148-w23.slack.com
+
+ta_list: "Vivian Ross, Avishek De"
+ta_list_full: "Vivian Ross, Avishek De"
+mentors_list: "Justin Vo, Mateo Wang, TBA"
+
+github_url: https://github.com/ucsb-cs148/w23
+mentor_url: https://ucsb-cs148-holl-mentors.github.io
+
+on_campus: http://proquest.safaribooksonline.com
+off_campus: http://proquest.safaribooksonline.com.proxy.library.ucsb.edu:2048
+hfj_url: book/programming/java/0596009208
+hfdp_url: book/software-engineering-and-development/patterns/0596007124 
+
+submit_cs_course: TBD
+
+start_week: 1
+start_date: 2023-01-10
+num_weeks: 10
+extra_exam_week: true
+sections: "12pm, 1pm, 2pm"
+
+cal_dates: >
+  [
+    {"label":"W23 1st day of instruction", "date":"2023-01-09" },	
+    {"label":"Univ Holiday: Martin Luther King Jr. Day", "date":"2023-01-16" },
+    {"label":"Univ Holiday: Presidents' Day", "date":"2023-02-20" },
+    {"label":"W23 instruction ends", "date":"2023-03-17" },
+    {"label":"W23 finals start", "date":"2023-03-18" },
+    {"label":"W23 finals end", "date":"2023-03-24" },
+    {"label":"W23 qtr ends", "date":"2023-03-24" }
+  ]
+
+
+
+hwk_drop_lowest: three
+
+
+kramdown:
+   parse_block_html: false
+
+
+exclude:
+   - vendor
+
+timezone: America/Los_Angeles
+
+collections:
+  hwk:
+    output: true
+    permalink: /hwk/:path/
+    last_before: false
+  lab:
+    output: true
+    permalink: /lab/:path/
+    last_before: false
+  project:
+    output: true
+    permalink: /project/:path/
+    last_before: false
+  exam:
+    output: true
+    permalink: /exam/:path/
+  info:
+    output: true
+    permalink: /info/:path/
+  lectures:
+    output: true
+    permalink: /lectures/:path/
+  staff:
+    output: true
+    permalink: /staff/:path
+  admin:
+    output: true
+    permalink: /admin/:path
+
+
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: default
+  - 
+    scope:
+      path: ""
+      type: lectures
+    values:
+      layout: lecture
+  - 
+    scope:
+      path: ""
+      type: hwk
+    values:
+      layout: hwk
+  - 
+    scope:
+      path: ""
+      type: lab
+    values:
+      layout: lab
+  - 
+    scope:
+      path: ""
+      type: project
+    values:
+      layout: lab
+  - 
+    scope:
+      path: ""
+      type: exam
+    values:
+      layout: exam_info
+  - 
+    scope:
+      path: ""
+      type: info
+    values:
+      layout: info
+  -
+    scope:
+      path: "syllabus.md"
+      type: info
+    values:
+      layout: handout
+  -
+    scope:
+     path: ""
+     type: staff
+    values:
+     layout: staff
+  -
+    scope:
+     path: ""
+     type: admin
+    values:
+     layout: default
+
+  - scope:
+     path: ""
+     type: pages
+    values:
+     layout: default
+
+head_scripts:
+   - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML
