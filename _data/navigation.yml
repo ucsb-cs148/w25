@@ -84,7 +84,7 @@ offering_menus:
            - title: ucsb-cs148-w23
              url: https://github.com/ucsb-cs148-w23
 
--
+  -
     term: F21
     baseurl: /f21
     items:
@@ -185,6 +185,5 @@ offering_menus:
         dropdown:
            - title: ucsb-cs148-s21
              url: https://github.com/ucsb-cs148-s21
-             
              
     
