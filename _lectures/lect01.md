@@ -1,8 +1,8 @@
 ---
 desc: Project Team Formation
-lecture_date: 2021-09-27 14:00
-num: lect00
-ready: true
+lecture_date: 2023-01-12 15:30
+num: lect01
+ready: false
 
 ---
 
