@@ -8,7 +8,7 @@ ready: true
 
 # Announcements
 
-* *** Class today was canceled due to the aftermath of rain and flooding ***  
+* **Class today was canceled due to the aftermath of rain and flooding**  
 
   Please go over these materials :
 
