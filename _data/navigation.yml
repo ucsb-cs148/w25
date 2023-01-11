@@ -70,15 +70,15 @@ offering_menus:
              url: /staff/
       - title: Links
         dropdown:	 
-           - title: Gauchospace
-             url: https://gauchospace.ucsb.edu
+           - title: Canvas
+             url: https://ucsb.instructure.com/
              description: "Overall Grade Information"
            - title: GradeScope
              url: https://gradescope.com
-             description: "HW and Lab Grades"
-           - title: Piazza
-             url: https://piazza.com
-             description: "Q&A Forum"
+             description: "HW submission"
+           - title: Slack
+             url: https://slack.com
+             description: "Q&A Forum, find invitation link on Canvas!"
       - title: Github
         dropdown:
            - title: ucsb-cs148-w23
