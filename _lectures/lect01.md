@@ -57,14 +57,14 @@ For the top-rated submitted project ideas, we will follow this protocol:
 * Instructor asks which students that can make that Section are interested in that project.
 * We will announce a URL to a Google Spreadsheet in which team members can self-enter.
 
-If there are exactly 4, 5 or 6 hands (including the submitter), those students immediately form a team. 
+If there are exactly 5, 6 or 7 hands (including the submitter), those students immediately form a team. 
 * We create a Slack channel for that team. 
 
-If there were 7 or more hands:
+If there were 8 or more hands:
 * The project is viable, but set aside for now; placed into a pile of "viable projects to return to later".
 
-If 3 or fewer hands:
-* Proceed to instructions for "If forming a team including the submitter fails" below:
+If 4 or fewer hands:
+* The project is set aside for now; placed into a pile of "potential projects to return to later".
 
 ## If forming a team including the submitter fails
 
