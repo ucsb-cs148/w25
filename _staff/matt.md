@@ -1,6 +1,6 @@
 ---
 name: Matthew Nguyen
-role: Learning Assistant
+role: Undergraduate Learning Assistant
 img: matt.jpg
 img100w: matt_100w.jpg
 bio: >
