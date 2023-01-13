@@ -4,7 +4,7 @@ desc: Getting Started
 due: 2023-01-20 23:59
 layout: lab
 num: lab01
-ready: false
+ready: true
 signup_app: https://ucsb-cs-github-linker.herokuapp.com/
 slack_url: https://ucsb-cs148-w23.slack.com
 github_org_name: ucsb-cs148-w23
