@@ -47,10 +47,10 @@ Seating charts are here:
 
 | Row | 12pm | 1pm | 2pm |
 |-----|-----|-----|-----|
-|1 | **t01-cookbook-social** (Vivian/Justin) | **t07-study-group** (Avishek/Tobias) | **t09-music-recommendation** (Matteo/Matthew) |
-|2 | **t02-schedule-planner** (Matthew/Tobias) | **t08-buddy-up** (Matteo/Vivian) | **t10-meal-prep-planner** (Avishek/Justin) |
+|1 | **t01-cookbook-social** (Vivian/Justin) | **t07-study-group** (Avishek/Tobias) | **t09-music-recommendation** (Mateo/Matthew) |
+|2 | **t02-schedule-planner** (Matthew/Tobias) | **t08-buddy-up** (Mateo/Vivian) | **t10-meal-prep-planner** (Avishek/Justin) |
 |3 | **t03-cheapskate** (Avishek/Vivian) | **t04-solar-system** (Justin/Matthew) | **t11-tbd** (Tobias/Vivian) |
-|4 | **t05-telekinetic-game** (Matteo/Avishek) | **t06-fitness-nutrition-tracker** (Vivian/Avishek) | |
+|4 | **t05-telekinetic-game** (Mateo/Avishek) | **t06-fitness-nutrition-tracker** (Vivian/Avishek) | |
 {:.table .table-sm .table-striped .table-bordered}
 
 And please check in with any team members who are not in the classroom via your team channel in Slack right away! 
