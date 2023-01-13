@@ -45,13 +45,12 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 Seating charts are here:
 
-| Row | 11am | 12pm |
-|-----|-----|-----|
-|1 | **t01-sbrideshare** (Vincent, Alan)     &     **t02-clubrush** (Nagarjun, Kaiwen/Tobias) | **t06-campusmaps** (Alan, Hunter/Tobias) |
-|2 | **t07-musictaste** (Alan, Nagarjun)	     | **t09-studygroup** (Nagarjun, Hunter/Tobias) |
-|3 | **t03-fitnessguru** (Bryan, Hunter/Tobias) | **t10-animelist** (Bryan, Kaiwen/Tobias) |
-|Round Table Window |  **t08-servedup** (Tobias/Hunter, Bryan)| **t11-typingtest** (Tobias/Kaiwen, Vincent)	| 
-|Round Table Door | **t05-recipefinder** (Vincent, Alan)| **t04-youtubevoice** (Bryan, Nagarjun) |
+| Row | 12pm | 1pm | 2pm |
+|-----|-----|-----|-----|
+|1 | **t01-cookbook-social** (Vivian/Justin) | **t07-study-group** (Avishek/Tobias) | **t09-music-recommendation** (Mateo/Matthew) |
+|2 | **t02-schedule-planner** (Matthew/Tobias) | **t08-buddy-up** (Mateo/Vivian) | **t10-meal-prep-planner** (Avishek/Justin) |
+|3 | **t03-cheapskate** (Avishek/Vivian) | **t04-solar-system** (Justin/Matthew) | **t11-tbd** (Tobias/Vivian) |
+|4 | **t05-telekinetic-game** (Mateo/Avishek) | **t06-fitness-nutrition-tracker** (Vivian/Avishek) | |
 {:.table .table-sm .table-striped .table-bordered}
 
 And please check in with any team members who are not in the classroom via your team channel in Slack right away! 
@@ -82,7 +81,7 @@ The components of this grade are listed below. These points cover the basic func
 
 **Graded (lab01-T)**: (20 pts) (lab01-T) is your Team grade for lab01.  As part of this grade, each team member should have contributed to a hello world assignment as an individual or as part of a group by the due date/time of this lab, i.e.  ({{page.due |  date: "%a, %b %d at %l:%M%p"}})
 
-For teams of 5, this part of your grade is 6 points per team member. For teams of 4, it is 7.5 points.  Those points are all or nothing; if you've made a reasonable attempt, even if you didn't earn 100% on lab01, your team will earn 6 or 7.5 points for your contribution towards the whole.
+For teams of 4, this part of your grade is 7.5 points per team member. For teams of 7, it is 4.28 points.  Those points are all or nothing; if you've made a reasonable attempt, even if you didn't earn 100% on lab01, your team will earn 7.5 or 4.28 points for your contribution towards the whole.
 
 This component of your team grade is designed to encourage each team member to reach out to all the other members of the team, and be aware of the progress they are making towards the goal of having every team member complete a hello world assignment as an individual or as part of a pair. The most important learning goal of the course is to learn to work as a team, supporting one another.
 
@@ -366,7 +365,7 @@ The components of this grade are listed below. These points cover the basic func
 
 **Graded (lab01-T)**: (30) (lab01-T) is your Team grade for lab01.  As part of this grade, each team member should have contributed to a hello world assignment as an individual or as part of a group by the due date/time of this lab, i.e.  ({{page.due |  date: "%a, %b %d at %l:%M%p"}})
 
-For teams of 5, this part of your grade is 6 points per team member. For teams of 4, it is 7.5 points.  Those points are all or nothing; if you've made a reasonable attempt, even if you didn't earn 100% on lab01, your team will earn 6 or 7.5 points for your contribution towards the whole.
+For teams of 4, this part of your grade is 7.5 points per team member. For teams of 7, it is 4.28 points.  Those points are all or nothing; if you've made a reasonable attempt, even if you didn't earn 100% on lab01, your team will earn 7.5 or 4.28 points for your contribution towards the whole.
 
 This component of your team grade is designed to encourage each team member to reach out to all the other members of the team, and be aware of the progress they are making towards the goal of having every team member complete a hello world assignment as an individual or as part of a pair. The most important learning goal of the course is to learn to work as a team, supporting one another.
 
