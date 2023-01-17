@@ -2,7 +2,7 @@
 desc: Project Team Formation
 lecture_date: 2023-01-12 15:30
 num: lect01
-ready: false
+ready: true
 
 ---
 
@@ -22,7 +22,7 @@ However, that exercise requires face-to-face interation and is done with index c
 # What you'll do next
 
 * We will announce the URL of the web app.
-* Please open that app, and login with your UCSB email address (name@ucsb.edu) - it's the email that is on the class roster (the default one you got messaged to from GauchoSpace).
+* Please open that app, and use the Google login with your UCSB email address (name@ucsb.edu) - it's the email that is on the class roster (the default one you got messaged to from Canvas, minus the "umail" part).
 * You should see that in the upper right hand corner, you have the role "student".
 * If so, it's working!
 * If not, pleasee flag a teaching team member, and we'll help you get set up. 
@@ -66,7 +66,7 @@ If there were 8 or more hands:
 If 4 or fewer hands:
 * The project is set aside for now; placed into a pile of "potential projects to return to later".
 
-## If forming a team including the submitter fails
+## If a team not formed by original submitter
 
 * Project is thrown open for bid to the entire class.
    * Ask everyone interested in working on the project to raise their hand.
