@@ -3,7 +3,7 @@ layout: exam_info
 num: project
 ready: false
 desc: "MVP Code Freeze and Release"
-exam_date: 2023-02-13 23:59
+exam_date: 2023-02-10 23:59
 ---
 
 
@@ -16,4 +16,4 @@ Please fill in a link to your deployment (or to your README deployment instructi
 This is the version of your code that will be featured in your MVP videos, which will be reviewed in class on Tuesday, February 14 
 
 # MVP Video
-MVP Video is due by end of tomorrow, Tuesday, 10/26/2021 (23:59:59): link to it in your GitHub repo in team/MVP_DEMO.md and enter it in [the team links spreadsheet](https://docs.google.com/spreadsheets/d/1dXhvtRPpwhPkopjN_JF59bV_RtqDguA2QaIEntIMFLk/edit) !
+MVP Video is due by end of Monday, 02/13/2023 (23:59:59): link to it in your GitHub repo in team/MVP_DEMO.md and enter it in [the team links spreadsheet](https://docs.google.com/spreadsheets/d/1dXhvtRPpwhPkopjN_JF59bV_RtqDguA2QaIEntIMFLk/edit) !
