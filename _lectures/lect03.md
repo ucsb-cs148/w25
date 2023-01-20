@@ -47,7 +47,7 @@ in the weeks ahead.
 * Retrospectives
 
 # Work in Project Groups: 
-* Daily Scrum (log a lec02.md document!)
+* Daily Scrum (log a lect03.md document!)
 * Further discussion on technologies
 * Work on lab01 deliverables 
 * Work on your README and team/AGREEMENTS.md from last class
