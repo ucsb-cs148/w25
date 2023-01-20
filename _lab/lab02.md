@@ -35,7 +35,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 lab02 is a team-based grade for several check points towards the MVP demo.
 
- * Make sure your README.md contains a paragraph about the tech stack you are planning to use, as well as mention user roles (see [this description](https://ucsb-cs148.github.io/f21/lab/lab02-addendum))
+ * Make sure your README.md contains a paragraph about the tech stack you are planning to use, as well as mention user roles (see [this description](https://ucsb-cs148.github.io/w23/lab/lab02-addendum))
  * Kanban board: 
     * There should be a Kanban board (a Github Project associated with your repo) for your team
     * That Kanban board should have a complete set of user stories on it, that, when complete, results in a minium viable product for
@@ -60,7 +60,7 @@ But doing it "after the fact" is better than not doing it at all; if nothing els
 
 **Graded (lab02-T)**: is your Team grade for {{page.num}}.  As part of this grade:
 
-* (20 pts) Your README.md file is updated with information about your technology stack and approach, as well as listing user roles (see [this description](https://ucsb-cs148.github.io/f21/lab/lab02-addendum))  
+* (20 pts) Your README.md file is updated with information about your technology stack and approach, as well as listing user roles (see [this description](https://ucsb-cs148.github.io/w23/lab/lab02-addendum))  
 * (10 pts) There should be at least one user story in the In-Progress or Done column for your team. If there is more than one in the In-Progress column at any given time, it is because the issues for the first one are insufficient to keep the team making progress, and it was necessary to bring over a second one to have enough issues to work on.
 * (10 pts) There should be at least one issue under each user story that supports implementing that user story.
 * (20 pts) Each user on the team should have been assigned to at least one issue in the in-progress column.   
@@ -117,8 +117,8 @@ Note, for full course credit, each of you needs to take a turn taking a leadersh
 **Graded ({{page.num}}-T)**: towards the team part of your grade for {{page.num}}.  
 
 This part of the team grade is for the mechanics of:
-* (10 pts) naming a retro leader for the [lect05](https://ucsb-cs148.github.io/f21/lectures/lect05/)) retro and record their name in your new LEADERSHIP.md file (described in [lect04](https://ucsb-cs148.github.io/f21/lectures/lect04/)). Also list there the leaders for previous and scheduled Sprint planning meetings, and other major coordination meetings. 
-* (10 pts) your LEARNING.md file (described in [lect04](https://ucsb-cs148.github.io/f21/lectures/lect04/)) is filled with information about your tech stack background and learning trajectory.  
+* (10 pts) naming a retro leader for the [lect05](https://ucsb-cs148.github.io/w23/lectures/lect05/)) retro and record their name in your new LEADERSHIP.md file (described in [lect04](https://ucsb-cs148.github.io/w23/lectures/lect04/)). Also list there the leaders for previous and scheduled Sprint planning meetings, and other major coordination meetings. 
+* (10 pts) your LEARNING.md file (described in [lect04](https://ucsb-cs148.github.io/w23/lectures/lect04/)) is filled with information about your tech stack background and learning trajectory.  
 </div>  
 
 # MVP Demo, due {{page.due_2_weeks}}
@@ -132,7 +132,7 @@ The [link on Gauchospace]({{page.gauchospace}}) is where you upload the link to 
 Links to videos will be shared with the class, but the class is asked not to share links to non-public videos (unlisted videos)
 with people other than enrolled students and course staff.
 
-Your video should be no longer than 5 minutes and should follow the instructions given in <https://ucsb-cs148.github.io/f21/lectures/lect12/>,
+Your video should be no longer than 5 minutes and should follow the instructions given in <https://ucsb-cs148.github.io/w23/lectures/lect12/>,
 which are repeated here:
 
 ## Demo of your production app
