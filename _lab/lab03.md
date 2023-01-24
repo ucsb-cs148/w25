@@ -34,9 +34,9 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 **Graded**: ({{page.num}}-T) (20 pts) You earn these team points based on the attendance/participation in your retrospective; 3.33 per team member for teams of 6, 2.86 per team member for teams of 7,  2.5 points per team member for teams of 8.
 
-**Graded**: ({{page.num}}-T) (20 pts) You earn these team points when the content in `team/retrospectives/RETRO_01.md` is updated per the instructions below.
+**Graded**: ({{page.num}}-T) (20 pts) You earn these team points if by the due date the content in `team/retrospectives/RETRO_01.md` is updated per the instructions below.
 
-**Graded**: ({{page.num}}-T) (10 pts) You earn these team points when you recorded the outcome of (one of) your Retro experiments in `team/retrospectives/RETRO_01.md` by the due date of the MVP. 
+**Graded**: ({{page.num}}-T) (10 pts) You earn these team points if by the due date you recorded the outcome of (one of) your Retro experiments in `team/retrospectives/RETRO_01.md`.
 
 **Graded**: ({{page.num}}-I) (20 pts) You earn these points for submitting feedback on overall team performance via a CATME.org form survey that you will get email invitations and reminders for.
 
