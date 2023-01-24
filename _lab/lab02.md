@@ -5,7 +5,7 @@ due: 2023-01-27 23:59
 due_2_weeks: 2023-02-03 23:59
 layout: lab
 num: lab02
-ready: false
+ready: true
 github_org: ucsb-cs148-w23
 ---
 
@@ -35,7 +35,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 lab02 is a team-based grade for several check points towards the MVP demo.
 
- * Make sure your README.md contains a paragraph about the tech stack you are planning to use, as well as mention user roles (see [this description](https://ucsb-cs148.github.io/f21/lab/lab02-addendum))
+ * Make sure your README.md contains a paragraph about the tech stack you are planning to use, as well as mention user roles (see [this description](https://ucsb-cs148.github.io/w23/lab/lab02-addendum))
  * Kanban board: 
     * There should be a Kanban board (a Github Project associated with your repo) for your team
     * That Kanban board should have a complete set of user stories on it, that, when complete, results in a minium viable product for
@@ -60,11 +60,11 @@ But doing it "after the fact" is better than not doing it at all; if nothing els
 
 **Graded (lab02-T)**: is your Team grade for {{page.num}}.  As part of this grade:
 
-* (20 pts) Your README.md file is updated with information about your technology stack and approach, as well as listing user roles (see [this description](https://ucsb-cs148.github.io/f21/lab/lab02-addendum))  
+* (20 pts) Your README.md file is updated with information about your technology stack and approach, as well as listing user roles (see [this description](https://ucsb-cs148.github.io/w23/lab/lab02-addendum))  
 * (10 pts) There should be at least one user story in the In-Progress or Done column for your team. If there is more than one in the In-Progress column at any given time, it is because the issues for the first one are insufficient to keep the team making progress, and it was necessary to bring over a second one to have enough issues to work on.
 * (10 pts) There should be at least one issue under each user story that supports implementing that user story.
 * (20 pts) Each user on the team should have been assigned to at least one issue in the in-progress column.   
-   For teams of 5, this part of your grade is 4 points per team member.  For teams of 4, it is 5 points per team member, for teams of 6 it is 3.17 points. 
+   For teams of 6, this part of your grade is 3.3 points per team member.  For teams of 7, it is 2.9 points per team member, for teams of 8 it is 2.5 points. 
 
 This component of your team grade is designed to encourage each team member to reach out to all the other members of the team, and be aware of the progress they are making towards the goal of having every team member be making a contribution to the project.  The most important learning goal of the course is to learn to work as a team, supporting one another.
 
@@ -117,56 +117,6 @@ Note, for full course credit, each of you needs to take a turn taking a leadersh
 **Graded ({{page.num}}-T)**: towards the team part of your grade for {{page.num}}.  
 
 This part of the team grade is for the mechanics of:
-* (10 pts) naming a retro leader for the [lect05](https://ucsb-cs148.github.io/f21/lectures/lect05/)) retro and record their name in your new LEADERSHIP.md file (described in [lect04](https://ucsb-cs148.github.io/f21/lectures/lect04/)). Also list there the leaders for previous and scheduled Sprint planning meetings, and other major coordination meetings. 
-* (10 pts) your LEARNING.md file (described in [lect04](https://ucsb-cs148.github.io/f21/lectures/lect04/)) is filled with information about your tech stack background and learning trajectory.  
-</div>  
-
-# MVP Demo, due {{page.due_2_weeks}}
-
-The YouTube video <https://youtu.be/k0Je8ASh4jo>
-explains how you can create an MVP demo video using Zoom and YouTube:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k0Je8ASh4jo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-The [link on Gauchospace]({{page.gauchospace}}) is where you upload the link to your demo when it is complete.   The video may be public, or "unlisted", as you see fit.
-Links to videos will be shared with the class, but the class is asked not to share links to non-public videos (unlisted videos)
-with people other than enrolled students and course staff.
-
-Your video should be no longer than 5 minutes and should follow the instructions given in <https://ucsb-cs148.github.io/f21/lectures/lect12/>,
-which are repeated here:
-
-## Demo of your production app
-
-Your demo should be from your production app (e.g. `prod` on Heroku), not from a version deployed on `localhost`.
-
-Students in the class, as well as Instructors/TAs/LAs should be able to visit your production link and try out the app after watching your video.
-
-So, make every effort to have your production version ready to go with a stable MVP for the deadline lab section.
-
-## Additional notes about the MVP demo
-
-1. **Features beyond MVP are fine**  Note that if you have moved your production version on master "beyond" your MVP, 
-   that's fine; as long as it contains all of the MVP functions.   If you are time restricted, you can focus the demo
-   just on the MVP features and "save" the rest for later.
-   
-2. **Broken `master` is a problem.  You can fix with a `temp-prod` branch**.   
-   If your `master` branch is currently "broken" in 
-   some way that makes it impossible to do a decent demo from your `prod` Heroku app, then here's a quick fix:
-   
-   - (a) find an earlier commit that isn't broken 
-   - (b) give that commit a branch name `temp-prod` for example 
-     - use: `git checkout -b temp-prod` 
-     - then `git reset --hard a1b2c3d4` where `a1b2c3d4` 
-       is the sha of the commit that's good; 
-     - then `git push origin temp-prod -f` 
-   - (c) redeploy your prod app using `temp-prod` instead of the master branch.
-   
-   If you do this, please disclose that you are demoing from `temp-prod` and not master in your lab02 submission 
-   so that we aren't confused when evaluating your MVP.  
-   
-   It's not ideal, but it won't be a major deduction.  It's better than demoing a broken `master` branch.
-   
-3. **A demo from `localhost` is better than nothing, but isn't really an MVP demo**.   If you absolutely 
-   *cannot* do a meaningful demo from your production app, then you may demo from `localhost` as a last resort, rather
-   than offering no demo at all.   However, that will result in a lower grade; 
-   a localhost app isn't really "viable" in the sense that you can't put it in the hands of customers.   
+* (10 pts) naming a retro leader for the [lect05](https://ucsb-cs148.github.io/w23/lectures/lect05/)) retro and record their name in your new LEADERSHIP.md file (described in [lect04](https://ucsb-cs148.github.io/w23/lectures/lect04/)). Also list there the leaders for previous and scheduled Sprint planning meetings, and other major coordination meetings. 
+* (10 pts) your LEARNING.md file (described in [lect04](https://ucsb-cs148.github.io/w23/lectures/lect04/)) is filled with information about your tech stack background and learning trajectory.  
+</div>
