@@ -163,4 +163,4 @@ team relations and team productivity. :-)
 * Standup
 * If not done yet: Sprint planning for MVP! 
 * Practice branches and pull requests (PR)
-* Work towards MVP code freeze a week from today. See also [lab03](https://ucsb-cs148.github.io/f21/lab/lab03/)
+* Work towards MVP code freeze two weeks from tomorrow. See also [lab05](https://ucsb-cs148.github.io/w23/lab/lab05/)
