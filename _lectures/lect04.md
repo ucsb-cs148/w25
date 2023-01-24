@@ -7,7 +7,7 @@ ready: true
 
 
 Announcements:  
-* H03 (Retrospectives) due today. New [h04](https://ucsb-cs148.github.io/f21/hwk/h04/)(Agile Basics 3/3) posted, due on Thursday.  
+* H03 (Retrospectives) due today. New [h04](https://ucsb-cs148.github.io/w23/hwk/h04/)(Agile Basics 3/3) posted, due on Thursday.  
 * Work on lab02
 * Sprint Planning! 
 
