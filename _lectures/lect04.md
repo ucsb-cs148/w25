@@ -61,7 +61,7 @@ Part of your [lab02](https://ucsb-cs148.github.io/w23/lab/lab02/) deliverables i
 
 The format of the learning plan is up to the team, as long as it includes the following:
 
-* An brief assessment of the team's existing strengths
+* A brief assessment of the team's existing strengths
   - Are there folks on your team that already have skills in one more important areas?
   - Can these folks help to onboard and train some of the other team members?
   - Can you "stategically pair"
