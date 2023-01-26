@@ -8,7 +8,7 @@ ready: true
 
 Announcements:  
 * H03 (Retrospectives) due today. New [h04](https://ucsb-cs148.github.io/w23/hwk/h04/)(Agile Basics 3/3) posted, due on Thursday.  
-* Work on lab02
+* Work on [lab02](https://ucsb-cs148.github.io/w23/lab/lab02/)
 * Sprint Planning! 
 
 # Today
@@ -123,14 +123,14 @@ Note that:
 * Flask, Django, or FastAPI are all mentioned in [this article](https://dev.to/theme_selection/the-best-python-web-frameworks-d2d)
 
 ## Databases
-* MongoDB
-* Firebase
+* [MongoDB](https://www.mongodb.com/docs/)
+* [Firebase](https://firebase.google.com/learn)
 
 ## Mobile (Phone/Tablet) Development 
-* ReactNative
-* Flutter       
-* Native IOS in Swift
-* Native Android Development in Kotlin and Jetpack Compose
+* [ReactNative](https://reactnative.dev/)
+* [Flutter](https://flutter.dev/)       
+* [Native IOS in Swift](https://developer.apple.com/swift/resources/)
+* [Native Android Development in Kotlin and Jetpack Compose](https://developer.android.com/kotlin)
 
 ## Project Specific APIs, data sources, etc.
 
