@@ -6,7 +6,7 @@ ready: true
 ---
  
 # Announcements
-* [h05](https://ucsb-cs148.github.io/w23/hwk/h05/) is due on Tuesday. 
+* [h05](https://ucsb-cs148.github.io/w23/hwk/h05/) (More on Agile: Manifesto and 12 principles) is due on Tuesday. 
 * We have listed advice from previous generations of CS148 students in the #lessons_learned channel in Slack. 
 * Tomorrow, during Section, you will go do a [Retrospective](https://ucsb-cs148.github.io/topics/retros/) meeting, as discussed in [h03](https://ucsb-cs148.github.io/w23/hwk/h05/).
 
