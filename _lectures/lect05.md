@@ -11,13 +11,13 @@ ready: true
 * Tomorrow, during Section, you will go do a [Retrospective](https://ucsb-cs148.github.io/topics/retros/) meeting, as discussed in [h03](https://ucsb-cs148.github.io/w23/hwk/h05/).
 
 # Scrum Concepts  
-## Sprint Review 
+### Sprint Review 
   The public end of the sprint; invite any and all stakeholders to this meeting. It’s the team’s chance to show off its accomplishments, the stories that have met the team’s definition of done. This is also the mentors’ opportunity to see how the product has been incrementally improved over the course of the sprint.
 
-## Sprint Planning
+### Sprint Planning
 * [Sprint Planning](https://www.agilealliance.org/glossary/sprint-planning), can be combined with [Story Time](https://switchingtoscrum.wordpress.com/2012/11/28/what-are-story-time-meetings-for/)...
 
-## Continuous Integration / Continuous Delivery (CI/CD) 
+### Continuous Integration / Continuous Delivery (CI/CD) 
 
 * **Continuous Delivery**: Software development process that aims to build software that is *always* ready to be deployed into production
 * **Continuous Integration**: Technique where every developer on a project should integrate their work daily with every other developer
