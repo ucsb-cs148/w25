@@ -2,11 +2,13 @@
 desc: "Production pipeline. Feature-branch/pull request workflow"
 lecture_date: 2023-01-26
 num: lect05
-ready: false
+ready: true
 ---
  
 # Announcements
-* h05 is due on Tuesday. 
+* [h05](https://ucsb-cs148.github.io/w23/hwk/h05/) is due on Tuesday. 
+* We have listed advice from previous generations of CS148 students in the #lessons_learned channel in Slack. 
+* Tomorrow, during Section, you will go do a [Retrospective](https://ucsb-cs148.github.io/topics/retros/) meeting, as discussed in [h03](https://ucsb-cs148.github.io/w23/hwk/h05/).
 
 # Sprint Review 
   The public end of the sprint; invite any and all stakeholders to this meeting. It’s the team’s chance to show off its accomplishments, the stories that have met the team’s definition of done. This is also the mentors’ opportunity to see how the product has been incrementally improved over the course of the sprint.
@@ -161,6 +163,6 @@ team relations and team productivity. :-)
 # Today:
 
 * Standup
-* If not done yet: Sprint planning for MVP! 
+* Work on your Sprint (perhaps do a Sprint Review - invite a mentor to it!)
 * Practice branches and pull requests (PR)
-* Work towards MVP code freeze two weeks from tomorrow. See also [lab05](https://ucsb-cs148.github.io/w23/lab/lab05/)
+* Work towards MVP code freeze and presentations two weeks from tomorrow. See also [lab05](https://ucsb-cs148.github.io/w23/lab/lab05/)
