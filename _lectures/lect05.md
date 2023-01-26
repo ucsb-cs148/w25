@@ -166,4 +166,4 @@ team relations and team productivity. :-)
 * Standup
 * Work on your Sprint (perhaps do a Sprint Review - invite a mentor to it!)
 * Practice branches and pull requests (PR)
-* Work towards MVP code freeze and presentations two weeks from tomorrow. See also [lab05](https://ucsb-cs148.github.io/w23/lab/lab05/)
+* Work towards MVP code freeze and presentations (happening two weeks from now). See also [lab05](https://ucsb-cs148.github.io/w23/lab/lab05/)
