@@ -52,9 +52,8 @@ You may or may not have done an official `Sprint Review` meeting yet. In a way, 
 
 # Today: Retrospective
 
-* We'll put you in breakout groups.
-* When you are finished with the Retrospective, you are free to coordinate further as a group towards your MVP, or just leave.
-  * No need to come back to main room, unless you have questions 
+* As always, you group into teamwork. You know from your homework, from [the Retro entry in Topics](https://ucsb-cs148.github.io/topics/retros/) and from page 33 in the [Scrum booklet](https://ucsb-cs148.github.io/w23/hwk/h05/) how to do hold a retrospective meeting. Now do it. You get points for the deliverables listed on this page. 
+* When you are finished with the Retrospective, you are free to coordinate further as a group towards your MVP. Help each other with pointers on technologies you are experimenting with!  
 * Staff will be dropping in to observe.
 
 # Deliverable  
