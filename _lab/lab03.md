@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab03
-ready: false
+ready: true
 desc: "First Retro and MVP Preparation"
 assigned: 2023-01-27 12:00
 due: 2023-02-03 23:59
@@ -189,12 +189,12 @@ So, make every effort to have your production version ready to go with a stable 
 
 ## Additional notes about the MVP demo
 
-1. **Features beyond MVP are fine**  Note that if you have moved your production version on master "beyond" your MVP, 
+1. **Features beyond MVP are fine**  Note that if you have moved your production version on main "beyond" your MVP, 
    that's fine; as long as it contains all of the MVP functions.   If you are time restricted, you can focus the demo
    just on the MVP features and "save" the rest for later.
    
-2. **Broken `master` is a problem.  You can fix with a `temp-prod` branch**.   
-   If your `master` branch is currently "broken" in 
+2. **Broken `main` is a problem.  You can fix with a `temp-prod` branch**.   
+   If your `main` branch is currently "broken" in 
    some way that makes it impossible to do a decent demo from your `prod` Heroku app, then here's a quick fix:
    
    - (a) find an earlier commit that isn't broken 
@@ -203,12 +203,12 @@ So, make every effort to have your production version ready to go with a stable 
      - then `git reset --hard a1b2c3d4` where `a1b2c3d4` 
        is the sha of the commit that's good; 
      - then `git push origin temp-prod -f` 
-   - (c) redeploy your prod app using `temp-prod` instead of the master branch.
+   - (c) redeploy your prod app using `temp-prod` instead of the main branch.
    
-   If you do this, please disclose that you are demoing from `temp-prod` and not master in your lab02 submission 
+   If you do this, please disclose that you are demoing from `temp-prod` and not main in your lab02 submission 
    so that we aren't confused when evaluating your MVP.  
    
-   It's not ideal, but it won't be a major deduction.  It's better than demoing a broken `master` branch.
+   It's not ideal, but it won't be a major deduction.  It's better than demoing a broken `main` branch.
    
 3. **A demo from `localhost` is better than nothing, but isn't really an MVP demo**.   If you absolutely 
    *cannot* do a meaningful demo from your production app, then you may demo from `localhost` as a last resort, rather
