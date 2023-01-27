@@ -5,6 +5,7 @@ ready: false
 desc: "First Retro and MVP Preparation"
 assigned: 2023-01-27 12:00
 due: 2023-02-03 23:59
+due_2_weeks: 2023-02-09 23:59
 github_org: "ucsb-cs148-w23"
 ---
 
@@ -102,7 +103,7 @@ You may or may not have done an official `Sprint Review` meeting yet. In a way, 
 
 * Plan an up-to-five minute presentation video
 * Please prepare a max. 5 minute YouTube video (unlisted or public, your choice)
-  - See the bottom of the [lab02](https://ucsb-cs148.github.io/f21/lab/lab02/) description for information about creating your MVP video.
+  - See the [bottom of this page](#mvp-demo-due-pagedue_2_weeks) for information about creating your MVP video.
   - Links to videos will be made available to (some of) the class for peer review, but will not be made public
 * Present to an audience of **potential users**
   - Not to an audience of CS148 students, or the instructor or TAs.
@@ -165,3 +166,52 @@ In lab05 in two weeks' time you'll be asked to evaluate other teams' presentatio
 > We recommend using the MIT license: <https://choosealicense.com/licenses/mit/>"
 > 
 
+# MVP Demo, due {{page.due_2_weeks}}
+
+The YouTube video <https://youtu.be/k0Je8ASh4jo>
+explains how you can create an MVP demo video using Zoom and YouTube:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k0Je8ASh4jo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The [link on Gauchospace]({{page.gauchospace}}) is where you upload the link to your demo when it is complete.   The video may be public, or "unlisted", as you see fit.
+Links to videos will be shared with the class, but the class is asked not to share links to non-public videos (unlisted videos)
+with people other than enrolled students and course staff.
+
+Your video should be no longer than 5 minutes and should follow the instructions given in <https://ucsb-cs148.github.io/f21/lectures/lect12/>,
+which are repeated here:
+
+## Demo of your production app
+
+Your demo should be from your production app (e.g. `prod` on Heroku), not from a version deployed on `localhost`.
+
+Students in the class, as well as Instructors/TAs/LAs should be able to visit your production link and try out the app after watching your video.
+
+So, make every effort to have your production version ready to go with a stable MVP for the deadline lab section.
+
+## Additional notes about the MVP demo
+
+1. **Features beyond MVP are fine**  Note that if you have moved your production version on master "beyond" your MVP, 
+   that's fine; as long as it contains all of the MVP functions.   If you are time restricted, you can focus the demo
+   just on the MVP features and "save" the rest for later.
+   
+2. **Broken `master` is a problem.  You can fix with a `temp-prod` branch**.   
+   If your `master` branch is currently "broken" in 
+   some way that makes it impossible to do a decent demo from your `prod` Heroku app, then here's a quick fix:
+   
+   - (a) find an earlier commit that isn't broken 
+   - (b) give that commit a branch name `temp-prod` for example 
+     - use: `git checkout -b temp-prod` 
+     - then `git reset --hard a1b2c3d4` where `a1b2c3d4` 
+       is the sha of the commit that's good; 
+     - then `git push origin temp-prod -f` 
+   - (c) redeploy your prod app using `temp-prod` instead of the master branch.
+   
+   If you do this, please disclose that you are demoing from `temp-prod` and not master in your lab02 submission 
+   so that we aren't confused when evaluating your MVP.  
+   
+   It's not ideal, but it won't be a major deduction.  It's better than demoing a broken `master` branch.
+   
+3. **A demo from `localhost` is better than nothing, but isn't really an MVP demo**.   If you absolutely 
+   *cannot* do a meaningful demo from your production app, then you may demo from `localhost` as a last resort, rather
+   than offering no demo at all.   However, that will result in a lower grade; 
+   a localhost app isn't really "viable" in the sense that you can't put it in the hands of customers.   
