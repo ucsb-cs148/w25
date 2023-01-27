@@ -24,10 +24,10 @@ ready: true
 
 # Feature Branch / Pull Request Workflow
 
-When making a change to your team's repo, you should typically NOT be making changes on the `master` branch
+When making a change to your team's repo, you should typically NOT be making changes on the `main` branch
 
-* At many companies, the `master` branch is a "protected" branch.
-* There is "process and ceremony" around when/where changes to `master` are pushed.
+* At many companies, the `main` branch is a "protected" branch.
+* There is "process and ceremony" around when/where changes to `main` are pushed.
   * Certain things may have to be done first (code reviews, testing, etc.)
   * Sometimes only certain members of the team do it
  
@@ -63,11 +63,11 @@ on the Kanban board.
 
 ## Ok, got an issue.  How do you make a feature branch?
 
-Like this.  Always start with a fresh copy of master:
+Like this.  Always start with a fresh copy of main:
 
 ```
-git checkout master
-git pull origin master
+git checkout main
+git pull origin main
 git checkout -b thAddMenuItem
 ```
 
@@ -82,21 +82,21 @@ The important thing is to have one.
 
 ## Working on a feature branch
 
-You may need, periodically, to push your changes to GitHub.  Use the branch name in place of `master`:
+You may need, periodically, to push your changes to GitHub.  Use the branch name in place of `main`:
 
 * `git push origin thAddMenuItem` 
 
 
-## Rebasing on master
+## Rebasing on main
 
-You may need, from time to time, to rebase your branch on master.
+You may need, from time to time, to rebase your branch on main.
 
-This is to say, replay all of the changes on your branch on top of a *fresh* copy of master.
+This is to say, replay all of the changes on your branch on top of a *fresh* copy of main.
 
 To do this, type:
 
 ```
-git pull --rebase origin master
+git pull --rebase origin main
 ```
 
 You may have merge conflicts.  If so, you may find that you have to resolve these merge conflicts *one commit at a time*.
@@ -116,7 +116,7 @@ But if you stay focused, you can get through it:
 Eventually, you'll have a new version of your branch, at which point you'll want to:
 
 * test to make sure that everything still works.
-* then "force push" to update GitHub with the new branch history for your branch (your changes "rebased" on the newest version of `master`).
+* then "force push" to update GitHub with the new branch history for your branch (your changes "rebased" on the newest version of `main`).
 
 ```
 git push --force origin thAddMenuItem
@@ -125,7 +125,7 @@ git push --force origin thAddMenuItem
 
 When you create a pull request, which you can easily do through the github web interface, you have to select a *base* branch and a *compare* branch.
 
-* The "base" branch is typically `master`; it's where the "old code" lives
+* The "base" branch is typically `main`; it's where the "old code" lives
 * The "compare" branch is typically your feature branch; it's where the "new code" lives.
 
 You are requesting that the admins of the repo pull commits from the compare branch into the base branch.
