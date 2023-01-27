@@ -173,12 +173,11 @@ explains how you can create an MVP demo video using Zoom and YouTube:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k0Je8ASh4jo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The [link on Gauchospace]({{page.gauchospace}}) is where you upload the link to your demo when it is complete.   The video may be public, or "unlisted", as you see fit.
+[This page](https://ucsb-cs148.github.io/w23/exam/mvp_code_freeze_and_release/) tells you how to document and list the link to your demo when it is complete.   The video may be public, or "unlisted", as you see fit.
 Links to videos will be shared with the class, but the class is asked not to share links to non-public videos (unlisted videos)
 with people other than enrolled students and course staff.
 
-Your video should be no longer than 5 minutes and should follow the instructions given in <https://ucsb-cs148.github.io/f21/lectures/lect12/>,
-which are repeated here:
+Your video should be no longer than 5 minutes and should follow these instructions:
 
 ## Demo of your production app
 
