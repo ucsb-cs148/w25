@@ -8,7 +8,6 @@ ready: true
 # Announcements
 * h06 is due **a week from today**. Focus on your MVP over the next 9 days!  
 * catme.org peer reviews are due Friday night with the rest of [lab03](https://ucsb-cs148.github.io/w23/lab/lab03/). Please use your umail.ucsb.edu email to log on. You get 20 lab03 points for it, so please don't miss it! **Let us know if you didn't get an email (to your umail account!) earlier today**
-* 
 
 # MVP Presentations
 * MVP demonstrations will be video demos, peer-evaluated Section by Section during [lab05](https://ucsb-cs148.github.io/w23/lab/lab05/)
