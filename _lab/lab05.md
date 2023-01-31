@@ -8,11 +8,11 @@ ready: false
 # Announcements
 * Today: 
   * MVP video demonstrations with peer eval 
-  * Voting for top three favorite MVPs
+  * Voting for favorite MVPs from your Section
   * Celebration of our progress
 
-* Lab04:
-  * You get points toward this week's Lab (lab04) from today's activities, and for the rest of the lab04 period you will work on continued functionality and doing some unit testing towards test-based design! 
+* Lab05:
+  * You get points from today's activities, and for the rest of the lab05 period you will work on continued functionality and doing some unit testing towards test-based design! 
 
 * Upcoming: 
   * Sprint Review and Planning Meeting 
