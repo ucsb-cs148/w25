@@ -26,13 +26,13 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 </div>
 
 
-# Finalize MVP Materials ([lab03](https://ucsb-cs148.github.io/f21/lab/lab03) requirements) 
+# Finalize MVP Materials ([lab03](https://ucsb-cs148.github.io/w23/lab/lab03) requirements) 
 
 ## Finalizing your demo (MVP video)
 
 * Plan a five minute presentation video
 * Please prepare a 5 minute YouTube video (unlisted or public, your choice)
-  - See the bottom of the [lab02](https://ucsb-cs148.github.io/f21/lab/lab02/) description for information about creating your MVP video.
+  - See the bottom of the [lab03](https://ucsb-cs148.github.io/w23/lab/lab03/) description for information about creating your MVP video.
   - Links to videos will be made available to the class for peer review, but will not be made public
 * Present to an audience of **potential users**
   - Not to an audience of CS148 students, or the instructor or TAs.
