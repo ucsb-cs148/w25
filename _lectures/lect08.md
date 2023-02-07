@@ -6,7 +6,7 @@ ready: true
 ---
 
 # Announcements
-* h07 on testing is due **next** Tuesday. Focus on your MVP this week!  
+* [h07 on testing](https://ucsb-cs148.github.io/w23/hwk/h07.md) is due **next** Tuesday. Focus on your MVP this week!  
 * CATME.org team peer reviews released. Discuss if there is need for discussion! 
 * MVP code freeze in two days: Thu, 02/09/23: [Minimum Viable Product](https://en.wikipedia.org/wiki/Minimum_viable_product)
 * MVP demonstrations with quick peer MVP eval this Friday, 02/10/23 [lab05](https://ucsb-cs148.github.io/w23/lab/lab05/)
