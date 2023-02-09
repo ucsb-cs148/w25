@@ -2,7 +2,7 @@
 layout: lab
 num: lab04
 ready: true
-desc: "MVP Demos"
+desc: "MVP Demos, Unit Testing"
 assigned: 2023-02-10 12:00
 due: 2023-02-17 23:59
 github_org: "ucsb-cs148-w23"
