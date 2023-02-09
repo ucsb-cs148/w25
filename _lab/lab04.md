@@ -2,7 +2,7 @@
 layout: lab
 num: lab04
 ready: true
-desc: "MVP Release, MVP Review, Testing"
+desc: "MVP Release, MVP Review, Acceptance Tests"
 assigned: 2023-02-03 12:00
 due: 2023-02-10 23:59
 github_org: "ucsb-cs148-w23"
