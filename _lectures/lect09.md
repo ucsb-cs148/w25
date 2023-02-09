@@ -2,7 +2,7 @@
 desc: "Overview: Software Testing"
 lecture_date: 2023-02-09
 num: lect09
-ready: false
+ready: true
 ---
 
 
