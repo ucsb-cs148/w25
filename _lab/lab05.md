@@ -1,9 +1,31 @@
 ---
+layout: lab
+num: lab04
+ready: true
 desc: "MVP Demos"
-lecture_date: 2023-02-10
-num: lab05
+assigned: 2023-02-10 12:00
+due: 2023-02-17 23:59
+github_org: "ucsb-cs148-w23"
 ready: false
 ---
+
+<style>
+div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color: #efe; }   
+</style>
+
+<div style="float:right; width: auto;">
+
+<table style="margin-top:1em;">
+<tr>
+   <th>Points</th>
+</tr>
+<tr>
+   <td class="pointCount"></td>
+</tr>
+</table>
+
+</div>
+
 
 # Announcements
 * Today: 
