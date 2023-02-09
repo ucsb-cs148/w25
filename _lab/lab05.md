@@ -28,12 +28,10 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 
 # Announcements
-* Today: 
+* Today (part of lab04): 
   * MVP video demonstrations with peer eval 
   * Voting for favorite MVPs from your Section
   * Celebration of our progress
-
-* Lab04:
   * You get points from today's activities to finish up the [lab04 deliverables](https://ucsb-cs148.github.io/w23/lab/lab04/) 
   
 * Lab05: Over the following week you will continue MVP peer evaluation on Tuesday, work on continued functionality development, and do some unit testing towards test-based design! 
@@ -89,12 +87,12 @@ We want to **celebrate** with you on how far you have already come - We are real
 
 <div class="grade" markdown="1">
 
-**Graded**: ({{page.num}}-T) (30 pts) For Reviewer report in `_REVIEWS` repo of the partner team (not your own team's repo).
-Report should contain all items indicated above.
+**Graded**: ({{page.num}}-T) (35 pts) For Reviewer report in `_REVIEWS` repo of the partner team (not your own team's repo).
+Report should be created during and after [Lecture 10](https://ucsb-cs48.github.io/w23/lect/lect10/)and should contain all items indicated on the [lect10 notes](https://ucsb-cs48.github.io/w23/lect/lect10/).
 
-**Graded**: ({{page.num}}-T) (30 pts) For Reviewee response report in `_REVIEWS` repo of your own team.  
-Report should contain all items indicated above.
+**Graded**: ({{page.num}}-T) (35 pts) For Reviewee response report in `_REVIEWS` repo of your own team.  
+Report should be created in response to the peer feedback this Friday and next Tuesday and should contain all items indicated on the [lect10 notes](https://ucsb-cs48.github.io/w23/lect/lect10/).
 
-**Graded**: ({{page.num}}-T) (20 pts) You earn these team points for implementing and documenting at least one unit test in your code base by next week **Fri, 02/17/23, 23:59 PDT**.
+**Graded**: ({{page.num}}-T) (30 pts) You earn these team points for identifying at least one testing library to experiment with for your coding needs, and for implementing and documenting at least one unit test in your code base by next week **Fri, 02/17/23, 23:59 PDT**.
 
 </div>
