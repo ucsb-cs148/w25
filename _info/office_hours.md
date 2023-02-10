@@ -13,4 +13,4 @@ table.hdrLinks * td { padding-right: 2em;}
 table.hdrLinks * td.curr { font-weight:bold; }
 </style>
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_33db4596757e4a339d1f205dec169bbd5f854cb54c226aea5cd92a7d049240df%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=c_33db4596757e4a339d1f205dec169bbd5f854cb54c226aea5cd92a7d049240df%40group.calendar.google.com&ctz=America%2FLos_Angeles&amp;mode=WEEK" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
