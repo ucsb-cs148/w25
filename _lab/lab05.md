@@ -6,7 +6,7 @@ desc: "MVP Demos, Unit Testing"
 assigned: 2023-02-10 12:00
 due: 2023-02-17 23:59
 github_org: "ucsb-cs148-w23"
-ready: false
+ready: true
 ---
 
 <style>
@@ -42,7 +42,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 # Procedure for Today's MVP Review
 
-We will play your MVP videos in this (random) order, and  
+We will play your MVP videos in this (random) order. After each video is played, you 
 
 **12pm Section:** 
 ```
@@ -68,7 +68,7 @@ T09 - musicrecommendation (T10 asks a question)
 &nbsp;
 
 * Everyone will **take notes and submit a quick peer-feedback form** on each other presentation in your section while watching the presentations during class. 
-    * Please fill in this [review form](https://forms.gle/VKVegPG1PvGUfkCd9) during the video presentations. Submission of this form will count towards your lab04 points. If you cannot attend today's lecture, you can watch the [prepared videos](https://docs.google.com/spreadsheets/d/1dXhvtRPpwhPkopjN_JF59bV_RtqDguA2QaIEntIMFLk/edit?usp=sharing) and fill the form in before the end of this lab. 
+    * Please fill in the review form announced on Slack during your session during the video presentations. Submission of this form will count towards your lab04 points. If you cannot attend today's lecture, you can watch the [prepared videos](https://docs.google.com/spreadsheets/d/1dXhvtRPpwhPkopjN_JF59bV_RtqDguA2QaIEntIMFLk/edit?usp=sharing) and fill the form in before the end of this lab. 
 
 <br />   
 * After each video presentation, a representative from *the next group up* (or the first group listed in case of the last presentation) will **ask a question** to the team whose video was just shown. That question should be typed in a special Slack Channel @mvp-presentation (so that we capture it) and read out by the representative for the team asking the question. 
@@ -77,7 +77,7 @@ T09 - musicrecommendation (T10 asks a question)
 <br />
 * After the peer team asked their question, there will be an opportunity for **anyone to ask a question** to the team whose video was shown, but if there are many questions, we may have to cut it short. We ask that any questions that are asked be captured in the Slack channel! We also may chime in with questions and comments from the teaching team. 
 
-* After all 11 project videos have been shown, everyone will be asked to **vote for their top-three favorite MVPs**. You will receive the link to that review form in the Slack channel.  We will announce the audience choice award winner for best MVP on Friday in Section, as well as on Slack (which gives you bragging rights, but no influence on your grades. Grades will solely be based on final product presentations and quality).  
+* After all project videos have been shown, everyone will be asked to **vote for their favorite MVPs**. You will receive the link to that review form in the Slack channel.  We will announce the audience choice award winner for best MVP in your Section next week, as well as on Slack (which gives you bragging rights, but no influence on your grades. Grades will solely be based on final product presentations and quality).  
 
 # Celebrate
 
