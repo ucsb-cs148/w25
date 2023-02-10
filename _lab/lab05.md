@@ -42,27 +42,27 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 # Procedure for Today's MVP Review
 
-We will play your MVP videos in this (random) order. After each video is played, you 
+We will play your MVP videos in the order below. After each video is played, we will have Q&A, and during and after the presentation you will collect feedback on a Google Form we posted on the new Slack mvp-presentation channel.  
 
 **12pm Section:** 
 ```
-T03 - cheapskate (T01 asks a question)
 T01 - cookbooksocial (T05 asks a question)
-T05 - telekineticgame (T02 asks a question)
 T02 - fouryearscheduleplanner (T03 asks a question)
+T03 - cheapskate (T01 asks a question)
+T05 - telekineticgame (T02 asks a question)
 ``` 
 **1pm Section:** 
 ```
-T08 - buddyup (T04 asks a question)
 T04 - interactivesolarsystem (T07 asks a question)
-T07 - studygroup (T06 asks a question)
 T06 - fitnessandnutritiontracker (T08 asks a question)
+T07 - studygroup (T06 asks a question)
+T08 - buddyup (T04 asks a question)
 ``` 
 **2pm Section:** 
 ```
+T09 - musicrecommendation (T10 asks a question) 
 T10 - weeklyschedule (T11 asks a question)
-T11 - proceduralgeneration (T09 asks a question)
-T09 - musicrecommendation (T10 asks a question)  
+T11 - proceduralgeneration (T09 asks a question) 
 ``` 
 
 &nbsp;
@@ -71,7 +71,7 @@ T09 - musicrecommendation (T10 asks a question)
     * Please fill in the review form announced on Slack during your session during the video presentations. Submission of this form will count towards your lab04 points. If you cannot attend today's lecture, you can watch the [prepared videos](https://docs.google.com/spreadsheets/d/1dXhvtRPpwhPkopjN_JF59bV_RtqDguA2QaIEntIMFLk/edit?usp=sharing) and fill the form in before the end of this lab. 
 
 <br />   
-* After each video presentation, a representative from *the next group up* (or the first group listed in case of the last presentation) will **ask a question** to the team whose video was just shown. That question should be typed in a special Slack Channel @mvp-presentation (so that we capture it) and read out by the representative for the team asking the question. 
+*After each video presentation, a representative from *the group listed above as being teamed with you* will **ask a question** to the team whose video was just shown. That question should be typed in a special Slack Channel @mvp-presentation (so that we capture it) and read out by the representative for the team asking the question. 
     * The question can be of any type, e.g. a follow-up on something that was not entirely clear, a low-level implementation question, a question about possible future functionality, or a high-level question about the product landscape connected to the project. 
 
 <br />
