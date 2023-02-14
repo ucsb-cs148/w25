@@ -31,7 +31,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 Today's session will be all about testing and evaluating your Minimum Viable Product. This will give you the opportunity to get feedback from your mentors and from your peers. We put into place a process in which every team designates a set of representatives to evaluate a peer team's MVP. Please take the following guidelines into account: 
 
-For the [current lab]({{'/lab/lab05/' | relative_url }}), every team designated a 3-person team of Reviewers (Reviewer 1 = Lead Deployment Reviewer, Reviewer 2 = Lead Content/UX Reviewer, Reviewer 3 = Note Taker) and a pair of Reviewees in charge (Lead Presenter and Reviewee Note Taker). The other people from every team team stay with their Lead Presenter and Reviewee Note Taker and will help with the presentation. 
+For the [current lab]({{'/lab/lab05/' | relative_url }}), every team designates a 3-person team of Reviewers (Reviewer 1 = Lead Deployment Reviewer, Reviewer 2 = Lead Content/UX Reviewer, Reviewer 3 = Note Taker) and a pair of Reviewees in charge (Lead Presenter and Reviewee Note Taker). The other people from every team team stay with their Lead Presenter and Reviewee Note Taker and will help with the presentation. 
 The following table shows the reviewer-reviewee assignments:       
 
 | **Reviewers from this team:**   | **... will review this team's MVP:** |
@@ -78,24 +78,25 @@ All I'm asking of you is to listen and consider it carefully, and discuss it as 
 As the reviewer, you are from team A, and reviewing the work of team B.
 
 Present, there should be:
-* You, lead reviewer from team A
-* Someone from team A to take notes on the Slack
-* Lead reviewee from team B
-* Someone from team B to take notes on the Slack
-* The mentor for team B.
+* Reviewer 1 = Lead Deployment Reviewer from team A, 
+* Reviewer 2 = Lead Content/UX Reviewer from team A, 
+* Reviewer 3 = Note Taker / Scribe  from team A to take notes on team B's Slack channel
+* Review*ee* 1 = Lead Presenter from team B
+* Review*ee* 2 = Note Taker / Scribe from team B to take notes on team B's Slack channel
+* A mentor / observer (for part of the time) 
 
-1.  Start by making sure that you and your helper from team A are added to the slack for team B. Also, the lead reviewer will have to be (at least temporarily) added to the repo, if it is private (for Steps 4 and 5 below).
+1.  Start by making sure that the Lead Note Taker from team A is added to the Slack channel for team B. Also, the lead deployment reviewer (Reviewer 1) will have to be (at least temporarily) added to the repo, if it is private (for Steps 4 and 5 below).
 
 
-2.  On the slack, make a note of everyone present at the review from both teams.  Any members of team B that are missing hopefully are missing because they are engaged in the review  of another group's product.
+2.  On Slack, make a note of everyone present at the review from both teams.  Any members of team B that are missing hopefully are missing because they are engaged in the review  of another group's product.
     
 2.  Then, start by sitting around the computer that team B's lead presenter chose to demo the product. The lead presenter from team B has the product up and running.
 
-3.  Ask the lead presenter to walk you through the features of the product, as YOU, leader reviewer from team A, control the mouse and keyboard or tablet/phone touchscreen.  You, the lead reviewer should be going through the features of the product, led by an explanation from the team B presenter.  
+3.  Ask the lead presenter to walk you through the features of the product, as Reviewer 2, lead Content/UX reviewer from team A, controls the mouse and keyboard or tablet/phone touchscreen. The lead reviewer should be going through the features of the product, led by an explanation from the team B presenter.  
 
     As you notice things you like, and things that could be improved, say them out loud.  Both, the Scribe from team A and the Scribe from team B should be noting these things on the Slack.   The Scribe from team A should simply make notes about your observations.  The Scribe from team B may go a step further, and note what the team might do in response (e.g. add issues, add user stories, add bug fixes, etc.)
     
-4.  When you have gone through the product demo, now go to your OWN computer.   Pull up the Kanban board.
+4.  When you have gone through the product demo, now team A reviewers led by Reviewer 1 goes to their OWN computer. Pull up Team B's Kanban board.
 
     Go through all of the user stories and issues that you see that are marked as part of MVP in in-progress or done. 
     
@@ -116,7 +117,7 @@ Present, there should be:
    * The most impactful opportunity for improvement
    * One more thing you thought was good
    
-There will be additional instructions over the next few days for consolidating this review into a summary, but for tonight this is enough.    
+There will be additional instructions over the next few days for consolidating this review into a summary, but for today this is enough.    
 
 # Instructors for Reviewees
 
