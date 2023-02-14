@@ -1,5 +1,5 @@
 ---
-desc: Deliver MVP
+desc: Deliver/Critique MVP
 lecture_date: 2023-02-14 15:30
 num: lect10
 ready: true
