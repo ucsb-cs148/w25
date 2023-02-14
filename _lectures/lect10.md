@@ -2,12 +2,12 @@
 desc: Deliver MVP
 lecture_date: 2023-02-14 15:30
 num: lect10
-ready: false
+ready: true
 
 ---
 
 <div style="display:none">
-https://ucsb-cs48.github.io/w23/lect/lect10/
+https://ucsb-cs148.github.io/w23/lect/lect10/
 </div>
 
 <style>
@@ -127,28 +127,22 @@ Your main job is to be at the service of the reviewer.
 
 # Other members of the team
 
-For those that are not the lead reviewer or reviewee:
+For those that are not among the lead or scribe reviewers or reviewees:
 
-* At least one  member of the team should be with the ambassador of your team to the other team being reviewed as a note taker and deputy. 
-* At least one other member of your team should be taking notes during the review of your team's product
+* At least one  member of the team should be with the lead reviewee of your team while being reviewed, as a note taker and deputy. 
 
-The other 1 or 2 members should stay with the team being reviewed, and as notes are taken in the slack, start setting up user stories and/or issues to follow up on the items suggested, or if needed, do emergency bug fixes/edits to code or documentation to address problems found during the review.
+The other 1-3 members should stay with the team being reviewed, and as notes are taken in Slack, start setting up user stories and/or issues to follow up on the items suggested, or if needed, do emergency bug fixes/edits to code or documentation to address problems found during the review.
 
 # FOLLOW UP instructions for Reviewers
 
 1. Please create a private github repo under the course organization {{site.org}} that follows the following naming convention, with the team name of the team that you reviewed (not your own team).   Create it with a README.md only
 
-| 4pm-messageorg_REVIEWS | 5pm-Rideshare_REVIEWS | 6pm-Climb_REVIEWS
-| 4pm-laptops-comparer_REVIEWS |  5pm-discord_REVIEWS | 6pm_gauchoshare_REVIEWS
-| 4pm_tree_REVIEWS | 5pm-schedule-optimization_REVIEWS | 6pm-housing_REVIEWS
-| 4pm-fmsynthesizer_REVIEWS | 5pm-game_REVIEWS | 6pm-Spotify_REVIEWS
-| 4pm-GPS_REVIEWS | 5pm-restroom_REVIEWS  | 
-
+   For <tt>project-t01-cookbooksocial</tt>, create <tt>project-t01-cookbooksocial_REVIEWS</tt> 
    (You may add a .gitignore if it makes things more convenient, but its optional)
    
    Add the reviewee from the team you reviewed as a collaborator.  They will add everyone else on that team.
 
-2. In that repo, add a file called <tt>{{page.num}}_reviewer.md</tt>. In this file, write a summary of your findings
+2. In that repo, add a file called <tt>lab05_MVP_reviewer.md</tt>. In this file, write a summary of your findings
    during the review.
 
    Include sections for each of the following:
@@ -168,27 +162,21 @@ The other 1 or 2 members should stay with the team being reviewed, and as notes 
 
 # FOLLOW UP instructions for Reviewees
 
-1. If the reviewer has created the repo below, great.  If not, create it yourself, and add your reviewer as a collaborator.
+1. If the reviewer has created a repo that appends <tt>_REVIEWS</tt> to their main repo name (<tt>project-t??-projname_REVIEWS</tt>) under {{site.org}}, great.  If not, create it yourself, and add your reviewer as a collaborator.
    Also add everyone on your team as a collaborator.
-   
-| 4pm-messageorg_REVIEWS | 5pm-Rideshare_REVIEWS | 6pm-Climb_REVIEWS
-| 4pm-laptops-comparer_REVIEWS |  5pm-discord_REVIEWS | 6pm_gauchoshare_REVIEWS
-| 4pm_tree_REVIEWS | 5pm-schedule-optimization_REVIEWS | 6pm-housing_REVIEWS
-| 4pm-fmsynthesizer_REVIEWS | 5pm-game_REVIEWS | 6pm-Spotify_REVIEWS
-| 4pm-GPS_REVIEWS | 5pm-restroom_REVIEWS  | 
 
    (You may add a .gitignore if it makes things more convenient, but its optional)
 
-2. In that repo, add a file called <tt>{{page.num}}_reviewee.md</tt>. In this file, write a summary of your findings
+2. In that repo, add a file called <tt>lab05_MVP_reviewee.md</tt>. In this file, write a summary of your findings
    during the review.
 
    Include sections for each of the following:
 
    1.  Everyone that was present for the review from each of the two teams, and the roles they were in.
        You may copy this from the reviewer's report if it is already present and accurate.
-   2.  A response to each of the other sections of the reviewers report, including actions that you may take as a team.
+   2.  A **response** to each of the other sections of the reviewers report, including actions that you may take as a team.
        If the reviewer hasn't submitted their report yet, write a response based on the feedback you find
-       on the slack channel that pertains to these items:
+       on the slack channel that pertains to the reviewing sections, repeated here: 
        
         1.  A summary of the features of the product as you understood them, and what you liked or thought could be
             improved about each
@@ -199,4 +187,3 @@ The other 1 or 2 members should stay with the team being reviewed, and as notes 
             to actually set up the product to compile and run on your own computer.
         4.  Your final closing thoughts: something you liked, the most impactful opportunity for improvement,
             and one more thing you thought was good.
-
