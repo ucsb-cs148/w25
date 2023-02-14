@@ -35,17 +35,17 @@ For the [current lab]({{'/lab/lab05/' | relative_url }}), every team designated 
 The following table shows the reviewer-reviewee assignments:       
 
 | **Reviewers from this team:**   | **... will review this team's MVP:** |
-| T7-studygroup -------------------> | T5-telekineticgame |
-| T4-interactivesolarsystem -------> | T2-fouryearscheduleplanner |
-| T5-telekineticgame --------------> | T6-fitnessandnutritiontracker |
-| T6-fitnessandnutritiontracker----> | T8-buddyup |
-| T10-weeklyschedule --------------> | T7-studygroup |
-| T8-buddyup ----------------------> | T9-musicrecommendation |
-| T11-proceduralgeneration --------> | T10-weeklyschedule |
-| T9-musicrecommendation ----------> | T11-proceduralgeneration |
-| T2-fouryearscheduleplanner ------> | T1-cookbooksocial |
-| T3-cheapskate -------------------> | T4-interactivesolarsystem |
-| T1-cookbooksocial ---------------> | T3-cheapskate |
+| T7-studygroup -------------------> | T10-weeklyschedule | 
+| T4-interactivesolarsystem -------> | T11-proceduralgeneration | 
+| T5-teleformer -------------------> | T4-solarx | 
+| T6-watchme ----------------------> | T1-cookbooksocial |  
+| T10-weeklyschedule --------------> | T2-fouryearscheduleplanner | 
+| T8-buddyup ----------------------> | T9-musicrecommendation | 
+| T11-proceduralgeneration --------> | T5-teleformer | 
+| T9-musicrecommendation ----------> | T3-cheapskate | 
+| T2-fouryearscheduleplanner ------> | T7-studygroup | 
+| T3-cheapskate -------------------> | T8-buddyup | 
+| T1-cookbooksocial ---------------> | T6-watchme | 
 
 #  The most helpful attitude and approach for reviewers: friendly helpfulness, not "gotcha"
 
