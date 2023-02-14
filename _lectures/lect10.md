@@ -35,17 +35,17 @@ For the [current lab]({{'/lab/lab05/' | relative_url }}), every team designates 
 The following table shows the reviewer-reviewee assignments:       
 
 | **Reviewers from this team:**   | **... will review this team's MVP:** |
-| T7-studygroup -------------------> | T10-weeklyschedule | 
+| T7-studygroup ----------------------> | T10-weeklyschedule | 
 | T4-interactivesolarsystem -------> | T11-proceduralgeneration | 
-| T5-teleformer -------------------> | T4-solarx | 
+| T5-teleformer ----------------------> | T4-solarx | 
 | T6-watchme ----------------------> | T1-cookbooksocial |  
 | T10-weeklyschedule --------------> | T2-fouryearscheduleplanner | 
-| T8-buddyup ----------------------> | T9-musicrecommendation | 
+| T8-buddyup -------------------------> | T9-musicrecommendation | 
 | T11-proceduralgeneration --------> | T5-teleformer | 
-| T9-musicrecommendation ----------> | T3-cheapskate | 
+| T9-musicrecommendation -------> | T3-cheapskate | 
 | T2-fouryearscheduleplanner ------> | T7-studygroup | 
-| T3-cheapskate -------------------> | T8-buddyup | 
-| T1-cookbooksocial ---------------> | T6-watchme | 
+| T3-cheapskate ----------------------> | T8-buddyup | 
+| T1-cookbooksocial -----------------> | T6-watchme | 
 
 #  The most helpful attitude and approach for reviewers: friendly helpfulness, not "gotcha"
 
@@ -98,7 +98,7 @@ The following people should be present:
 
     As you notice things you like, and things that could be improved, say them out loud.  Both, the Scribe from team A and the Scribe from team B should be noting these things on the Slack.   The Scribe from team A should simply make notes about your observations.  The Scribe from team B may go a step further, and note what the team might do in response (e.g. add issues, add user stories, add bug fixes, etc.)
     
-4.  When you have gone through the product demo, now team A reviewers led by Reviewer 1 goes to their OWN computer. Pull up Team B's Kanban board.
+4.  When you have gone through the product demo, now team A reviewers, led by Reviewer 1, go to their OWN computer(s). Pull up Team B's Kanban board.
 
     Go through all of the user stories and issues that you see that are marked as part of MVP in in-progress or done. 
     
@@ -110,7 +110,7 @@ The following people should be present:
     
     Finally, on your OWN computer, try to clone the repo, and follow the steps needed to get the application up and running. 
     
-    You should NOT need any additional credentials from the original team---if there is a database setup needed, you should BE ABLE TO DO THAT DATABASE SET UP YOURSELF by following the instructions in the README.md.  If that is not possible, then note this as one of the observations.    At any point that you are stuck and cannot continue, as a last resort, the reviewee can jump in and help, by guiding you through the process, but NOT by providing you database credentials or API credentials--only by walking you through the process of setting up your own.
+    You should NOT need any additional credentials from the original team---if there is a database setup needed, you should BE ABLE TO DO THAT DATABASE SET UP YOURSELF by following the instructions in the README.md.  If that is not possible, then note this as one of the observations.   At any point that you are stuck and cannot continue, as a last resort, the reviewee can jump in and help, by guiding you through the process. The reviewees in particular should get an appreciation for what eventually will need to happen to have outsiders deploy their product. 
     
 6.  [OPTIONAL IF TIME] If you are successful in setting up the project, and you get this far: start looking through the code for places you can make suggestions for improvement, or offer words of praise.  Most reviewers won't get this far.    
     
@@ -135,7 +135,7 @@ For those that are not among the lead or scribe reviewers or reviewees:
 
 The other 1-3 members should stay with the team being reviewed, and as notes are taken in Slack, start setting up user stories and/or issues to follow up on the items suggested, or if needed, do emergency bug fixes/edits to code or documentation to address problems found during the review.
 
-# FOLLOW UP instructions for Reviewers
+# FOLLOW UP instructions for Reviewers (**points for lab05**)
 
 1. Please create a private github repo under the course organization {{site.org}} that follows the following naming convention, with the team name of the team that you reviewed (not your own team).   Create it with a README.md only
 
