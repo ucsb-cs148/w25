@@ -75,14 +75,16 @@ All I'm asking of you is to listen and consider it carefully, and discuss it as 
 
 # Instructions for Reviewers
 
-As the reviewer, you are from team A, and reviewing the work of team B.
+As a reviewer, you are from team A, and reviewing the work of team B.
 
-Present, there should be:
+The following people should be present:
 * Reviewer 1 = Lead Deployment Reviewer from team A, 
 * Reviewer 2 = Lead Content/UX Reviewer from team A, 
 * Reviewer 3 = Note Taker / Scribe  from team A to take notes on team B's Slack channel
-* Review*ee* 1 = Lead Presenter from team B
-* Review*ee* 2 = Note Taker / Scribe from team B to take notes on team B's Slack channel
+
+* Review**ee** 1 = Lead Presenter from team B
+* Review**ee** 2 = Note Taker / Scribe from team B to take notes on team B's Slack channel
+
 * A mentor / observer (for part of the time) 
 
 1.  Start by making sure that the Lead Note Taker from team A is added to the Slack channel for team B. Also, the lead deployment reviewer (Reviewer 1) will have to be (at least temporarily) added to the repo, if it is private (for Steps 4 and 5 below).
