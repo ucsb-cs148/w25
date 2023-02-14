@@ -18,10 +18,10 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 <table style="margin-top:1em;">
 <tr>
-   <th>Points</th>
+   <th>Lab05 Points</th>
 </tr>
 <tr>
-   <td class="pointCount"></td>
+   <td class="pointCount">70</td>
 </tr>
 </table>
 
