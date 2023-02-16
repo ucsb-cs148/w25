@@ -63,7 +63,7 @@ You already know the goal and procedure for Retrospectives from your RETRO_01. T
 * Add a section:
 
   ```
-  # Retro #2 10/29/21 
+  # Retrospective your-nr-goes-here, date-goes-here 
 
   * Led by: name-goes-here
   * Present: name1, name2, ... , nameN
@@ -86,7 +86,7 @@ You already know the goal and procedure for Retrospectives from your RETRO_01. T
   Retro leader: add
   
   ```
-  ## Retro Assessment
+  # Retro Assessment
 
   * A brief description of what retro outline or process you used.
   * A brief assessment of how it went.
