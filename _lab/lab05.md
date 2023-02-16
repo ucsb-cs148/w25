@@ -88,10 +88,10 @@ We want to **celebrate** with you on how far you have already come - We are real
 <div class="grade" markdown="1">
 
 **Graded**: ({{page.num}}-T) (35 pts) For Reviewer report in `_REVIEWS` repo of the partner team (not your own team's repo).
-Report should be created during and after [Lecture 10](https://ucsb-cs48.github.io/w23/lect/lect10/)and should contain all items indicated on the [lect10 notes](https://ucsb-cs48.github.io/w23/lect/lect10/).
+Report should be created during and after [Lecture 10](https://ucsb-cs148.github.io/w23/lectures/lect10/)and should contain all items indicated on the [lect10 notes](https://ucsb-cs148.github.io/w23/lectures/lect10/).
 
 **Graded**: ({{page.num}}-T) (35 pts) For Reviewee response report in `_REVIEWS` repo of your own team.  
-Report should be created in response to the peer feedback this Friday and next Tuesday and should contain all items indicated on the [lect10 notes](https://ucsb-cs48.github.io/w23/lectures/lect10/).
+Report should be created in response to the peer feedback this Friday and next Tuesday and should contain all items indicated on the [lect10 notes](https://ucsb-cs148.github.io/w23/lectures/lect10/).
 
 **Graded**: ({{page.num}}-T) (30 pts) You earn these team points for identifying at least one testing library to experiment with for your coding needs, and for implementing and documenting at least one unit test in your code base by next week **Fri, 02/17/23, 23:59 PDT**.
 
