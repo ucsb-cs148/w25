@@ -1,8 +1,8 @@
 ---
 layout: lab
 num: lab06
-ready: false
-desc: "Second Retrospective, Product Improvement, Additional Testing"
+ready: true
+desc: "Second Retrospective, Product Improvement, Higher-Level Testing"
 assigned: 2023-02-17 12:00
 due: 2023-02-24 23:59
 github_org: "ucsb-cs148-w23"
