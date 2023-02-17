@@ -39,7 +39,7 @@ ready: true
 
 # Today: Work in Breakout Groups
 * Standup
-* Work on new features and on testing requirement for [lab05](https://ucsb-cs148.github.io/s21/lab/lab05/). Discuss best testing frameworks/strategies based on what your team members found out! 
+* Work on new features and on unit testing requirement and peer reports and responses for [lab05](https://ucsb-cs148.github.io/w23/lab/lab05/). Discuss best testing frameworks/strategies based on what your team members found out! 
 
 
 
