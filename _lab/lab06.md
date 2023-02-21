@@ -34,7 +34,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 **Graded**: ({{page.num}}-T) (20 pts) You earn these team points based on the logged attendance/participation in your second retrospective; 20/n points per team member for teams of n participants.
 
-**Graded**: ({{page.num}}-T) (10 pts) You earn these team points when the content in `team/RETROS.md` is updated per the instructions.
+**Graded**: ({{page.num}}-T) (10 pts) You earn these team points when the content in the `team/retrospective` directory is updated per the instructions.
 
 **Graded**: ({{page.num}}-T) (10 pts) You earn these team points for ensuring that each team member was again assigned at least one issue that was moved to the Done column of your Kanban board with tested acceptance criteria over the next week **ending on 02/14/21, 14:00:00 PDT**.
 
