@@ -14,7 +14,7 @@ ready: true
     * **design document** (to be started in lab07),
     * **user manual** (to be started in lab08))
     * **deployment instructions** (started for MVP peer review) and Github **README.md**, which should explain the code folder hierarchy and guide through the implementation effort. 
-* Project presentations (Final exam slot, December 6th, 4-7pm)
+* Project presentations (Final exam slot, March 23rd, 4-7pm)
 
 Here, again, is the point percentage breakdown for grading that the teaching team plans to use for the “Final Product” 40% of the course grade.
 
