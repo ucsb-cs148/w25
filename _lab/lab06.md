@@ -36,7 +36,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 **Graded**: ({{page.num}}-T) (10 pts) You earn these team points when the content in the `team/retrospective` directory is updated per the instructions.
 
-**Graded**: ({{page.num}}-T) (10 pts) You earn these team points for ensuring that each team member was again assigned at least one issue that was moved to the Done column of your Kanban board with tested acceptance criteria over the next week **ending on 02/14/21, 14:00:00 PDT**.
+**Graded**: ({{page.num}}-T) (10 pts) You earn these team points for ensuring that each team member was again assigned at least one issue that was moved to the Done column of your Kanban board with tested acceptance criteria over the next week **ending on 02/21/23, 23:59:00 PDT**.
 
 **Graded**: ({{page.num}}-T) (20 pts) You earn these team points if your team integrated a higher-level (not just unit tests) testing framework with your project and implemented and demonstrated successful execution of **at least one** component test **or** other integration **or** end-to-end test (e.g. BDD) in your project. 
 
