@@ -76,19 +76,19 @@ Also, whoever is chosen below as the "Design Document Coordinator" will be respo
 * **UX Coordinator**.  Responsible for the look and feel of the product, and the way that the user interacts with the
       product. By next week, will have a set of pointers and recommendations for the UI/UX of your products...
 * **Design Document Coordinator**.  This person is responsible for the design process documentation started in this lab, chiefly the document pointed to by ./docs/DESIGN.md.
-      By next week (lab07), they should ensure that there is a first version, and will be responsible for updating it throughout the rest of the quarter.
+      By next week (lab08), they should ensure that there is a first version, and will be responsible for updating it throughout the rest of the quarter.
 * **Deployment Document Coordinator**.  This person is responsible for the deployment documentation refactored in this lab, chiefly the document pointed to by ./docs/DEPLOY.md.
-      By next week (lab07), they should ensure that there is a first version, and will be responsible for updating it throughout the rest of the quarter.
-* **User Manual Coordinator**.  This person is responsible for the user manual part of the documentation. More detail will be given in lab07, and the person in charge will be responsible for updating it
+      By next week (lab08), they should ensure that there is a first version, and will be responsible for updating it throughout the rest of the quarter.
+* **User Manual Coordinator**.  This person is responsible for the user manual part of the documentation. More detail will be given in lab08, and the person in charge will be responsible for updating it
       throughout the rest of the quarter.
-* **Final presentation leader (week 9/10)**.  This person will be in charge coordinating the final class presentation ~~video~~ on 12/06. The presentation itself will likely have multiple presenters, but the leader ensures everyone is prepared and everything goes smoothly with demos and setup.
+* **Final presentation leader (week 9/10)**.  This person will be in charge coordinating the final class presentation on Thu, 03/23. The presentation itself will likely have multiple presenters, but the leader ensures everyone is prepared and everything goes smoothly with demos and setup.
   
 
 # Start Design Document
 Start a Design Document (as a Google Doc or another `living document` format of your choice) and link to it in a new ./docs/DESIGN.md file in your GitHub. 
 It should contain, for starters, a high-level system architecture overview diagram for your project, with associated explanations of all parts in some text paragraphs accompanying it.   
 
-For examples that might stir your creativity, you can check out, e.g., the Requirement Documents in [UCSB Capstone projects](https://capstone.cs.ucsb.edu/past20.html)   
+For examples that might stir your creativity, you can check out, e.g., the Requirement Documents in [UCSB Capstone projects](https://capstone.cs.ucsb.edu/past22.html)   
 
 You can use any diagramming tool of your choice. Please post in Slack if you like a tool beyond the ones in the list below, but here are some options:   
    * Google Slides
@@ -101,7 +101,7 @@ Or some web-based solutions:
    * [graphviz](https://graphviz.org)
 
 Multi-Platform: 
-   * [drawio - see also diagrams.net above](https://github.com/jgraph/drawio-desktop/releases/tag/v14.6.13)
+   * [drawio - see also diagrams.net above](https://github.com/jgraph/drawio-desktop/releases)
    
 Or on Mac/IOS:     
    * [Flowchart Designer 3](https://apps.apple.com/app/flowchart-designer-3/id1512570906) 
