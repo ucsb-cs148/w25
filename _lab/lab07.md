@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab07
-ready: false
+ready: true
 desc: "Review and Plan Leadership Roles / Start Design Document "
 assigned: 2023-02-24 12:00
 due: 2023-03-03 23:59
@@ -116,6 +116,3 @@ The exact structure of the Design Document is left to your team to determine, bu
 A high-level overview (diagram and associated explanation) of your product's 
 [Task/User Flow](https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/) can be used as the starting point for the UX section in your Design Document and also for planning/structuring your user manual.
 
-# Maybe: Deployment Manual
-
-There may be a [second part](https://ucsb-cs148.github.io/w23/lab/lab06-ops/) to this lab, which would have a two-week performance period. 
