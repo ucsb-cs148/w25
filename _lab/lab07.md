@@ -28,10 +28,10 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 <div class="grade" markdown="1">
 **Graded**: ({{page.num}}-T) (20 pts) You earn these team points if you have planned future team leadership roles and logged them in your GitHub ./team/LEADERSHIP.md as per instructions below 
 
-**Graded**: ({{page.num}}-T) (80 pts) You earn these team points if you started a design document that you link to in your Github ./docs/DESIGN.md and that contains at least:
-    * (20 pts) an overview system architecture diagram and associated explanation.  
-    * (30 pts) a Section summarizing important team decisions since the start of the project, referring to meetings logged in your GitHub repo
-    * (30 pts) the beginnings of a Section talking about your User Experience (UX) considerations. A high-level task/user flow (see below) might be the first thing to document there, and it will also be helpful for determining the structure of your manual (next week's lab).
+**Graded**: ({{page.num}}-T) You earn these team points if you started a design document that you link to in your Github ./docs/DESIGN.md and that contains at least:
+* (20 pts) an overview system architecture diagram and associated explanation.  
+* (30 pts) a Section summarizing important team decisions since the start of the project, referring to meetings logged in your GitHub repo
+* (30 pts) the beginnings of a Section talking about your User Experience (UX) considerations. A high-level task/user flow (see below) might be the first thing to document there, and it will also be helpful for determining the structure of your manual (next week's lab).
 </div>
 
 
