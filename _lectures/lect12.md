@@ -31,23 +31,18 @@ Here, again, is the point percentage breakdown for grading that the teaching tea
     * judged by Design Document, Kanban Board, Meeting Logs, Github TEAM information, etc. Design Document should steer through the process.
 * 10% Manual 
 
-# SW Dev News: Popular Programming Languages
-* [Top programming languages: Most popular and fastest growing choices for developers](https://www.zdnet.com/article/top-programming-languages-most-popular-and-fastest-growing-choices-for-developers/)
 
 # UX Design
 * [SW Hierarchy of Needs](https://www.cs.ucsb.edu/~holl/CS148/handouts/HierarchyOfNeeds.pdf)
 * [8 Golden Rules of UI Design](https://sites.cs.ucsb.edu/~holl/CS148/handouts/Slides_UIPrinciples.pdf) 
-* Update to Google's Design Philosophy, Material Design: [Material You](https://material.io/blog/announcing-material-you), [Summary](https://www.engadget.com/google-material-you-android-personalized-redesign-182501466.html), [an opinion in favor of it](https://www.androidpolice.com/everything-i-love-about-material-you/), [an opinion in opposition to it](https://www.androidpolice.com/everything-i-hate-about-material-you/)
 
 * Tools for Wireframing: Adobe XD, Figma, Wireframe.cc, (On Mac:) sketch.com
 
 # Today: Work in Breakout Groups
 * Standup
-* Continue [lab06](https://ucsb-cs148.github.io/s21/lab/lab06/) 
-    * Review of Leadership Roles 
-    * Log Retrospective 2 experiment outcome
-    * Design Document (including a high-level system diagram), 
-    * Deployment and Operations Document (from README), 
+* Continue [lab06](https://ucsb-cs148.github.io/w23/lab/lab06/) 
+    * Log Retrospective experiment outcome
+    * Higher-level testing and documentation! 
 
 
 
