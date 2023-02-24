@@ -106,6 +106,15 @@ Multi-Platform:
 Or on Mac/IOS:     
    * [Flowchart Designer 3](https://apps.apple.com/app/flowchart-designer-3/id1512570906) 
    
+The exact structure of the Design Document is left to your team to determine, but to get you started, we recommend at least the following set of sections in some form and order: 
+* Opening/Overview section with high-level system architecture overview diagram for your project, with associated explanations of all parts in some text paragraphs accompanying it.
+* More Detailed SW Architecture Design: Describe the main modules in your SW Design in more detail
+* Design Process Documentation Section: This is where you can earn the 30 points from the second grading bullet above: Document your design process by summarizing important team decisions referring to specific meetings logged in your GitHub repo.
+* User Interface and User Experience (UX) considerations. A high-level task/user flow might be the first thing to document here.
+
+# User Flow 
+A high-level overview (diagram and associated explanation) of your product's 
+[Task/User Flow](https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/) can be used as the starting point for the UX section in your Design Document and also for planning/structuring your user manual.
 
 # Maybe: Deployment Manual
 
