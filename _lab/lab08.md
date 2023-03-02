@@ -2,7 +2,7 @@
 layout: lab
 num: lab08
 ready: false
-desc: "Start Manual, User Stories towards final release, Retro 3"
+desc: "Start Manual, User Stories towards Final Release, Retro 3"
 assigned: 2023-03-03 12:00
 due: 2023-03-10 23:59
 github_org: "ucsb-cs148-w23"
@@ -29,7 +29,9 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 **Graded**: ({{page.num}}-T) (40 pts) You earn these team points if you started a user manual document that you link to in your Github ./docs/MANUAL.md and that contains at the very least a description of the product purpose, lists the intended user audience, and has section headings (which are allowed to change later on) with placeholder information (could even be [Lorem Ipsum text](https://www.lipsum.com/) for now) that in the future should document the various features of your product and how to operate them (with plenty of screenshots).  
 
-**Graded**: ({{page.num}}-T) (20 pts) You earn these team points based on the attendance/participation in your third and last retrospective some time over the next week as fits your Sprint cycle; 3.34 per team member for teams of 6, 4 per team member for teams of five, 5 points per team member for teams of four.
+**Graded**: ({{page.num}}-T) (20 pts) You earn these team points based on the attendance/participation in your third and last retrospective some time over the next week as fits your Sprint cycle; 20/n per team member for teams of n members.
+
+**Graded**: ({{page.num}}-T) (40 pts) Every team member continuously assigned to at least one issue from your user stories towards final release. 
 
 </div>
 
