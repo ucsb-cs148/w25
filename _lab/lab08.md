@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab08
-ready: true
+ready: false
 desc: "Start Manual, Continue Design Document, Retro 3"
 assigned: 2023-03-03 12:00
 due: 2023-03-10 23:59
