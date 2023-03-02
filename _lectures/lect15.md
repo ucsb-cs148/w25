@@ -1,5 +1,5 @@
 ---
-desc: "Project Progress and Documentation, UML, UX metrics"
+desc: "Final Release User Stories, UML, UX"
 lecture_date: 2023-03-02
 num: lect15
 ready: true
