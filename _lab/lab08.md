@@ -26,11 +26,13 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 </div>
 
 <div class="grade" markdown="1">
-**Graded**: ({{page.num}}-T) (40 pts) You earn these team points if you started a user manual document that you link to in your Github ./docs/MANUAL.md and that contains at the very least a description of the product purpose, lists the intended user audience, and has section headings (which are allowed to change later on) with placeholder information (could even be [Lorem Ipsum text](https://www.lipsum.com/) for now) that in the future should document the various features of your product and how to operate them (with plenty of screenshots).  
+**Graded**: ({{page.num}}-T) (25 pts) You earn these team points if you started a user manual document that you link to in your Github ./docs/MANUAL.md and that contains at the very least a description of the product purpose, lists the intended user audience, and has section headings (which are allowed to change later on) with placeholder information (could even be [Lorem Ipsum text](https://www.lipsum.com/) for now) that in the future should document the various features of your product and how to operate them (with plenty of screenshots).  
 
 **Graded**: ({{page.num}}-T) (20 pts) You earn these team points based on the attendance/participation in your third and last retrospective some time over the next week as fits your Sprint cycle; 20/n per team member for teams of n members.
 
 **Graded**: ({{page.num}}-T) (40 pts) You earn these team points for ensuring that each team member was again assigned at least one issue that was moved to the Done column of your Kanban board with tested acceptance criteria over the next week ending on due date. For full credit, you must add a tag reading Lab08 to each issue you move to the Done column. Every team member should also be assigned to at least one issue from your user stories towards final release at all times. 
+
+**Graded** ({{page.num}}-T) (15 pts) You earn these team points if you list in a new `team/evaluation/USER_FEEDBACK_NEEDS.md` document **three** things about your product that you would love to have user feedback on (just to give example possibilities: user preference between two designs, an A/B study on the consequences of two designs, user satisfaction with a particular feature, user satisfaction with your overall current product, but there are many more possibilities). The more specific you can be on these items, the better. This is just ideation - no need to have code ready to actually DO any of these evaluations (yet). The idea is that we will facilitate and help you prepare **one** of the evaluations you list in an organized UX session in week 10.     
 </div>
 
 
