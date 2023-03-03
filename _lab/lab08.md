@@ -2,7 +2,7 @@
 layout: lab
 num: lab08
 ready: false
-desc: "Start Manual, User Stories towards Final Release, Retro 3"
+desc: "Start Manual, User Stories and Issues towards Final Release, Retro 3"
 assigned: 2023-03-03 12:00
 due: 2023-03-10 23:59
 github_org: "ucsb-cs148-w23"
