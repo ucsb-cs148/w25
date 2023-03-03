@@ -31,10 +31,9 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 **Graded**: ({{page.num}}-T) (20 pts) You earn these team points based on the attendance/participation in your third and last retrospective some time over the next week as fits your Sprint cycle; 20/n per team member for teams of n members.
 
-**Graded**: ({{page.num}}-T) (40 pts) Every team member continuously assigned to at least one issue from your user stories towards final release. 
+**Graded**: ({{page.num}}-T) (40 pts) You earn these team points for ensuring that each team member was again assigned at least one issue that was moved to the Done column of your Kanban board with tested acceptance criteria over the next week ending on due date. For full credit, you must add a tag reading Lab08 to each issue you move to the Done column. Every team member should also be assigned to at least one issue from your user stories towards final release at all times. 
 
 </div>
-
 
 
 # Start User Manual Document
@@ -44,17 +43,16 @@ It should start with a paragraph explaining the purpose and intended user audien
 
 # Third (and last) Retrospective 
 
-You will get time on Wed, 11/17, to hold your third and last team Scrum Retrospective, but you can move the time of this meeting to whatever time within this lab period your team prefers, including right this lab session (Nov. 12). Note though that lab08 (Nov. 19) will be taken up by team pear review of your deployment procedures and apps. 
-
+You will get time on Tue, 03/07, to hold your third and last team Scrum Retrospective, but you can move the time of this meeting to whatever time within this lab period your team prefers, including right this lab session (03/04). Note though that lab09 (03/10) section time may be taken up by some team activity towards UX testing. 
 Make sure you have a Retro leader assigned (should be the case since it was part of the Leadership review last lab).
 
 You already know the goal and procedure for Retrospectives from your RETRO_01 and RETRO_02. This Retrospective allows you to discuss things that are relevant on your final stretch to product deployment, documentation, and presentation.
 
 
-* In your team's repo, under `team/retrospectives` directory, add a file `RETRO_03.md` capturing the following:
+* In your team's repo, under `team/retrospectives` directory, add a file `RETRO_03.md` (or whatever number you are at if you did other retros already) capturing the following:
 
-  ```
-  # Retro #3 <date>
+ ```
+  # Retrospective your-nr-goes-here, date-goes-here 
 
   * Led by: name-goes-here
   * Present: name1, name2, ... , nameN
@@ -74,16 +72,14 @@ You already know the goal and procedure for Retrospectives from your RETRO_01 an
 
 * After the Retro
   
-  Retro leader: add the following Section to `RETRO_03.md`:
+  Retro leader: add
   
   ```
-  ## Retro Assessment
+  # Retro Assessment
 
   * A brief description of what retro outline or process you used.
   * A brief assessment of how it went.
-  * A brief statement on how much any of the Retros changed the way you worked as a team (no correct answer here. 
-    Teams could be happy with the way they started operating from the get-go and Retrospectives would just be quick 
-    confirmations then, or teams could have tried a lot of different things based on their retro reviews. We just would like to know!)
+  * What advice would you give to the next person leading a retro
+    based on what you learned today?
   ```
  
-   
