@@ -32,7 +32,6 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 **Graded**: ({{page.num}}-T) (20 pts) You earn these team points based on the attendance/participation in your third and last retrospective some time over the next week as fits your Sprint cycle; 20/n per team member for teams of n members.
 
 **Graded**: ({{page.num}}-T) (40 pts) You earn these team points for ensuring that each team member was again assigned at least one issue that was moved to the Done column of your Kanban board with tested acceptance criteria over the next week ending on due date. For full credit, you must add a tag reading Lab08 to each issue you move to the Done column. Every team member should also be assigned to at least one issue from your user stories towards final release at all times. 
-
 </div>
 
 
