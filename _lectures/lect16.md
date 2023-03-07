@@ -7,7 +7,7 @@ ready: true
 
 # Announcements
 * Full focus on finalizing your product! 
-        * **Friday, 03/17** (Code Freeze, Final Code Release)
+    * **Friday, 03/17** (Code Freeze, Final Code Release)
 * [Lab08](https://ucsb-cs148.github.io/w23/lab/lab08/) has deadlines coming up: 
     * Third and last required retrospective 
     * User Manual document 
