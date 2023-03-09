@@ -2,7 +2,7 @@
 desc: "UX Experiment Prep, Lab08, Team Work Towards Code Freeze"
 lecture_date: 2023-03-09
 num: lect17
-ready: false
+ready: true
 ---
 
 # Announcements
