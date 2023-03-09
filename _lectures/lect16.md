@@ -19,7 +19,7 @@ ready: true
 
 The ESCI course evaluation system will be due on **Friday, March 17, 23:59:59**
 
-Response rate as of 01:00pm 03/07/2021:
+Response rate as of 01:00pm 03/07/2023:
 
 | Course ID |	Enrollment Count	|Surveys Completed	|Percent Completed|
 |-|-|-|-|
