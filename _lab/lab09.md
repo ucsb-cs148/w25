@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab09
-ready: false
+ready: true
 desc: "Final Code Release"
 assigned: 2023-03-10 12:00
 due: 2023-03-17 23:59
