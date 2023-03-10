@@ -1,8 +1,8 @@
 ---
 layout: lab
 num: lab09
-ready: false
-desc: "Final Code Release"
+ready: true
+desc: "Final Stretch, Final Code Release"
 assigned: 2023-03-10 12:00
 due: 2023-03-17 23:59
 github_org: "ucsb-cs148-w23"
@@ -39,7 +39,7 @@ The following graded items will be due on **Tue, 03/21, 23:59:59**:
 
 **Graded**: ({{page.num}}-I) (20 pts) Team (coordinating on one response or by submitting individual commentary) documents team roles and github contributions.
 
-**Graded** : ({{page.num}}-I) (20 pts) You earn these points for submitting feedback on overall team performance via a third and last CATME.org form survey that you will get email invitations for. The submission deadline is **Mon, 03/20, 11:59pm**.
+**Graded** : ({{page.num}}-I) (20 pts) You earn these points for submitting feedback on overall team performance via a third and last CATME.org form survey that you will get email invitations for.
 
 **Graded**: ({{page.num}}-I) (15 pts) Every student lists at least one insight in `#lessons_learned` Slack channel.
 
@@ -63,7 +63,7 @@ The deadline for your Manual and for the Design Document remains the coming **Fr
 
 We ask every team to comment on the code contributions that every team member made. You already documented leadership roles within the team management (in team/LEADERSHIP.md), and now we ask you to document the roles the team members played in the code development effort. You can comment on team contributions otther than coding as well. In your github team folder, please create a `contributions` subfolder. 
 
-By **Wed, 12/08 23:59:59**: finalize brief commentary on team member code (and/or other) contributions in `team/contributions/CONTRIBS.md`: 
+By **Tue, 03/21 23:59:59**: finalize brief commentary on team member code (and/or other) contributions in `team/contributions/CONTRIBS.md`: 
 *each team member* should initially write their own section.    
   - Suggestion: each team member should initially create a draft of their part in `team/contributions/contrib_Alice.md`, `team/contributions/contrib_Bob.md`, `team/contributions/contrib_Carol.md`, `team/contributions/contrib_Danny.md`...
   - Then: the person asseembling the overall CONTRIBS.md report can copy/paste those separate files into one unified CONTRIBS.md file.
