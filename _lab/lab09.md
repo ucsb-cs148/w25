@@ -2,7 +2,7 @@
 layout: lab
 num: lab09
 ready: true
-desc: "Final Code Release"
+desc: "Final Stretch, Final Code Release"
 assigned: 2023-03-10 12:00
 due: 2023-03-17 23:59
 github_org: "ucsb-cs148-w23"
