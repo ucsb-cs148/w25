@@ -39,7 +39,7 @@ The following graded items will be due on **Tue, 03/21, 23:59:59**:
 
 **Graded**: ({{page.num}}-I) (20 pts) Team (coordinating on one response or by submitting individual commentary) documents team roles and github contributions.
 
-**Graded** : ({{page.num}}-I) (20 pts) You earn these points for submitting feedback on overall team performance via a third and last CATME.org form survey that you will get email invitations for. The submission deadline is **Mon, 03/20, 11:59pm**.
+**Graded** : ({{page.num}}-I) (20 pts) You earn these points for submitting feedback on overall team performance via a third and last CATME.org form survey that you will get email invitations for.
 
 **Graded**: ({{page.num}}-I) (15 pts) Every student lists at least one insight in `#lessons_learned` Slack channel.
 
