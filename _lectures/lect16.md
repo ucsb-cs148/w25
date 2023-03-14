@@ -1,5 +1,5 @@
 ---
-desc: "UX Experiment Prep, Lab08, Team Work Towards Code Freeze"
+desc: "Lab08, 3rd Retro, Team Work Towards Code Freeze"
 lecture_date: 2023-03-07
 num: lect16
 ready: true
