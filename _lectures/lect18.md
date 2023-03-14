@@ -1,5 +1,5 @@
 ---
-desc: "UX Experiment Prep, Lab08, Team Work Towards Code Freeze"
+desc: "Class Canceled. Remote Team Work Towards Code Freeze"
 lecture_date: 2023-03-14
 num: lect18
 ready: true
