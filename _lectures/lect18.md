@@ -32,7 +32,7 @@ A project-oriented course such as CS148 emphasizes learning by doing and the exp
 Thank you all for taking the time!  
 
 
-# Today: **REMOTE** Work Towards Lab09 and Code Freeze: 
+# Today: **REMOTE** Work Towards Lab09 and Code Freeze
 
 
 
