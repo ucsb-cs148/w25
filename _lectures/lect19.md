@@ -6,7 +6,7 @@ ready: true
 ---
 
 # Announcements
-* **Important Announcement**: Final Project Presentations changed to Remote Format:
+* **Important Announcement**: Final Project Presentations changed to Remote Format: 
 With more bad weather predicted for next week, and to give everyone more flexibility for their travels, we decided to switch over from an in-class to a remote presentation format for our session next Thursday, March 23, 4-7pm PDT. Everyone is expected to attend that session via Zoom, which you can do from anywhere you like, assuming a decent internet connection. 
 
 * We will allow pre-recorded video presentations or live presentations via Zoom, as you prefer! If you choose to prerecord your presentations, please list a link to it in the new Final Presentation Video Link column in the [Team Links Spreadsheet](https://docs.google.com/spreadsheets/d/1dXhvtRPpwhPkopjN_JF59bV_RtqDguA2QaIEntIMFLk/edit?usp=sharing) by **Thursday, March 23, 2pm**.  
