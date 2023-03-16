@@ -14,7 +14,7 @@ With more bad weather predicted for next week, and to give everyone more flexibi
 * There is *no requirement* for teams to come to Section tomorrow, but the room is available for you to meet in person to work towards the code freeze deadline, and you can get last feedback from the teaching team and professor. If you'd like to chat with a specific teaching team member, please let us know via Slack by 11am and we will make sure to be there!
 
 * Now, full focus on finalizing your product! 
-    * **Friday, 03/17** (Code Freeze, Final Code Release)
+    * Tomorrow, **Friday, 03/17** (Code Freeze, Final Code Release)
 * Remember: [Lab09](https://ucsb-cs148.github.io/w23/lab/lab09/) has staggered deadlines, with some deliverables due next Tuesday and Thursday. One of them is the last CATME survey, which is now open until Tuesday night.
 
 # ESCIs (Course Evaluations)
