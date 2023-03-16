@@ -13,7 +13,7 @@ ready: true
     * User Manual document 
     * Lab08 issues on your Kanban board for each team member! 
     * Three UX Eval **ideas**
-* [Lab09](https://ucsb-cs148.github.io/w23/lab/lab08/) will have staggered deadlines to help you focus on your Final Release deadline
+* [Lab09](https://ucsb-cs148.github.io/w23/lab/lab09/) will have staggered deadlines to help you focus on your Final Release deadline
 
 # ESCIs (Course Evaluations)
 
