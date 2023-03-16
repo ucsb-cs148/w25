@@ -1,7 +1,7 @@
 ---
 layout: exam_info
 num: project
-ready: false
+ready: true
 desc: "Code Freeze and Final Release"
 exam_date: 2023-03-17 23:59
 ---
@@ -10,7 +10,7 @@ exam_date: 2023-03-17 23:59
 # Code Freeze 
 
 By this deadline, you should have reviewed and accepted your final pull request of the quarter for any new development or other GitHub content.
-Also, the Deployment Instructions linked from your README.md are in their final form.  
+Also, the Deployment Instructions included in or linked from your README.md are in their final form.  
 
 After this deadline, you
 * should NOT be adding or turning on new features

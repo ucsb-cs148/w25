@@ -1,7 +1,7 @@
 ---
 layout: exam_info
 num: project
-ready: false
+ready: true
 desc: "Final Presentations"
 exam_date: 2023-03-23 16:00
 ---
@@ -9,6 +9,7 @@ exam_date: 2023-03-23 16:00
 # Final Presentations 
 
 **4pm to 7pm, Thursday March 23** (original finals slot)
+This will be a Zoom Session everyone is expected to attend. The Zoom link will be announced in the #general channel in Slack.
 
 Here is the point percentage breakdown for grading that the teaching team plans to use for the “Final Product” 40% of the course grade.
 
@@ -29,8 +30,7 @@ We will cross-reference against a ranking obtained from an overall quartiling ju
 
 Each group will have up to 10 minutes for a prepared presentation.
 
-This will be followed by up-to 5 minutes of live exploration of the app
-by the teaching team, including questions. Each member of the group should be
+You should have your product up and running, shareable via Zoom (please prepare a setup where you can screen share), so that the teaching team can perform an up-to 5 minutes of live exploration of the app (asking questions and possibly asking you to take certain actions). Each member of the group should be
 available for the question session.
 
 The ten minute presentation should include a demo (functionality, similar in style to what was done in the MVP video), as well as some discussion of technical matters and design process.

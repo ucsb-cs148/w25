@@ -1,7 +1,7 @@
 ---
 layout: exam_info
 num: project
-ready: false
+ready: true
 desc: "Project Materials Due"
 exam_date: 2023-03-24 23:59
 ---
@@ -10,9 +10,9 @@ exam_date: 2023-03-24 23:59
 
 This is the deadline for finalizing your project documentation
 * There should be a #Deployment section at the bottom of your README.md, which 
-    1. links to Full Deployment Instructions `docs/DEPLOY.md` within your repo.    
+    1. includes all necessary steps to deploy from source, or links to Full Deployment Instructions `docs/DEPLOY.md` within your repo.    
     2. points to a live testable version of your project, either on Heroku (or other cloud service), or to platform binaries (e.g. hosted on Google Drive).
-* Design Document (documenting SW Design and UX Design), linked to in `docs/DESIGN.md`
+* Design Document (documenting SW Design and UX Design), linked to in `docs/DESIGN.md` 
 * User Manual, linked to in `docs/MANUAL.md` 
 * Brief commentary on team member code (and/or other) contributions in GitHub Repo: `team/contributions/CONTRIBS.md`
 
