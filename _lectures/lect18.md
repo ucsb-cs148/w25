@@ -12,7 +12,7 @@ ready: true
 
 * Full focus on finalizing your product! 
     * **Friday, 03/17** (Code Freeze, Final Code Release)
-* [Lab09](https://ucsb-cs148.github.io/w23/lab/lab08/) has staggered deadlines to help you focus on your Final Release deadline
+* [Lab09](https://ucsb-cs148.github.io/w23/lab/lab09/) has staggered deadlines to help you focus on your Final Release deadline
 
 # ESCIs (Course Evaluations)
 
