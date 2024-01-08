@@ -220,6 +220,6 @@ will be met with disciplinary action".
 
 
 Credits:
-* Updated January 9, 2023, T. Hollerer.
-* Based on previous CS148/CS48 course material from  provided by P. Conrad, C. Michael Costanzo and Chandra Krintz.
+* Updated January 8, 2024, T. Hollerer.
+* Based on previous CS148/CS48 course material provided by T. Hollerer, P. Conrad, C. Michael Costanzo and Chandra Krintz.
 
