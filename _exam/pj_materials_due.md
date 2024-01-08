@@ -3,7 +3,7 @@ layout: exam_info
 num: project
 ready: true
 desc: "Project Materials Due"
-exam_date: 2023-03-24 23:59
+exam_date: 2024-03-29 23:59
 ---
 
 # Project Materials Due
