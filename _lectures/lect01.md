@@ -1,8 +1,8 @@
 ---
 desc: Project Team Formation
-lecture_date: 2023-01-12 15:30
+lecture_date: 2024-01-10 14:00
 num: lect01
-ready: true
+ready: false
 
 ---
 
@@ -25,7 +25,7 @@ However, that exercise requires face-to-face interation and is done with index c
 * Please open that app, and use the Google login with your UCSB email address (name@ucsb.edu) - it's the email that is on the class roster (the default one you got messaged to from Canvas, minus the "umail" part).
 * You should see that in the upper right hand corner, you have the role "student".
 * If so, it's working!
-* If not, pleasee flag a teaching team member, and we'll help you get set up. 
+* If not, please flag a teaching team member, and we'll help you get set up. 
 
 # If you have the student role
 
