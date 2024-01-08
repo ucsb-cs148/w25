@@ -2,7 +2,7 @@
 desc: First day of class 
 lecture_date: 2024-01-08 14:00
 num: lect00
-ready: true
+ready: false
 
 ---
 
