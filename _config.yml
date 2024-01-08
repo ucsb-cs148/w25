@@ -16,9 +16,9 @@ exclude:
   - .bundle
 
 course: "CS148"
-qtr: "W23"
-qxx: "W23"
-quarter: "Winter 2023"
+qtr: "W24"
+qxx: "W24"
+quarter: "Winter 2024"
 piazza_url: none
 gauchospace_course_page: https://ucsb.instructure.com/courses/3302
 github_org_name: ucsb-cs148-w24
@@ -47,13 +47,13 @@ sections: "1pm, 2pm, 3pm"
 
 cal_dates: >
   [
-    {"label":"W23 1st day of instruction", "date":"2024-01-08" },	
+    {"label":"W24 1st day of instruction", "date":"2024-01-08" },	
     {"label":"Univ Holiday: Martin Luther King Jr. Day", "date":"2024-01-15" },
     {"label":"Univ Holiday: Presidents' Day", "date":"2024-02-19" },
-    {"label":"W23 instruction ends", "date":"2024-03-15" },
-    {"label":"W23 finals start", "date":"2024-03-16" },
-    {"label":"W23 finals end", "date":"2024-03-22" },
-    {"label":"W23 qtr ends", "date":"2024-03-22" }
+    {"label":"W24 instruction ends", "date":"2024-03-15" },
+    {"label":"W24 finals start", "date":"2024-03-16" },
+    {"label":"W24 finals end", "date":"2024-03-22" },
+    {"label":"W24 qtr ends", "date":"2024-03-22" }
   ]
 
 
