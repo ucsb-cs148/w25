@@ -11,8 +11,8 @@ ready: true
 * Sorry, no crashers! Class enrollment is final (we are already overenrolled and will form groups immediately)
 
 * [Teaching Team](https://ucsb-cs148.github.io/w24/staff/) Introduction 
-* Please fill out the [Student Survey](https://bit.ly/cs148-survey) (required for enrolled students) 
-* Please join our [Slack Workspace](https://join.slack.com/t/ucsb-148-w23/shared_invite/zt-1myeitvup-5oFI2BBZE2TEQjz0VuO~1g) (required for enrolled students)
+* Please fill out the [Student Survey](https://bit.ly/148w24-survey) (required for enrolled students) 
+* Please join our [Slack Workspace](TBA) (required for enrolled students)
 
 # Team
 
