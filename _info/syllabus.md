@@ -1,6 +1,6 @@
 ---
-title: "Syllabus, CMPSC 148, Winter 2023"
-ready: false
+title: "Syllabus, CMPSC 148, Winter 2024"
+ready: true
 ---
 
 
@@ -8,13 +8,13 @@ ready: false
 
 * **Instructor**:  [Tobias Höllerer](http://www.cs.ucsb.edu/~holl) (contact via Slack)
    * Prof. Höllerer is @Tobias Höllerer on Slack, all TAs, Readers and ULAs are available there as well, and you can form group DMs
-* **Lecture**: 3:30pm-4:45pm TR. Attendance is expected.
+* **Lecture**: 2:00pm-3:15pm TR. Attendance is expected.
 * **TAs**: {{site.ta_list_full}} (contact via Slack)
 * **Mentors**: {{site.mentors_list}} (contact via Slack)
 * **Lab** (50 minute discussion section) Friday {{site.sections}}, Attendance is required -- a lot of team work will happen in class.                                       
-* Office Hours: Instructor and TAs will offer in-person office hours. Mentors will offer virtual office hours. See [OH Calendar](https://ucsb-cs148.github.io/w23/info/office_hours/)!   
+* Office Hours: Instructor and TAs will offer in-person office hours. Mentors will offer virtual office hours. See [OH Calendar](https://ucsb-cs148.github.io/w24/info/office_hours/)!   
 
-For course resource links, please visit the course [Canvas site](https://ucsb.instructure.com/courses/3302), which also links to Gradescope, for submitting the HW assignments. 
+For course resource links, please visit the course [Canvas site](https://ucsb.instructure.com/courses/18115), which also links to Gradescope, for submitting the HW assignments. 
 
 
 # About the Course
