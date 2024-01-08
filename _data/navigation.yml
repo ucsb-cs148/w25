@@ -7,7 +7,7 @@
 #    https://ucsb-cs48.github.io/s19
 #    etc.
 
-production_url: https://ucsb-cs148.github.io
+production_url: https://ucsb-cs148.github.io/w24
 
 # List the title and url for each item on navigation bar.
 # For items that should be relative urls, put the baseurl of the site
@@ -35,7 +35,7 @@ main_dropdown:
 offering_menus:
   -
     term: W24
-    baseurl: /w24
+    baseurl: /
     items:
 
       - title: Hwk
@@ -86,7 +86,7 @@ offering_menus:
 
   -
     term: W23
-    baseurl: /w23
+    baseurl: https://ucsb-cs148.github.io/w23
     items:
 
       - title: Hwk
@@ -137,7 +137,7 @@ offering_menus:
 
   -
     term: F21
-    baseurl: /f21
+    baseurl: https://ucsb-cs148.github.io/f21
     items:
 
       - title: Hwk
@@ -188,7 +188,7 @@ offering_menus:
 
   -
     term: S21
-    baseurl: /s21
+    baseurl: https://ucsb-cs148.github.io/s21
     items:
 
       - title: Hwk
