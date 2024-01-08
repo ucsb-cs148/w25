@@ -5,7 +5,7 @@ plugins:
 remote_theme: ucsb-cs-course-repos/course-repo-jekyll-theme
 
 url: https://ucsb-cs148.github.io # the base hostname & protocol for your site
-baseurl: /w23  # the subpath of your site, e.g. "/blog"
+baseurl: /w24  # the subpath of your site, e.g. "/blog"
 
 include:
   - _pages
@@ -21,15 +21,15 @@ qxx: "W23"
 quarter: "Winter 2023"
 piazza_url: none
 gauchospace_course_page: https://ucsb.instructure.com/courses/3302
-github_org_name: ucsb-cs148-w23
-github_org_url: https://github.com/ucsb-cs148-w23
-slack_url: https://ucsb-cs148-w23.slack.com
+github_org_name: ucsb-cs148-w24
+github_org_url: https://github.com/ucsb-cs148-w24
+slack_url: https://ucsb-cs148-w24.slack.com
 
-ta_list: "Vivian Ross, Avishek De"
-ta_list_full: "Vivian Ross, Avishek De"
-mentors_list: "Justin Vo, Mateo Wang, Matthew Nguyen"
+ta_list: "Kristin Hu, Aditya Sharma, Luke Yoffe"
+ta_list_full: "Kristin Hu, Aditya Sharma, Luke Yoffe"
+mentors_list: "Ryan He, Anushka Lodha, Matthew Nguyen, Mateo Wang, Christopher Chang"
 
-github_url: https://github.com/ucsb-cs148/w23
+github_url: https://github.com/ucsb-cs148/w24
 mentor_url: https://ucsb-cs148-holl-mentors.github.io
 
 on_campus: http://proquest.safaribooksonline.com
@@ -40,20 +40,20 @@ hfdp_url: book/software-engineering-and-development/patterns/0596007124
 submit_cs_course: TBD
 
 start_week: 1
-start_date: 2023-01-08
+start_date: 2024-01-08
 num_weeks: 10
 extra_exam_week: true
-sections: "12pm, 1pm, 2pm"
+sections: "1pm, 2pm, 3pm"
 
 cal_dates: >
   [
-    {"label":"W23 1st day of instruction", "date":"2023-01-10" },	
-    {"label":"Univ Holiday: Martin Luther King Jr. Day", "date":"2023-01-16" },
-    {"label":"Univ Holiday: Presidents' Day", "date":"2023-02-20" },
-    {"label":"W23 instruction ends", "date":"2023-03-17" },
-    {"label":"W23 finals start", "date":"2023-03-18" },
-    {"label":"W23 finals end", "date":"2023-03-24" },
-    {"label":"W23 qtr ends", "date":"2023-03-24" }
+    {"label":"W23 1st day of instruction", "date":"2024-01-08" },	
+    {"label":"Univ Holiday: Martin Luther King Jr. Day", "date":"2024-01-15" },
+    {"label":"Univ Holiday: Presidents' Day", "date":"2024-02-19" },
+    {"label":"W23 instruction ends", "date":"2024-03-15" },
+    {"label":"W23 finals start", "date":"2024-03-16" },
+    {"label":"W23 finals end", "date":"2024-03-22" },
+    {"label":"W23 qtr ends", "date":"2024-03-22" }
   ]
 
 
