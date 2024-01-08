@@ -2,7 +2,7 @@
 desc: First day of class 
 lecture_date: 2024-01-08 14:00
 num: lect00
-ready: false
+ready: true
 
 ---
 
@@ -11,8 +11,8 @@ ready: false
 * Sorry, no crashers! Class enrollment is final (we are already overenrolled and will form groups immediately)
 
 * [Teaching Team](https://ucsb-cs148.github.io/w24/staff/) Introduction 
-* Please fill out the [Student Survey](https://bit.ly/148w24-survey) (required for enrolled students) 
-* Please join our [Slack Workspace](TBA) (required for enrolled students)
+* Please fill out the [Student Survey](https://ucsbltsc.qualtrics.com/jfe/form/SV_6KY10BQ9dP584se) (required for enrolled students) 
+* Please join our [Slack Workspace](https://join.slack.com/t/ucsb-148-w24/shared_invite/zt-2a6njd8de-jWfUMt4u6YUmmn05mUB5oQ) (required for enrolled students)
 
 # Team
 
