@@ -35,7 +35,7 @@ main_dropdown:
 offering_menus:
   -
     term: W24
-    baseurl: /
+    baseurl: /w24
     items:
 
       - title: Hwk
@@ -86,7 +86,7 @@ offering_menus:
 
   -
     term: W23
-    baseurl: https://ucsb-cs148.github.io/w23
+    baseurl: /w23
     items:
 
       - title: Hwk
@@ -137,7 +137,7 @@ offering_menus:
 
   -
     term: F21
-    baseurl: https://ucsb-cs148.github.io/f21
+    baseurl: /f21
     items:
 
       - title: Hwk
@@ -188,7 +188,7 @@ offering_menus:
 
   -
     term: S21
-    baseurl: https://ucsb-cs148.github.io/s21
+    baseurl: /s21
     items:
 
       - title: Hwk
