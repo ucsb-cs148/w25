@@ -35,7 +35,7 @@ main_dropdown:
 offering_menus:
   -
     term: W24
-    baseurl: /w24
+    baseurl: /
     items:
 
       - title: Hwk
