@@ -15,9 +15,9 @@ This day is devoted to assignment of students to teams and projects.
 
 * The app is one that will allow us to generate project idea, and then rate one another's ideas.
 * It is intended to reproduce an exercise called [25:10](http://www.liberatingstructures.com/12-2510-crowd-sourcing/)
-  that is the basis for how Prof. Conrad and I have generated project ideas for CMPSC 48 in W19 and W20.
+  that is the basis for how Prof. Conrad and I have generated project ideas for CMPSC 48 and 148 in the past.
 
-However, that exercise requires face-to-face interation and is done with index cards, or pieces of paper. Starting with S20, we were using a web app that could support that same exercise, but also work in a remote teaching setting (S20, S21). Since using the app seemed to be more enjoyable for students, we will continue using it even though we're all in the same classroom again.   
+However, that exercise requires face-to-face interation and is done with index cards, or pieces of paper, which doesn't scale to the current class size. Also, starting with S20, we were using a web app that could support that same exercise, but also work in a remote teaching setting (S20, S21). Since using the app seemed to be more enjoyable for students, we continued using it even after the pandemic.    
 
 # What you'll do next
 
