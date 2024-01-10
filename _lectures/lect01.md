@@ -2,7 +2,7 @@
 desc: Project Team Formation
 lecture_date: 2024-01-10 14:00
 num: lect01
-ready: false
+ready: true
 
 ---
 
@@ -30,19 +30,19 @@ However, that exercise requires face-to-face interation and is done with index c
 # If you have the student role
 
 * **Enter a project idea**. You should see a form where you can enter a project idea. 
-  * You have 10 minutes.  Come up with (or pick the best project idea you thought about over the weekend) you can in these 10 minutes.
+  (This step was supposed to be done by 1pm on Wednesday, but if you have not done it yet, do it now!)
+  * You have 5 minutes.  Come up with (or pick the best project idea you thought about since last class) in these 5 minutes.
   * If you can't come up with a good project idea, put in a mediocre project idea.
   * Don't stress over this too much.  We are grading this on participation, and doing your best, not on 
     the quality of your idea.
-  * Nevertheless, come up with the best idea you can!
-  * If you have a great second (or third) idea, flag down a teaching team member, and we'll help you enter those. The web app unfortunately only allows one idea entry per email address.  
+  * Nevertheless, come up with the best idea you can! 
 
 * **Rate other project (at least five)**.
   * Once you've put in a project idea, you'll be able to rate other students project ideas (anonymously).
   * Rate at least five, but after that you can rate more if you like.
   * Don't spend too long on each rating.  You have about 10 minutes to rate five project ideas.
 
-After about 20 minutes, or after we see that everyone is done, we'll reconvene in the main group. 
+After about 10 minutes, or after we see that everyone is done, we'll reconvene in the main group. 
 
 For the top-rated submitted project ideas, we will follow this protocol:
 
@@ -53,12 +53,12 @@ For the top-rated submitted project ideas, we will follow this protocol:
 
 * Instructor asks if the submitter wants to form a project team around the idea
    * If no, proceed to "If a team not formed by original submitter"
-* Instructor asks if the submitter can coordinate with the team in **their** Discussion Section (Fri 11am or Fri noon).
+* Instructor asks if the submitter can coordinate with the team in **their** Discussion Section (Fri 1pm,2pm, or 3pm).
 * Instructor asks which students that can make that Section are interested in that project.
 * We will announce a URL to a Google Spreadsheet in which team members can self-enter.
 
-If there are exactly 5, 6 or 7 hands (including the submitter), those students immediately form a team. 
-* We create a Slack channel for that team. 
+If there are 5, 6 or 7 hands (including the submitter), those students immediately form a team. 
+* We create a Slack channel for that team. Please name the channel pj01-descriptivename01, pj02-descriptivename02 according to what team number you are in the spreadsheet.     
 
 If there were 8 or more hands:
 * The project is viable, but set aside for now; placed into a pile of "viable projects to return to later".
@@ -71,11 +71,11 @@ If 4 or fewer hands:
 * Project is thrown open for bid to the entire class.
    * Ask everyone interested in working on the project to raise their hand.
 
-* If there is no team of size at least 4, the idea is non-viable; set it aside as non-viable.
+* If there is no team of size at least 5, the idea is non-viable; set it aside as non-viable.
 
-* If and only if there is a team of 4, 5 or 6  that can all get together in a discussion section, a team can then be formed to work on that project idea immediately.
+* If and only if there is a team of 5, 6 or 7  that can all get together in a discussion section, a team can then be formed to work on that project idea immediately.
 
-* If there is only one team of 6, that team wins over competing teams of 4 or 5.
+* If there is only one team of 7, that team wins over competing teams of 6 or 5.
    * Similar if there is no team of 6, and only one team of 5.
 * If there are multiple teams of equal size competing, the instructor may resolve the conflict by any of these means:
    * Ask a representative from each potential team to do Rock Paper Scissors 
