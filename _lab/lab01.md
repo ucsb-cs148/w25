@@ -1,18 +1,18 @@
 ---
-assigned: 2023-01-13 12:00
+assigned: 2024-01-12 13:00
 desc: Getting Started
-due: 2023-01-20 23:59
+due: 2023-01-19 23:59
 layout: lab
 num: lab01
-ready: true
+ready: false
 signup_app: https://ucsb-cs-github-linker.herokuapp.com/
-slack_url: https://ucsb-cs148-w23.slack.com
-github_org_name: ucsb-cs148-w23
+slack_url: https://ucsb-cs148-w24.slack.com
+github_org_name: ucsb-cs148-w24
 
 ---
 
 <div style="display:none">
-https://ucsb-cs148.github.io/w23/lab/lab01/
+https://ucsb-cs148.github.io/w24/lab/lab01/
 </div>
 
 <style>
@@ -35,9 +35,8 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 ## Announcements 
 
-* COVID-19: Cases in classes are to be expected. The system is working. Please keep everyone safe by heeding all precautions. I encourage your getting tested after a class encounter with a positive case or if you have any symptoms. If you need to quarantine, you will not have to fear any negative consequences in this class! We will make sure you continue to be in the loop with your team.
-* Making sure teams are all 4-6 students, accommodating any students without groups (everybody on our list is accounted for).
-* Possibility to switch (as the whole team) from 11am to 12pm Lab Section
+* Making sure teams are all 6-8 students, accommodating any students without groups (everybody on our list is accounted for).
+* Possibility to switch (as the whole team) to a different Lab Section
 * TA will go over today's lab work (do be done in team groups) 
 
 
@@ -47,10 +46,11 @@ Seating charts are here:
 
 | Row | 12pm | 1pm | 2pm |
 |-----|-----|-----|-----|
-|1 | **t01-cookbook-social** (Vivian/Justin) | **t07-study-group** (Avishek/Tobias) | **t09-music-recommendation** (Mateo/Matthew) |
-|2 | **t02-schedule-planner** (Matthew/Tobias) | **t08-buddy-up** (Mateo/Vivian) | **t10-meal-prep-planner** (Avishek/Justin) |
-|3 | **t03-cheapskate** (Avishek/Vivian) | **t04-solar-system** (Justin/Matthew) | **t11-tbd** (Vivian/Avishek/Tobias) |
-|4 | **t05-telekinetic-game** (Mateo/Avishek) | **t06-fitness-nutrition-tracker** (Vivian/Avishek) | |
+|1 | **t01-tbd** (Vivian/Justin) | **t07-tbd** (Avishek/Tobias) | **t09-tbd** (Mateo/Matthew) |
+|2 | **t02-tbd** (Matthew/Tobias) | **t08-tbd** (Mateo/Vivian) | **t10-tbd** (Avishek/Justin) |
+|3 | **t03-tbd** (Avishek/Vivian) | **t04-tbd** (Justin/Matthew) | **t11-tbd** (Vivian/Avishek/Tobias) |
+|4 | **t05-tbd** (Mateo/Avishek) | **t06-tbd** (Vivian/Avishek) | | **t12-tbd** (Vivian/Avishek/Tobias) |
+|4 | **t13-tbd** (Mateo/Avishek) | **t14-tbd** (Vivian/Avishek) | | **t15-tbd** (Vivian/Avishek/Tobias) |
 {:.table .table-sm .table-striped .table-bordered}
 
 And please check in with any team members who are not in the classroom via your team channel in Slack right away! 
@@ -145,7 +145,7 @@ Notes for running locally
 * Installing software on your own machine is typically straightforward.  We can try to assist during course staff office hours.   Please know. however, that we cannot necessarily provide detailed tech support for every possible operating system version.   You will ultimately be resposible for dealing with any OS specific issues.
 
 Note for running on CSIL
-* On CSIL, disk space has typically not been an issue for Spring Boot.  However, next.js does typically take up quite a bit of disk space for dependencies and it is easy to blow past your disk quota.  This article describes some techniques for dealing with disk quota issue on CSIL: [CSIL: Disk Quota and File Quota issues](https://ucsb-cs48.github.io/topics/csil_disk_quota/)
+* On CSIL, disk space has typically not been an issue for Spring Boot.  However, next.js does typically take up quite a bit of disk space for dependencies and it is easy to blow past your disk quota.  This article describes some techniques for dealing with disk quota issue on CSIL: [CSIL: Disk Quota and File Quota issues](https://ucsb-cs148.github.io/topics/csil_disk_quota/)
 * When running on CSIL, a web server running on `localhost` will not be accessible in your local browser unless you take
   special steps to make it accessible, such as setting up ssh port forwarding.  That process is described here: [CSIL: SSH Port Forwarding](https://ucsb-cs148.github.io/topics/csil_ssh_port_forwarding/)
 
