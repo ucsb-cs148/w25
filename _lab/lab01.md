@@ -42,23 +42,17 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 ## Step 0: Find your assigned seat and meet your mentors
 
-We have 14 teams set up: 
+We have 14 teams set up:
 
-pj01-universityclothing 
-pj02-travelplanner 
-pj03-intelligrocery 
-pj04-courserecs 
-pj05-codegrow 
-pj06-foundit 
-pj07-datingalgorithm 
-pj08-reccen
-pj09-liveordie
-pj10-spotifai
-pj11-songrater 
-pj12-appblocker
-pj13-researchhelper 
-pj14-ucsbcoral
-
+| Table | 1pm | 2pm | 3pm |
+|-----|-----|-----|-----|
+|1 | **pj01-universityclothing** (mentor(s) TBD) | **pj04-courserecs** (mentor(s) TBD) | **pj05-codegrow** (mentor(s) TBD) |
+|2 | **pj02-travelplanner** (mentor(s) TBD) | **pj06-foundit** (mentor(s) TBD) | **pj07-datingalgorithm** (mentor(s) TBD) |
+|3 | **pj03-intelligrocery** (mentor(s) TBD) | **pj10-spotifai** (mentor(s) TBD) | **pj08-reccen** (mentor(s) TBD) |
+|4 | **pj11-songrater** (mentor(s) TBD) | **pj13-researchhelper** (mentor(s) TBD) | | **pj09-liveordie** (mentor(s) TBD) |
+|5 | **pj12-appblocker** (mentor(s) TBD) |   |  |  |
+|6 | **pj14-ucsbcoral** (mentor(s) TBD) |   |  |  |
+{:.table .table-sm .table-striped .table-bordered}
 
 
 And please check in with any team members who are not in the classroom via your team channel in Slack right away! 
