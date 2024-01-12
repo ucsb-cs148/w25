@@ -69,7 +69,7 @@ This is the goal for Section today.
 **--------- Over the coming week: -----------------------------------------** 
 
 **Graded**: (20 pts) You earn these points if/only if:
-* your group logged your first Scrum meetings (including `lab01.md` and `lec02.md`) in the `sprint01` subfolder. 
+* your group logged your first Scrum meetings (including `lec02.md` and at least one of `lab01.md`,`lab02.md`) in the `sprint01` subfolder. 
 * you took accurate attendance, accounting for all members of your group
    (See the [teams page]({{'/teams_page/' | relative_url }}) for a list of group members)
 * the meeting notes the scribe took are added to the above files. For future meetings, you will replace `lab01` with the respective meeting time denominator (e.g. `lec05` or `10-17-2pm`)
@@ -199,7 +199,7 @@ Notes:
 
 For this step, please wait until you get the ok from the instructors that your project group repos have been generated.
 
-Then, on your computer of choice, `cd` in the directory where you plan to do your work for this course (e.g. perhaps `~/cs148`), type this command to clone your empty repo into that directory.   In place of `repo-url-goes-here`, copy the URL for the new repo you created.  That will be, for example: `git@github.com:ucsb-cs148-f21/cgaucho_lab00.git` but with `cgaucho` replaced with your GitHub id.
+Then, on your computer of choice, `cd` in the directory where you plan to do your work for this course (e.g. perhaps `~/cs148`), type this command to clone your empty repo into that directory.   In place of `repo-url-goes-here`, copy the URL for the new repo you created.  That will be, for example: `git@github.com:ucsb-cs148-w24/cgaucho_lab00.git` but with `cgaucho` replaced with your GitHub id.
 
 ```
 git clone repo-url-goes-here
@@ -253,12 +253,12 @@ The `team/NORMS.md` file should contain all of the team norms.  It is ok to "sug
 
 ## Step 5: Document your meetings
 
-During [lec02]({{'/lectures/lec02/' | relative_url }}), you have first practiced logging meetings in GitHub. Make sure to log today's meeting as well, and capture it as `lab01.md` in the `sprint01` folder you created in lecture. Reminder: In your github repository, you structure the documentation of your meetings into 'sprints' (which are week-long unless you as a team decide on a different interval). 
+During [lec02]({{'/lectures/lec02/' | relative_url }}), you will have first practiced logging meetings in GitHub. Make sure to log any standup and other team meetings as well, and capture it as `lab01.md` and\or `lab02.md` in the `sprint01` folder you created in lecture. Reminder: In your github repository, you structure the documentation of your meetings into 'sprints' (which are week-long unless you as a team decide on a different interval). 
 
 <div class="grade" markdown="1">
 
 **Graded**: (20) You earn these points if/only if:
-* your group logged `lec02.md` and `lab01.md` meetings in the `sprint01` subfolder. 
+* your group logged `lec02.md` and at least one of `lab01.md` `lab02.md` meetings in the `sprint01` subfolder. 
 * you took accurate attendance, accounting for all members of your group
    (See the [teams page]({{'/teams_page/' | relative_url }}) for a list of group members)
 * the meeting notes the scribe took are added to the above files. For future meetings, you will replace `lab01` with the respective meeting time denominator (e.g. `lec05` or `10-17-2pm`)
