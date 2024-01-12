@@ -222,7 +222,7 @@ The next step is done as an individual
 
 ### Step 3a: Inside your branch of the repo, create a file called `team/your_first_name.md`
 
-In your branch, NOT on the master branch of the main repo, please do the following:
+In your branch, NOT on the `main` branch of the main repo, please do the following:
 
 Make a directory called `team`. Inside this, create a markdown file named `your_first_name.md` containing a brief description of you and of your ideas for the project. 
 
@@ -232,7 +232,7 @@ Each team member should do this individually. Note that this will be publicly di
    
 ### Step 3b: Do a pull request from your branch that has your file called `team/your_first_name.md`.
 
-Do a [pull request](https://www.better.dev/create-your-first-github-pull-request) from your branch to the master branch of the repo.  Each team member should have done at least
+Do a [pull request](https://www.better.dev/create-your-first-github-pull-request) from your branch to the `main` branch of the repo.  Each team member should have done at least
 one pull request from their github id.
    
 ## Step 4: Create your team/NORMS.md file
