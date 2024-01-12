@@ -1,7 +1,7 @@
 ---
 assigned: 2024-01-12 13:00
 desc: Getting Started
-due: 2023-01-19 23:59
+due: 2024-01-19 23:59
 layout: lab
 num: lab01
 ready: false
@@ -42,16 +42,24 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 ## Step 0: Find your assigned seat and meet your mentors
 
-Seating charts are here:
+We have 14 teams set up: 
 
-| Row | 12pm | 1pm | 2pm |
-|-----|-----|-----|-----|
-|1 | **t01-tbd** (Vivian/Justin) | **t07-tbd** (Avishek/Tobias) | **t09-tbd** (Mateo/Matthew) |
-|2 | **t02-tbd** (Matthew/Tobias) | **t08-tbd** (Mateo/Vivian) | **t10-tbd** (Avishek/Justin) |
-|3 | **t03-tbd** (Avishek/Vivian) | **t04-tbd** (Justin/Matthew) | **t11-tbd** (Vivian/Avishek/Tobias) |
-|4 | **t05-tbd** (Mateo/Avishek) | **t06-tbd** (Vivian/Avishek) | | **t12-tbd** (Vivian/Avishek/Tobias) |
-|4 | **t13-tbd** (Mateo/Avishek) | **t14-tbd** (Vivian/Avishek) | | **t15-tbd** (Vivian/Avishek/Tobias) |
-{:.table .table-sm .table-striped .table-bordered}
+pj01-universityclothing 
+pj02-travelplanner 
+pj03-intelligrocery 
+pj04-courserecs 
+pj05-codegrow 
+pj06-foundit 
+pj07-datingalgorithm 
+pj08-reccen
+pj09-liveordie
+pj10-spotifai
+pj11-songrater 
+pj12-appblocker
+pj13-researchhelper 
+pj14-ucsbcoral
+
+
 
 And please check in with any team members who are not in the classroom via your team channel in Slack right away! 
 
