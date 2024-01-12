@@ -54,7 +54,7 @@ We have 14 teams set up:
 |6 | **pj14-ucsbcoral** (mentor(s) TBD) |   |  |  |
 {:.table .table-sm .table-striped .table-bordered}
 
-Teams: Let's start meeting at the table numbers listed in the above table. We can decide later to spread out more if that is prefered. 
+Teams: Let's start meeting at the table numbers listed in the above table. We can decide later to spread out more if that is preferred. 
 
 Please check in with any team members who are not in the classroom via your team channel in Slack right away! 
 
