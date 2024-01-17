@@ -7,7 +7,7 @@ ready: true
 
 # Homework for next Monday 
 
-* <https://ucsb-cs148.github.io/w23/hwk/h02/>
+* <https://ucsb-cs148.github.io/w24/hwk/h02/>
 
 
 # Teams are Assigned
