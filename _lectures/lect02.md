@@ -2,7 +2,7 @@
 desc: "Meeting Logs, Initial README, Team Agreements"
 lecture_date: 2024-01-17
 num: lect02
-ready: false
+ready: true
 ---
 
 # Homework for next Monday 
@@ -13,10 +13,9 @@ ready: false
 # Teams are Assigned
 
 You should have been:
-- active on a team channel on the [Slack](https://ucsb-cs148-w23.slack.com)
-- added to one of the [teams](https://github.com/orgs/ucsb-cs148-w23/teams) on the [ucsb-cs148-w23 Github org](https://github.com/ucsb-cs148-w23).
+- active on a team channel on the [Slack](https://ucsb-cs148-w24.slack.com)
+- added to one of the [teams](https://github.com/orgs/ucsb-cs148-w24/teams) on the [ucsb-cs148-w24 Github org](https://github.com/ucsb-cs148-w24).
 - given admin access to a project repo for your team
-- given read-only access to a FEEDBACK repo for your team
 
 Today, you'll also again be working in groups with your team during the class time.    
 
@@ -38,7 +37,6 @@ Today, you'll also again be working in groups with your team during the class ti
 * * <https://www.techwell.com/2012/10/how-team-norms-can-boost-team-effectiveness> 
 
 # Background Information: User Story Mapping
-
 * Part 1 (12:12) (Planning): <https://youtu.be/IsuIZaqnIuU>
 * Part 2 (10:15) (Using a Github Project Kanban Board): <https://youtu.be/8U0FezxxMGU>
 * Part 3 (16:28) (More User Stories and Issues): <https://youtu.be/lIB0WJzgSs8>
@@ -61,19 +59,20 @@ in the weeks ahead.
 
 
 
-# The Slack: `_articles` vs. `_help` channels
+# The Slack: `*_help` channels
 
-On the Slack, we will make available several pairs of channels that have the endings `_articles` and `_help`, for example:
-* [`#git_articles`](), [`#git_help`]()
-* [`#js_articles`](), [`#js_help`]()
-* [`#mobile_articles`](), [`#mobile_help`]()
+On the Slack, we will make available several channels that have the endings `_help`, for example:
+* [`#git_help`]()
+* [`#js_help`]()
+* [`#mobile_help`]()
+* [`#unity_help`]()
 * etc.
 
-In each case:
-* *If you want to share a useful article, tip, blog post, video, etc.* about the topic,  post in the `_articles` channel for the topic.
-* *If you need help* with the topic, i.e. you want to ask a question, post in the `_help` channel for the topic.   You are also encouraged to provide help in the `_help` channel if you think you know the answer to someone's question.
+* *If your team would like to see additional help channels on specific topics*, make a suggestion in the new #teaching-team-suggestions Slack channel (you need to browse channels and join this one.)
+* *If you want to share a useful article, tip, blog post, video, etc.* about the topic,  post in the `_help` channel for the topic.
+* *If you need help* with the topic, i.e. you want to ask a question, post in the channel corresponding with the topic.   You are also encouraged to provide help in the `_help` channel if you think you know the answer to someone's question.
 
-# The `#js_*` channels are for everything JavaScript related
+# The `#js_*` channel is for everything JavaScript related
 
 Note that the [`#js_articles`]() and [`#js_help`]() channels will be used for all technologies that relate to JavaScript-based technology stacks, including:
 * JavaScript
@@ -88,14 +87,18 @@ Note that the [`#js_articles`]() and [`#js_help`]() channels will be used for al
 * IOS
 * Kotlin
 * Swift 
+* ReactNative
+* Flutter
 * etc.
   
-# If you aren't sure, you can always use [`#teaching-team`](https://ucsb-cs148-f21.slack.com/archives/C02G8R59LF5)
+We'll be happy to create more specific channels for more focused help!   
+
+# If you aren't sure, you can always use [`#teaching-team-suggestions`](mailto:teaching-team-suggest-aaaal2i46bvrdvi74oe2ewpngm@ucsb-148-w24.slack.com)
 
 A few more special purpose channels:
 
 * Always monitor the channel for your team
-* Always monitor the `#general` channel for announcements, especially *during lecture or section breakouts*
+* Always monitor the `#announcements` channel, especially *during lecture or section breakouts*
 
 # Absences
 
@@ -109,7 +112,7 @@ Please send these notifications:
 
 This is a matter of showing respect for your team.
 
-Then, as soon as possible after the class, *check with your team* to see what you missed.  It should be a team responsibility to help one another with unavoidable absences.
+Then, as soon as possible after the class, *check with your team* to see what you missed. It should be a team responsibility to help one another with unavoidable absences.
 
 Unavoidable reasons might include:
 * Being too ill to participate in class
@@ -164,25 +167,25 @@ Meeting Time: lect02
 
 Type of meeting: <one or several of [sprint planning, daily scrum, sprint review, retrospective, story time]>
 
-Team:  Alan Roddick [x], Nagarjun Avaraddy [x], Tobias Höllerer [x], Bryan Terce [x], Vincent Tieu [x], Hunter Xia [x], Kaiwen Li [x], Wei-Yee Go [ ] 
+Team:  Aditya Sharma [ ], Anushka Lodha [x], Christopher Chang [x], Kristin Hu [x], Mateo Wang [x], Matthew Nguyen [x], Noa Kim [ ],Tobias Höllerer [ ], Luke Yoffe [ ]
 
 *Scribed Discussion:*
 
-  Tobias forwarded web technology stack slides. Submitted for comments by the teaching team. Next task: Prepare Lab02. No current roadblocks
+  Tobias updated lect02 agenda. Submitted for comments by the teaching team. Next task: Prepare Lab02. Will give class intros via Zoom. No current roadblocks
 
-  Wei-Yee is absent but announced that he finished grading h00. Waiting for instructor feedback. No current roadblocks. 
+  Aditya and Luke are on conference duties. No current roadblocks. 
 
-  Alan ... 
+  Noa Kim has posted h02. Waiting for instructor feedback for grading.
 
-  Nagarjun...
+  Kristin is running the lect02 class session. No current roadblocks. 
 
-  Bryan...
+  Anushka...
 
-  Vincent...
+  Christopher...
 
-  Hunter...
+  Mateo...
 
-  Kaiwen...
+  Matthew...
 
 </div>
 
@@ -194,7 +197,7 @@ Taking attendance for today's lab, and making sure your name is on your log with
 **NOTE 2**: Having a group member (or two) absent will not cause your group's grade to be reduced.  However you are require to *record* attendance
 in order for the group to get full credit for the lab. In the future, team members that cannot make it to a meeting should message their information to the meeting lead beforehand.
 
-**NOTE 3** In the future, meeting time can also be something like lect05 (for Lecture 5), or 10-17-2pm for an out-of-class-time meeting.
+**NOTE 3** In the future, meeting time can also be something like lect05 (for Lecture 5), or 01-18-2pm for an out-of-class-time meeting.
 
 In your github repository, you will structure the documentation of your meetings into 'sprints' (your team will decide on the Sprint length / interval. Typically, for this class a Sprint is one or two weeks). 
 
@@ -277,9 +280,8 @@ Two future steps will be to also add `.gitignore` and a `LICENSE.md`
 
 The `.gitignore` will depend on your tech stack choice.
 * Create a file called `.gitignore` in the root of your repo
-* For Spring Boot project, we recommend the contents from this article: <https://ucsb-cs148.github.io/javatopics/gitignore_maven/>
-* For next.js, a good start is the `.gitignore` for Node, found here: <https://github.com/github/gitignore/blob/master/Node.gitignore>
-
+* A list of good starting gitignore files is found here: <https://github.com/github/gitignore>
+There are also various gitgnore generators out there! 
 
 For the `LICENSE.md`:
 * Consult <https://choosealicense.com/>.
