@@ -4,5 +4,5 @@ role: Undergraduate Learning Assistant
 img: matt.jpg
 img100w: matt_100w.jpg
 bio: >
-  Matthew is a 3rd year computer engineering student here at UCSB. He is currently the Webmaster for the university's IEEE organization. He is interested in iOS mobile app development with Swift and also has web development experience with technologies such as React, Node.js, MongoDB, Spring Boot, and Jekyll. Outside of class, Matthew enjoys going to concerts, hiking, watching the NBA, and trying out new food.
+  Matthew is a 4th year computer engineering student here at UCSB. He has experience as a mobile software engineer and worked with a variety of mobile development platforms (iOS with Swift, Android with Java/Kotlin, and React Native). He also has some experience with web development technologies such as React, Node.js, and Firebase. Outside of class, Matthew enjoys going to concerts, trying out new food, and staying active!
 ---
