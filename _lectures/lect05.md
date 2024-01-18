@@ -1,8 +1,8 @@
 ---
 desc: "Production pipeline. Feature-branch/pull request workflow"
-lecture_date: 2023-01-26
+lecture_date: 2023-01-29
 num: lect05
-ready: true
+ready: false
 ---
  
 # Announcements

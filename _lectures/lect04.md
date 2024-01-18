@@ -1,8 +1,8 @@
 ---
 desc: "Project Management: README.md, Leadership, Retros, Learning plan"
-lecture_date: 2023-01-24
+lecture_date: 2024-01-24
 num: lect04
-ready: true
+ready: false
 ---
 
 
