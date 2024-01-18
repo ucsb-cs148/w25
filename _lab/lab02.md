@@ -58,10 +58,10 @@ Note that each time an issue is moved or assigned, the date/time is tracked; so 
 
 But doing it "after the fact" is better than not doing it at all; if nothing else, it helps you learn the mechanics to that you can know better how to do it next time.  So if you forget to do it as you work, go back and do it, going through the motions.  This will earn you partial credit, which is better than getting a zero for this part.
 
-**Graded (lab02-T)**: is your Team grade for {{page.num}}.  As part of this grade:
+**Graded (lab02-T)**: You earn 60 team points for {{page.num}} for completing/ensuring the following:
 
 * (20 pts) Your README.md file is updated with information about your technology stack and approach, as well as listing user roles (see [this description](https://ucsb-cs148.github.io/w24/lab/lab02-addendum))  
-* (10 pts) There should be at least one user story in the In-Progress or Done column for your team. If there is more than one in the In-Progress column at any given time, it is because the issues for the first one are insufficient to keep the team making progress, and it was necessary to bring over a second one to have enough issues to work on.
+* (10 pts) There should be at least one user story in the In-Progress or Done column for your team. If there is more than one in the In-Progress column at any given time, it is because the issues for the first one are insufficient to keep the team making progress, and it was necessary to bring over additional ones to have enough issues to work on and keep every team member active.
 * (10 pts) There should be at least one issue under each user story that supports implementing that user story.
 * (20 pts) Each user on the team should have been assigned to at least one issue in the in-progress column.   
    For teams of 6, this part of your grade is 3.3 points per team member.  For teams of 7, it is 2.9 points per team member, for teams of 8 it is 2.5 points. 
