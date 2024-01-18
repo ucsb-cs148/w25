@@ -1,11 +1,11 @@
 ---
-assigned: 2024-01-18 13:00
+assigned: 2024-01-19 13:00
 desc: Kanban Boards towards MVP Demo Video
-due: 2024-01-25 23:59
+due: 2024-01-26 23:59
 due_2_weeks: 2024-02-02 23:59
 layout: lab
 num: lab02
-ready: true
+ready: false
 github_org: ucsb-cs148-w24
 ---
 
