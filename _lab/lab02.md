@@ -5,7 +5,7 @@ due: 2024-01-26 23:59
 due_2_weeks: 2024-02-02 23:59
 layout: lab
 num: lab02
-ready: false
+ready: true
 github_org: ucsb-cs148-w24
 ---
 
