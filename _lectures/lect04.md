@@ -7,8 +7,8 @@ ready: false
 
 
 Announcements:  
-* H03 (Retrospectives) due today. New [h04](https://ucsb-cs148.github.io/w23/hwk/h04/)(Agile Basics 3/3) posted, due on Thursday.  
-* Work on [lab02](https://ucsb-cs148.github.io/w23/lab/lab02/)
+* H03 (Retrospectives) due today. New [h04](https://ucsb-cs148.github.io/w24/hwk/h04/)(Agile Basics 3/3) posted, due on Monday.  
+* Work on [lab02](https://ucsb-cs148.github.io/w24/lab/lab02/)
 * Sprint Planning! 
 
 # Today
@@ -45,9 +45,6 @@ Example:
 | Wed 10/13 | Taylor Chen       | Will lead first Retro                                  | 
 
 ```
-
-# Sprint Planning
-Part of your [lab02](https://ucsb-cs148.github.io/w23/lab/lab02/) deliverables include documentation of at least one Sprint Planning meeting in a team/sprint0?/ folder in your main repo (question mark for number of your current sprint, which may vary from team to team). For the purpose and mechanisms of a Sprint Planning meeting see, e.g., pages 25-27 of [our Scrum booklet](https://sites.cs.ucsb.edu/~holl/CS148/handouts/Scrum.pdf). It is OK for such a meeting to already have happened and to be documented retroactively.
 
 # Team Activity #2 in `team/LEARNING.md`
 
@@ -152,18 +149,18 @@ Examples:
 You are not only permitted, but *strongly encouraged* even, to make *additional repos* in addition to your main project
 repo that contains extra "proof of concept", and "practice code" for your project.
 
-These are someetimes called *spikes*.
+These are sometimes called *spikes*.
 
-You can name these with private or public repos in the `ucsb-cs148-s21` github org names such as `spike-t1-try-spotify-api` and then give your team access to them.
+You can name these with private or public repos in the `ucsb-cs148-w24` github org names such as `spike-t1-try-spotify-api` and then give your team access to them.
 
 You may want to make such repos part of your learning plan.
 
 # If you have extra time
 
 * Kanban board column (if not *fully* done)
-  - If the Kanban board column for [lab02](https://ucsb-cs148.github.io/w23/lab/lab02/) is not complete (i.e all stories groomed with clear acceptance criteria), work on that.   
+  - If the Kanban board column for [lab02](https://ucsb-cs148.github.io/w24/lab/lab02/) is not complete (i.e all stories groomed with clear acceptance criteria), work on that.   
   - This should be finished by Thursday if possible, Friday midnight *at the latest* so your team is making progress! Note that Friday's Section will be all taken up by the First Retrospective
-* Finish anything you were "in the middle of" when time ran out last Section.
+* Finish anything you were "in the middle of" when time ran out last meeting.
 * If that's done, choose either:
   - Get started on the learning plan
   - Futher definition on iterations towards your MVP

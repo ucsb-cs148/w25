@@ -2,7 +2,7 @@
 desc: Scrum Process, Kanban Boards
 lecture_date: 2024-01-22 14:00
 num: lect03
-ready: false
+ready: true
 
 ---
 # Announcements: 
@@ -22,26 +22,35 @@ ready: false
 * Scrum – A Breathtakingly Brief and Agile Introduction: <https://sites.cs.ucsb.edu/~holl/CS148/handouts/Scrum.pdf>
 * [Scenario-based Design](<https://sites.cs.ucsb.edu/~holl/CS148/handouts/Slides_ScenarioBasedDesign.pdf>)
 
-# Background Information: User Story Mapping
+# Sprint Planning
+Part of your [lab02](https://ucsb-cs148.github.io/w24/lab/lab02/) deliverables include documentation of at least one Sprint Planning meeting in a team/sprint0?/ folder in your main repo (question mark for number of your current sprint, which may vary from team to team). For the purpose and mechanisms of a Sprint Planning meeting see, e.g., pages 25-27 of [our Scrum booklet](https://sites.cs.ucsb.edu/~holl/CS148/handouts/Scrum.pdf). It is OK for such a meeting to already have happened and to be documented retroactively.
 
-* Part 1 (12:12) (Planning): <https://youtu.be/IsuIZaqnIuU>
-* Part 2 (10:15) (Using a Github Project Kanban Board): <https://youtu.be/8U0FezxxMGU>
-* Part 3 (16:28) (More User Stories and Issues): <https://youtu.be/lIB0WJzgSs8>
 
-If you want to reference the slides from the videos, they are here: 
-* [From User Story Mapping to Kanban in Github](https://docs.google.com/presentation/d/1UD5qIm5njZFF2s8OvCJdJPnsR_VvnavcZRP9cXRqRNw/edit?usp=sharing), a presentation by Phill Conrad and John Cutler
+# IMPORTANT Update on User Story Mapping
 
-We did not discuss all of the items below in detail, but we mentioned some of them, and will go into more detail
+Github Projects has changed substantially since the last time this course was taught. Prof. Conrad's videos posted in the [lect02 notes](https://ucsb-cs148.github.io/w24/lectures/lect02/) still describe what we are trying to accomplish, but the mechanisms that GitHub Projects support have been revamped since then. The old [Github Projects (classic) experience is actually still available](https://docs.github.com/en/issues/organizing-your-work-with-project-boards), but [the new experience has several powerful new features](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects), so we will adapt and practice the new functionality in this course. 
+
+We will give a brief demo on Kanban Board mapping in class today. 
+
+The most important pieces of information are: 
+* You can now have several Github Projects associated with any one Repository (but we will likely maintain a 1-1 mapping) 
+* Instrad of the old system of Cards and Issues, now every new item is created as an Issue. 
+* There is a new powerful system of custom fields and tags. We will use a custom field "Type" to distinguish between User Stories and Issues. 
+* You have new helpful views of your User Stories and Issues in addition of the Kanban Board: Item View, Roadmap view, and custom tables. 
+
+# Where we are
+
+We did not discuss all of the items below in detail, but we mentioned most of them, and will go into more detail
 in the weeks ahead.
 
 * Forming teams
+* Setting up a Kanban board
 * Establishing team norms/procedures 
 * Defining user stories / issues
-* Defining a minimum viable product
-* Setting up a Kanban board
 * Assigning user stories to individuals for an iteration
 * Completing issues, and doing pull requests
 * Code reviews
+* Defining a minimum viable product
 * Retrospectives
 
 # Work in Project Groups: 
