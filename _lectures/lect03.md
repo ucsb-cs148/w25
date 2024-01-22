@@ -9,7 +9,7 @@ ready: true
 * Homework for Wednesday: On Retrospectives <https://ucsb-cs148.github.io/w24/hwk/h03/>
 
 # ToDos: 
-* Please fill in some information on your planned tech stack(s) at <https://bit.ly/cs148-drivew23>
+* Please fill in some information on your planned tech stack(s) at <https://bit.ly/148-teams> 
 
 # Topics: 
 * User Analysis / Task Analysis - the first two steps of any design process. 
