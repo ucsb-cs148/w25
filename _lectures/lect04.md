@@ -2,14 +2,15 @@
 desc: "Project Management: README.md, Leadership, Retros, Learning plan"
 lecture_date: 2024-01-24
 num: lect04
-ready: false
+ready: true
 ---
 
 
 Announcements:  
-* H03 (Retrospectives) due today. New [h04](https://ucsb-cs148.github.io/w24/hwk/h04/)(Agile Basics 3/3) posted, due on Monday.  
+* H03 (Retrospectives) was due today. New [h04](https://ucsb-cs148.github.io/w24/hwk/h04/)(Agile Basics 3/3) posted, due on Monday.  
 * Work on [lab02](https://ucsb-cs148.github.io/w24/lab/lab02/)
 * Sprint Planning! 
+* #lessons-learned channel
 
 # Today
 
@@ -107,13 +108,6 @@ Note that:
 * A GitHub repository of links to resources: https://github.com/enaqx/awesome-react
 * A helpful tutorial outside of the official documentation: https://www.simplilearn.com/tutorials/reactjs-tutorial/what-is-reactjs
 
-## Spring Boot
-
-* Maven <https://ucsb-cs48.github.io/javatopics/maven/>
-  * And list of Maven topics here: <https://ucsb-cs148.github.io/javatopics/>
-* Spring Boot <https://ucsb-cs48.github.io/javatopics/spring_boot/>
-  * And list of Spring Boot topics here: <https://ucsb-cs148.github.io/javatopics/>
-* Thymeleaf <https://ucsb-cs148.github.io/javatopics/thymeleaf/>
 
 ## Python web frameworks
 
