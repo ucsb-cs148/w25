@@ -91,7 +91,7 @@ We have assigned mentors to each team. Please see the table below for your mento
 |1 | **pj01-universityclothing** (Tobias/Luke/Matt) | **pj04-courserecs** (Chris/Mateo) | **pj05-codegrow** (Luke/Ryan) |
 |2 | **pj02-travelplanner** (Kristin/Matt) | **pj06-foundit** (Anushka/Mateo) | **pj07-datingalgorithm** (Ryan/Anushka) |
 |3 | **pj03-intelligrocery** (Chris/Matt) | **pj10-spotifai** (Ryan/Aditya) | **pj08-reccen** (Anushka/Aditya) |
-|4 | **pj11-songrater** (Luke/Ryan) | **pj13-researchhelper** (Aditya/Luke) | **pj09-liveordie** (Kristin/Chris) |
+|4 | **pj11-songrater** (Luke/Chris) | **pj13-researchhelper** (Aditya/Luke) | **pj09-liveordie** (Kristin/Chris) |
 |5 | **pj12-appblocker** (Matt/Kristin) |   |  |
 |6 | **pj14-ucsbcoral** (Aditya/Mateo) |   |  |
 {:.table .table-sm .table-striped .table-bordered}
