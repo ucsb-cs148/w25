@@ -3,7 +3,7 @@ layout: lab
 num: lab03
 ready: true
 desc: "First Retro and MVP Preparation"
-assigned: 2024-01-26 13:00
+assigned: 2024-01-26
 due: 2024-02-02 23:59
 due_2_weeks: 2024-02-08 23:59
 github_org: "ucsb-cs148-w24"
