@@ -42,9 +42,16 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 **Graded**: ({{page.num}}-T) (15 pts) You earn these team points if your team posted, or commented on already posted, articles or tutorials in at least one of the `..._help` channels. You need at least 3 such interactions (posts or comments) to get full credit. Please document that you (which members of your team?) did these posts or comments in your LEARNING.md file.
 
-**Graded**: ({{page.num}}-T) (10 pts) You earn these team points if the [team links spreadsheet](https://docs.google.com/spreadsheets/d/1dXhvtRPpwhPkopjN_JF59bV_RtqDguA2QaIEntIMFLk/edit?usp=sharing) is updated with all the requested links to your repo information.
+**Graded**: ({{page.num}}-T) (10 pts) You earn these team points if the [team links spreadsheet](https://docs.google.com/spreadsheets/d/16dpihuLjsv3rjEDqbXLjG7wxP24qtgpuWBBsVncedO8/edit?usp=sharing) is updated with all the requested links to your repo information.
 
 </div>
+
+# Today: Retrospective
+
+- As always, you group into teamwork. You know from your homework, from [the Retro entry in Topics](https://ucsb-cs148.github.io/topics/retros/) and from page 33 in the [Scrum booklet](https://ucsb-cs148.github.io/w23/hwk/h05/) how to do hold a retrospective meeting. Now do it. You get points for the deliverables listed on this page.
+
+Below is a suggested procedure/timeline for your Retro. Ultimately, the format is up to you, but you need to start somewhere, so we propose the following guidelines:  
+
 
 # Procedure for First Retro
 
@@ -55,6 +62,7 @@ You may or may not have done an official `Sprint Review` meeting yet. In a way, 
 - Start: Things your group should start doing (or do more of) to improve
 - Stop: Things your group should stop doing (or do less of) to improve
 - Continue: Things your group currently does fairly well and should continue doing
+
 
 #### 1. Individual Reflection (10-15 minutes)
 
@@ -72,11 +80,7 @@ You may or may not have done an official `Sprint Review` meeting yet. In a way, 
 - The retro leader should make sure everyone is actively engaged in the discussion. They should not share their points until the very end. As they are monitoring the conversion they should jot down notes of the discussion.
 - Collectively decide on 3-5 points for Start, Stop, Continue.
 
-# Today: Retrospective
-
-- As always, you group into teamwork. You know from your homework, from [the Retro entry in Topics](https://ucsb-cs148.github.io/topics/retros/) and from page 33 in the [Scrum booklet](https://ucsb-cs148.github.io/w23/hwk/h05/) how to do hold a retrospective meeting. Now do it. You get points for the deliverables listed on this page.
-- When you are finished with the Retrospective, you are free to coordinate further as a group towards your MVP. Help each other with pointers on technologies you are experimenting with!
-- Staff will be dropping in to observe.
+Staff will be dropping in to observe.
 
 # Mentor Assignments
 
@@ -131,7 +135,10 @@ We have assigned mentors to each team. Please see the table below for your mento
     based on what you learned today?
   ```
 
+
 # Two weeks to MVP Code Freeze and peer review. Please prepare:
+
+- When you are finished with the Retrospective, you are free to coordinate further as a group towards your MVP. Help each other with pointers on technologies you are experimenting with!
 
 ## Planning your demo (MVP video)
 
