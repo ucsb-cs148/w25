@@ -135,6 +135,15 @@ We have assigned mentors to each team. Please see the table below for your mento
     based on what you learned today?
   ```
 
+- Experiment Outcome Documentation 
+  The team gets 10 lab points (see above) for documenting the experiment in `team/retrospectives/RETRO_01.md`. Describe the experiment/change soon after your retro, and fill in the outcome and decision for the future when you have the results (insights) from the experiment: 
+  ```
+  ## Experiment/Change
+
+  * A brief description of what constitutes your change/experiment
+  * A brief assessment of how its results (did it improve things? move the needle at all?)
+  * A decision going forward: keep the change, revert to previous procedure, make a new change? 
+  ```
 
 # Two weeks to MVP Code Freeze and peer review. Please prepare:
 
