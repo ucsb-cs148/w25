@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab03
-ready: false
+ready: true
 desc: "First Retro and MVP Preparation"
 assigned: 2024-01-26 13:00
 due: 2024-02-02 23:59
@@ -30,7 +30,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 <div class="grade" markdown="1">
 
-**Graded**: ({{page.num}}-I) (5 pts) You earn these individual points if you participated in the first retrospective.
+**Graded**: ({{page.num}}-I) (5 pts) You earn these individual points if you participated in the first retrospective. Paticipation means to be working either in class or via Zoom with your team during the retro meeting on <{{page.assigned}}> OR to document specifically in `team/retrospectives/RETRO_01.md` how you caught up with, and contributed to the discussion.
 
 **Graded**: ({{page.num}}-T) (20 pts) You earn these team points based on the attendance/participation in your retrospective; 3.33 per team member for teams of 6, 2.86 per team member for teams of 7, 2.5 points per team member for teams of 8.
 
