@@ -2,11 +2,11 @@
 desc: "Production pipeline. Feature-branch/pull request workflow"
 lecture_date: 2024-01-29
 num: lect05
-ready: false
+ready: true
 ---
  
 # Announcements
-* [h05](https://ucsb-cs148.github.io/w24/hwk/h05/) (More on Agile: Manifesto and 12 principles) is due on Tuesday. 
+* [h05](https://ucsb-cs148.github.io/w24/hwk/h05/) (More on Agile: Manifesto and 12 principles) is due on Wednesday. 
 * Reminder: We have listed advice from previous generations of CS148 students in the #lessons_learned channel in Slack. 
 * catme.org team peer review invitations have gone out to your ucsb.edu address (without the `umail.` part). Due on Friday as part of your current [lab03](https://ucsb-cs148.github.io/w24/lab/lab03/).  
 
