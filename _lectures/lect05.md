@@ -1,18 +1,21 @@
 ---
 desc: "Production pipeline. Feature-branch/pull request workflow"
-lecture_date: 2023-01-29
+lecture_date: 2024-01-29
 num: lect05
 ready: false
 ---
  
 # Announcements
-* [h05](https://ucsb-cs148.github.io/w23/hwk/h05/) (More on Agile: Manifesto and 12 principles) is due on Tuesday. 
-* We have listed advice from previous generations of CS148 students in the #lessons_learned channel in Slack. 
-* Tomorrow, during Section, you will go do a [Retrospective](https://ucsb-cs148.github.io/topics/retros/) meeting, as discussed in [h03](https://ucsb-cs148.github.io/w23/hwk/h05/).
+* [h05](https://ucsb-cs148.github.io/w24/hwk/h05/) (More on Agile: Manifesto and 12 principles) is due on Tuesday. 
+* Reminder: We have listed advice from previous generations of CS148 students in the #lessons_learned channel in Slack. 
+* catme.org team peer review invitations have gone out to your ucsb.edu address (without the `umail.` part). Due on Friday as part of your current [lab03](https://ucsb-cs148.github.io/w24/lab/lab03/).  
+
 
 # Scrum Concepts  
 ### Sprint Review 
-  The public end of the sprint; invite any and all stakeholders to this meeting. It’s the team’s chance to show off its accomplishments, the stories that have met the team’s definition of done. This is also the mentors’ opportunity to see how the product has been incrementally improved over the course of the sprint.
+  The public end of the sprint; invite any and all stakeholders to this meeting. It’s the team’s chance to show off its accomplishments, the stories that have met the team’s definition of done. This is also the mentors’ opportunity to see how the product has been incrementally improved over the course of the sprint. 
+  
+  You just did a Retrospective, which probably followed the end of a Sprint. We will not mandate a Retro every week (but maybe 3 times this quarter). The rest of the times you should have a Sprint review meeting. 
 
 ### Sprint Planning
 * [Sprint Planning](https://www.agilealliance.org/glossary/sprint-planning), can be combined with [Story Time](https://switchingtoscrum.wordpress.com/2012/11/28/what-are-story-time-meetings-for/)...
