@@ -3,8 +3,8 @@ layout: lab
 num: lab04
 ready: false
 desc: "MVP Release, MVP Review, Acceptance Tests"
-assigned: 2024-02-04 13:00
-due: 2024-02-11 23:59
+assigned: 2024-02-02 13:00
+due: 2024-02-09 23:59
 github_org: "ucsb-cs148-w24"
 ---
 
