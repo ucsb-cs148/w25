@@ -2,8 +2,8 @@
 layout: lab
 num: lab05
 desc: "MVP Demos, Unit Testing"
-assigned: 2024-02-07 13:00
-due: 2024-02-14 23:59
+assigned: 2024-02-09 13:00
+due: 2024-02-16 23:59
 github_org: "ucsb-cs148-w24"
 ready: false
 ---
@@ -45,23 +45,27 @@ We will play your MVP videos in the order below. After each video is played, we 
 
 **1pm Section:** 
 ```
-PJ01 - cookbooksocial (T05 asks a question)
-PJ02 - fouryearscheduleplanner (T03 asks a question)
-PJ03 - cheapskate (T01 asks a question)
-PJ05 - telekineticgame (T02 asks a question)
+PJ01 - universityclothing (PJ02 asks a question)
+PJ02 - travelplanner (PJ03 asks a question)
+PJ03 - intelligrocery (PJ05 asks a question)
+PJ05 - telekineticgame (PJ11 asks a question)
+PJ11 - songrater (PJ12 asks a question)
+PJ12 - appblocker (PJ14 asks a question)
+PJ14 - ucsbcoral (PJ01 asks a question)
 ``` 
 **2pm Section:** 
 ```
-PJ04 - interactivesolarsystem (T07 asks a question)
-PJ06 - fitnessandnutritiontracker (T08 asks a question)
-PJ07 - studygroup (T06 asks a question)
-PJ08 - buddyup (T04 asks a question)
+PJ04 - courserecs (PJ06 asks a question)
+PJ06 - foundit (PJ10 asks a question)
+PJ10 - spotifai (PJ13 asks a question)
+PJ13 - researchhelper (PJ04 asks a question)
 ``` 
 **3pm Section:** 
 ```
-PJ09 - musicrecommendation (T10 asks a question) 
-PJ10 - weeklyschedule (T11 asks a question)
-PJ11 - proceduralgeneration (T09 asks a question) 
+PJ05 - codegrow (PJ07 asks a question) 
+PJ07 - datingalgorithm (PJ08 asks a question)
+PJ08 - reccen (PJ09 asks a question) 
+PJ09 - liveordie (T09 asks a question) 
 ``` 
 
 &nbsp;
