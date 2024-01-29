@@ -98,6 +98,6 @@ Report should be created during and after [Lecture 10](https://ucsb-cs148.github
 **Graded**: ({{page.num}}-T) (35 pts) For Reviewee response report in `_REVIEWS` repo of your own team.  
 Report should be created in response to the peer feedback this Friday and next Tuesday and should contain all items indicated on the [lect10 notes](https://ucsb-cs148.github.io/w24/lectures/lect10/).
 
-**Graded**: ({{page.num}}-T) (30 pts) You earn these team points for identifying at least one testing library to experiment with for your coding needs, and for implementing and documenting at least one unit test in your code base by next week <{page.due}>.
+**Graded**: ({{page.num}}-T) (30 pts) You earn these team points for identifying at least one testing library to experiment with for your coding needs, and for implementing and documenting at least one unit test in your code base by next week, {{page.due}}.
 
 </div>
