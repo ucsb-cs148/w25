@@ -2,7 +2,7 @@
 desc: "Project Presentation Announcement, MVP Planning"
 lecture_date: 2024-01-31
 num: lect06
-ready: false
+ready: true
 ---
  
 # Announcements
