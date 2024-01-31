@@ -18,7 +18,7 @@ ready: true
 * Final presentations will be live demonstations in front of the whole class, and evaluated by the teaching team (plus an audience choice poll). 
 * Final presentations should be **both user- and stakeholder-oriented**. 
 
-* **4pm to 7pm, Thursday, March 18th** (original finals slot)
+* **4pm to 7pm, Monday, March 18th** (original finals slot)
 
 Here is the point percentage breakdown for grading that the teaching team plans to use for the “Final Product” 40% of the course grade.
 
