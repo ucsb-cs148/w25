@@ -47,8 +47,7 @@ We will play your MVP videos in the order below. After each video is played, we 
 ```
 PJ01 - universityclothing (PJ02 asks a question)
 PJ02 - travelplanner (PJ03 asks a question)
-PJ03 - intelligrocery (PJ05 asks a question)
-PJ05 - telekineticgame (PJ11 asks a question)
+PJ03 - intelligrocery (PJ11 asks a question)
 PJ11 - songrater (PJ12 asks a question)
 PJ12 - appblocker (PJ14 asks a question)
 PJ14 - ucsbcoral (PJ01 asks a question)
