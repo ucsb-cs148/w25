@@ -48,7 +48,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 # Today: Retrospective
 
-- As always, you group into teamwork. You know from your homework, from [the Retro entry in Topics](https://ucsb-cs148.github.io/topics/retros/) and from page 33 in the [Scrum booklet](https://ucsb-cs148.github.io/w23/hwk/h05/) how to do hold a retrospective meeting. Now do it. You get points for the deliverables listed on this page.
+- As always, you group into teamwork. You know from your homework, from [the Retro entry in Topics](https://ucsb-cs148.github.io/topics/retros/) and from page 33 in the [Scrum booklet](https://ucsb-cs148.github.io/w24/hwk/h05/) how to do hold a retrospective meeting. Now do it. You get points for the deliverables listed on this page.
 
 Below is a suggested procedure/timeline for your Retro. Ultimately, the format is up to you, but you need to start somewhere, so we propose the following guidelines:  
 
