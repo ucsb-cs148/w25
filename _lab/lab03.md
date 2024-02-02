@@ -223,7 +223,7 @@ explains how you can create an MVP demo video using Zoom and YouTube:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k0Je8ASh4jo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[This page](https://ucsb-cs148.github.io/w23/exam/mvp_code_freeze_and_release/) tells you how to document and list the link to your demo when it is complete. The video may be public, or "unlisted", as you see fit.
+[This page](https://ucsb-cs148.github.io/w24/exam/mvp_code_freeze_and_release/) tells you how to document and list the link to your demo when it is complete. The video may be public, or "unlisted", as you see fit.
 Links to videos will be shared with the class, but the class is asked not to share links to non-public videos (unlisted videos)
 with people other than enrolled students and course staff.
 
@@ -231,9 +231,9 @@ Your video should be no longer than 5 minutes and should follow these instructio
 
 ## Demo of your production app
 
-Your demo should be from your production app (e.g. `prod` on Heroku), not from a version deployed on `localhost`.
+Your demo should be from your production app (e.g. `prod` on a hosting platform), not from a version deployed on `localhost`. Mobile Apps should ideally be demoed from a screen-cast/shared mobile device, but in a pinch, an emulator demo will do as well. 
 
-Students in the class, as well as Instructors/TAs/LAs should be able to visit your production link and try out the app after watching your video.
+Students in the class, as well as Instructors/TAs/LAs should ideally be able to visit your production link (or apk, ipa) and try out the app after watching your video.
 
 So, make every effort to have your production version ready to go with a stable MVP for the deadline lab section.
 
