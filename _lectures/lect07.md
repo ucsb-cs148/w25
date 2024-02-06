@@ -7,11 +7,10 @@ ready: true
 
 # Announcements
 * **Lecture and group work via Zoom today.** Link in Slack announcement! 
-* [h07 on testing](https://ucsb-cs148.github.io/w24/hwk/h07) is due **next** Monday. Focus on your MVP this week!  .
+* [h06 on testing](https://ucsb-cs148.github.io/w24/hwk/h06) is due **next** Monday. Focus on your MVP this week!  .
 * CATME.org team peer reviews have been released. Discuss if there is need for discussion! 
 * MVP code freeze in three days: Thu, 02/08/24: [Minimum Viable Product](https://en.wikipedia.org/wiki/Minimum_viable_product)
 * MVP demonstrations with quick peer MVP eval this Friday, 02/10/23 [lab05](https://ucsb-cs148.github.io/w24/lab/lab05/)
-* MVP peer walkthrough and installation next Tuesday, 02/14/23 
 
 # Continuous Integration / Continouous Delivery (CI/CD) 
 
