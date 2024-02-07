@@ -10,7 +10,7 @@ ready: true
 * [h06 on testing](https://ucsb-cs148.github.io/w24/hwk/h06) is due **next** Monday. Focus on your MVP this week!  .
 * CATME.org team peer reviews have been released. Discuss if there is need for discussion! 
 * MVP code freeze in three days: Thu, 02/08/24: [Minimum Viable Product](https://en.wikipedia.org/wiki/Minimum_viable_product)
-* MVP demonstrations with quick peer MVP eval this Friday, 02/10/23 [lab05](https://ucsb-cs148.github.io/w24/lab/lab05/)
+* MVP demonstrations with quick peer MVP eval this Friday, 02/09/24 [lab05](https://ucsb-cs148.github.io/w24/lab/lab05/)
 
 # Continuous Integration / Continouous Delivery (CI/CD) 
 
