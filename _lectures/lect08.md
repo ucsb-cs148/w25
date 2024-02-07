@@ -8,7 +8,7 @@ ready: true
 # Announcements
 * [h06 on testing](https://ucsb-cs148.github.io/w24/hwk/h06) is still due next Monday. Final stretch for the MVP effort!  
 * MVP code freeze is tomorrow: Thu, 02/08/24: [Minimum Viable Product](https://en.wikipedia.org/wiki/Minimum_viable_product)
-* MVP demonstrations with quick peer MVP eval this Friday, 02/09/23 [lab05](https://ucsb-cs148.github.io/w24/lab/lab05/)
+* MVP demonstrations with quick peer MVP eval this Friday, 02/09/24 [lab05](https://ucsb-cs148.github.io/w24/lab/lab05/)
 
 # Continuous Integration / Continouous Delivery (CI/CD) 
 
