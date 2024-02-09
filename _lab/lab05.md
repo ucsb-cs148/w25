@@ -5,7 +5,7 @@ desc: "MVP Demos, Unit Testing"
 assigned: 2024-02-09 13:00
 due: 2024-02-16 23:59
 github_org: "ucsb-cs148-w24"
-ready: false
+ready: true
 ---
 
 <style>
