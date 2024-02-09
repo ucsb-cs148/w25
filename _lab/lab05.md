@@ -33,7 +33,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
   * Celebration of our progress
   * You get points from today's activities to finish up the [lab04 deliverables](https://ucsb-cs148.github.io/w24/lab/lab04/) 
   
-* Lab05: Over the following week you will continue MVP peer evaluation on Tuesday, work on continued functionality development, and do some unit testing towards test-based design! 
+* Lab05: Over the following week you will practice Continuous Integration and Continuous Delivery, considering your MVP peer evaluation feedback, work on continued functionality development, practice some unit testing towards test-based design, and experiment with AI-supported development! 
 * Don't forget Sprint Review and Sprint Planning Meetings 
 
 * Next week (Lab06), we'll hold the Second Retrospective (the MVP release is a great opportunity to review the next steps)
@@ -91,12 +91,12 @@ We want to **celebrate** with you on how far you have already come - We are real
 
 <div class="grade" markdown="1">
 
-**Graded**: ({{page.num}}-T) (35 pts) For Reviewer report in `_REVIEWS` repo of the partner team (not your own team's repo).
-Report should be created during and after [Lecture 10](https://ucsb-cs148.github.io/w24/lectures/lect10/)and should contain all items indicated on the [lect10 notes](https://ucsb-cs148.github.io/w24/lectures/lect10/).
+**Graded**: ({{page.num}}-T) (35 pts) Review, assess, and summarize the feedback you received on your MVP evaluation and formulate an action plan going forward. More details in [Lecture 09](https://ucsb-cs148.github.io/w24/lectures/lect09/).
 
-**Graded**: ({{page.num}}-T) (35 pts) For Reviewee response report in `_REVIEWS` repo of your own team.  
-Report should be created in response to the peer feedback this Friday and next Tuesday and should contain all items indicated on the [lect10 notes](https://ucsb-cs148.github.io/w24/lectures/lect10/).
+**Graded**: ({{page.num}}-T) (35 pts) You earn these team points for identifying at least one testing library to experiment with for your coding needs, and for implementing and documenting at least one unit test in your code base by next week, {{page.due}}.
 
-**Graded**: ({{page.num}}-T) (30 pts) You earn these team points for identifying at least one testing library to experiment with for your coding needs, and for implementing and documenting at least one unit test in your code base by next week, {{page.due}}.
+**Graded**: ({{page.num}}-I) (30 pts) You earn these individual points by doing and documenting at least one "Coding with AI" experiment over the coming week. This can take multiple forms: Using AI to prototype UI possibilities (e.g. using ChatGPT or v0.dev for React-based web pages), help with writing testing code (see previous bullet, e.g. using Github Copilot or Codeium), generating documentation (e.g. using Github Copilot, Codeium, or similar plugins), researching scalability suggestions for your app, etc. More details in [Lecture 09](https://ucsb-cs148.github.io/w24/lectures/lect09/).  
+
+
 
 </div>
