@@ -1,10 +1,12 @@
 ---
 desc: "Overview: Software Testing"
-lecture_date: 2023-02-09
+lecture_date: 2024-02-12
 num: lect09
-ready: true
+ready: false
 ---
 
+# Announcements
+* H08 
 
 # Slides 
 * [Overview of SW Testing](https://www.cs.ucsb.edu/~holl/CS148/handouts/Slides_SWTesting.pdf)
