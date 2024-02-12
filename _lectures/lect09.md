@@ -6,7 +6,7 @@ ready: false
 ---
 
 # Announcements
-* H08 
+* H08 due next Wednesday (next Monday is Presidents' Day holiday)
 
 # Slides 
 * [Overview of SW Testing](https://www.cs.ucsb.edu/~holl/CS148/handouts/Slides_SWTesting.pdf)
