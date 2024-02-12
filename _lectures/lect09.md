@@ -31,7 +31,7 @@ ready: true
 * [Overview of SW Testing](https://www.cs.ucsb.edu/~holl/CS148/handouts/Slides_SWTesting.pdf)
 * Slides for high-level overview and motivation: [Testing for the Skeptical Developer](https://www.cs.ucsb.edu/~holl/CS148/handouts/Slides_2021-testingfortheskepticaldeveloper.pdf)
 
-# Materials
+# SW Testing Pointers
 * [Overview of Javascript Testing](https://medium.com/welldone-software/an-overview-of-javascript-testing-7ce7298b9870), and just in case you are over your free Medium articles quota: [PDF version](https://www.cs.ucsb.edu/~holl/CS148/handouts/JSTesting.pdf) 
 * [A Beginner's Guide to Unit-testing with Jest](https://dev.to/dsasse07/a-beginner-s-guide-to-unit-testing-with-jest-45cc) 
 * [Python Testing Frameworks](https://blog.testproject.io/2020/10/27/top-python-testing-frameworks/)
