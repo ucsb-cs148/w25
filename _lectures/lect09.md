@@ -2,7 +2,7 @@
 desc: "Overview: Software Testing"
 lecture_date: 2024-02-12
 num: lect09
-ready: false
+ready: true
 ---
 
 # Announcements
