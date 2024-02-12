@@ -26,18 +26,7 @@ ready: false
     * BDD Acceptance Testing with [cucumber.js](https://github.com/cucumber/cucumber-js), [blog example](https://www.codementor.io/@jeremyrajan/acceptance-testing-javascript-cucumber-webdriverio-du1087f5i)
 
 
-# MVP Tag/Release in your GitHub repo by the end of today!
-See [lab04 requirements](https://ucsb-cs148.github.io/w23/lab/lab04)
-
-## Deployment and Video deadline tonight. On Friday: Participate in the MVP review and review other groups' MVPs
-
-By today's deadline, you should have reviewed and accepted your final pull request for your MVP. 
-Also, the Deployment Instructions linked from your README.md are filled in and workable.  
-
-In Section **on Fri, 02/10/23**, we will watch the videos all the groups in a Section have created, and provide feedback in a simple Google Form. You will get points towards lab05 for submitting these forms. 
-
 # Work in Breakout Groups
-* Work towards MVP 
-* GitHub Release by the end of today! Up-to-date github repo with complete README.md file that provides complete instructions for deploying your product. 
-* Please fill in a link to your deployment (or to your README deployment instructions if you don't maintain a live deployment) in [the team links spreadsheet](https://docs.google.com/spreadsheets/d/1dXhvtRPpwhPkopjN_JF59bV_RtqDguA2QaIEntIMFLk/edit)
-* MVP Video: link to it in `<github>`/team/MVP_DEMO.md and enter it in [the team links spreadsheet](https://docs.google.com/spreadsheets/d/1dXhvtRPpwhPkopjN_JF59bV_RtqDguA2QaIEntIMFLk/edit)!
+* Standup
+* Organize and review MVP feedback, prepare action plan going forward 
+* Discuss AI experiment strategy
