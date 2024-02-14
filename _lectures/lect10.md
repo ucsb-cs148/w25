@@ -44,7 +44,7 @@ ready: true
 
 # Today: Work in Breakout Groups
 * Standup
-* Work on new features and on unit testing requirement, AI COding, and review responses for [lab05](https://ucsb-cs148.github.io/w24/lab/lab05/). Discuss best testing frameworks/strategies based on what your team members found out. Plan Retrospective! 
+* Work on new features and on unit testing requirement, AI Coding, and review responses for [lab05](https://ucsb-cs148.github.io/w24/lab/lab05/). Discuss best testing frameworks/strategies based on what your team members found out. Plan Retrospective! 
 
 
 
