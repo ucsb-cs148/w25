@@ -21,7 +21,7 @@ ready: true
 
 * Sometimes, component testing is done as black-box testing by a testing team, separate from the developer team: [Difference between component and unit testing](https://www.geeksforgeeks.org/difference-between-component-and-unit-testing/)
 
-* Testing Coverage: **code coverage** vs. **execution/path coverage** vs. **test coverage**
+* Testing Coverage: **code coverage** vs. **test coverage**
 * [Code vs. execution/test coverage: a kid's toy example by the Lead of SW Testing at eBay](https://danashby.co.uk/2019/02/14/code-coverage-vs-test-coverage/)
 * [Code vs. test coverage](https://www.testbytes.net/blog/code-coverage-vs-test-coverage/)
 
