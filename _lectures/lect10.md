@@ -19,7 +19,7 @@ ready: true
 # More Info on Testing
 * Slides for high-level overview and motivation: [Testing for the Skeptical Developer](https://www.cs.ucsb.edu/~holl/CS148/handouts/Slides_2021-testingfortheskepticaldeveloper.pdf)
 
-* [Difference between component and unit testing](https://www.geeksforgeeks.org/difference-between-component-and-unit-testing/)
+* Sometimes, component testing is done as black-box testing by a testing team, separate from the developer team: [Difference between component and unit testing](https://www.geeksforgeeks.org/difference-between-component-and-unit-testing/)
 
 * Testing Coverage: **code coverage** vs. **execution/path coverage** vs. **test coverage**
 * [Code vs. execution/test coverage: a kid's toy example by the Lead of SW Testing at eBay](https://danashby.co.uk/2019/02/14/code-coverage-vs-test-coverage/)
