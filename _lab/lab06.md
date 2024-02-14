@@ -1,11 +1,11 @@
 ---
 layout: lab
 num: lab06
-ready: true
+ready: false
 desc: "Second Retrospective, Product Improvement, Higher-Level Testing"
-assigned: 2023-02-17 12:00
-due: 2023-02-24 23:59
-github_org: "ucsb-cs148-w23"
+assigned: 2024-02-16 13:00
+due: 2024-02-23 23:59
+github_org: "ucsb-cs148-w24"
 ---
 
 <style>
@@ -36,11 +36,9 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 **Graded**: ({{page.num}}-T) (10 pts) You earn these team points when the content in the `team/retrospective` directory is updated per the instructions.
 
-**Graded**: ({{page.num}}-T) (10 pts) You earn these team points for ensuring that each team member was again assigned at least one issue that was moved to the Done column of your Kanban board with tested acceptance criteria over the next week **ending on 02/24/23, 23:59:00 PDT**.
+**Graded**: ({{page.num}}-T) (20 pts) You earn these team points for ensuring that each team member was again assigned at least one issue that was moved to the Done column of your Kanban board with tested acceptance criteria over the next week **ending on 02/24/23, 23:59:00 PDT**.
 
-**Graded**: ({{page.num}}-T) (20 pts) You earn these team points if your team integrated a higher-level (not just unit tests) testing framework with your project and implemented and demonstrated successful execution of **at least one** component test **or** other integration **or** end-to-end test (e.g. BDD) in your project. 
-
-**Graded** (({{page.num}}-T) (20 pts) Document your testing approach in a new github team/TESTING.md document. List there at a minimum: **1)** how you implemented the unit test requirement from the previous lab (which testing library, which part(s) of the code, etc.), **2)** your plans regarding unit tests going forward (it's ok to not go all in with unit tests, but document and reason your decision.), **3)** how you satisfied the component/integration/end-to-end testing requirement from this lab (which testing library, which part(s) of the code, etc.), **4)** your plans regarding higher-level testing going forward (it's again ok to not commit to an integrated testing solution, but document and reason your decision).  
+**Graded**: ({{page.num}}-T) (30 pts) You earn these team points if your team integrated a higher-level (not just unit tests) testing framework with your project and implemented and demonstrated successful execution of **at least one** component test **or** other integration **or** end-to-end test (e.g. BDD) in your project. Document your testing approach by extending your `team/TESTING.md` document. In combination with last week's requirements, list there at a minimum: **1)** how you implemented the unit test requirement from the previous lab (which testing library, which part(s) of the code, etc.), **2)** your plans regarding unit tests going forward (it's ok to not go all in with unit tests, but document and reason your decision.), **3)** how you satisfied the component/integration/end-to-end testing requirement from this lab (which testing library, which part(s) of the code, etc.), **4)** your plans regarding higher-level testing going forward (it's again ok to not commit to an integrated testing solution, but document and reason your decision).  
 </div>
 
 
@@ -48,7 +46,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 Either today, or at a time you schedule by you as a team, you will hold your second retrospective 
 
-You already know the goal and procedure for Retrospectives from your RETRO_01. This Retrospective allows you to discuss things that emerged from the MVP effort and feedback you received.
+You already know the goal and procedure for Retrospectives from your previous Retrospective(s). This particular Retrospective allows you to discuss things that emerged from the MVP effort and feedback you received.
 
 * You'll do a quick standup and then either do the retro in team groups or schedule it and work on other lab requirements. 
 * When you are finished and still have time, discuss your team's strategy towards the testing requirement in this lab.   
@@ -103,7 +101,7 @@ So, while focus should be on your product growing/improving, we want you to expe
 
 Teams working with React could use the [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) or [Enzyme](https://enzymejs.github.io/enzyme/) or [Storybook](https://ucsb-cs148.github.io/jstopics/react_storybook/). Python backends could for example be tested with [TestProject](https://testproject.io/) or the BDD frameworks [Behave](https://behave.readthedocs.io/) or [Lettuce](http://lettuce.it/).
 
-Document your testing approach in a new github team/TESTING.md document. List there at a minimum: **1)** how you implemented the unit test requirement from the previous lab (which testing library, which part(s) of the code, etc.), **2)** your plans regarding unit tests going forward (it's ok to not go all in with unit tests, but document and reason your decision.), **3)** how you satisfied the component/integration/end-to-end testing requirement from this lab (which testing library, which part(s) of the code, etc.), **4)** your plans regarding higher-level testing going forward (it's again ok to not commit to an integrated testing solution, but document and reason your decision).
+Document your testing approach in your `team/TESTING.md` document. List there at a minimum: **1)** how you implemented the unit test requirement from the previous lab (which testing library, which part(s) of the code, etc.), **2)** your plans regarding unit tests going forward (it's ok to not go all in with unit tests, but document and reason your decision.), **3)** how you satisfied the component/integration/end-to-end testing requirement from this lab (which testing library, which part(s) of the code, etc.), **4)** your plans regarding higher-level testing going forward (it's again ok to not commit to an integrated testing solution, but document and reason your decision).
 
 
  
