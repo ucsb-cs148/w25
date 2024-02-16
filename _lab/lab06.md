@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab06
-ready: false
+ready: true
 desc: "Second Retrospective, Product Improvement, Higher-Level Testing"
 assigned: 2024-02-16 13:00
 due: 2024-02-23 23:59
