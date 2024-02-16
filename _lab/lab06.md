@@ -78,7 +78,8 @@ You already know the goal and procedure for Retrospectives from your previous Re
 
   ```
 
- - After the Retro
+
+- After the Retro
     **Retro leader**: add Section to `team/retrospectives/RETRO_0?.md` <<Use the correct number of your Retro>>
 
   ```
