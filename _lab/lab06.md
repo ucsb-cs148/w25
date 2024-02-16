@@ -26,7 +26,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 </div>
 
 
-# Grading for Second Retro
+# Lab06 points, overview: 
 
 <div class="grade" markdown="1">
 
