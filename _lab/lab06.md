@@ -80,7 +80,8 @@ You already know the goal and procedure for Retrospectives from your previous Re
 
 
 - After the Retro
-    **Retro leader**: add Section to `team/retrospectives/RETRO_0?.md` <<Use the correct number of your Retro>>
+
+  **Retro leader**: add Section to `team/retrospectives/RETRO_0?.md` (use the correct number of your Retro)
 
   ```
   ## Retro Assessment
@@ -92,6 +93,7 @@ You already know the goal and procedure for Retrospectives from your previous Re
   ```
 
 - Experiment Outcome Documentation 
+
   The team gets 10 lab points (see above) for documenting the experiment in `team/retrospectives/RETRO_01.md`. Describe the experiment/change soon after your retro, and fill in the outcome and decision for the future when you have the results (insights) from the experiment: 
   ```
   ## Experiment/Change
