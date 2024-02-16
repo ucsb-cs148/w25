@@ -75,8 +75,8 @@ You already know the goal and procedure for Retrospectives from your previous Re
   ## Optional
 
   * Record anything else you think the team might want to remember from this retro
-
   ```
+  &nbsp;
 
 
 - After the Retro
