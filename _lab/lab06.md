@@ -34,7 +34,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 **Graded**: ({{page.num}}-T) (20 pts) You earn these team points based on the logged attendance/participation in your second retrospective; 20/n points per team member for teams of n participants.
 
-**Graded**: ({{page.num}}-T) (10 pts) You earn these team points when the content in the `team/retrospective` directory is updated per the instructions.
+**Graded**: ({{page.num}}-T) (10 pts) You earn these team points when the content in the `team/retrospectives` directory is updated per the instructions.
 
 **Graded**: ({{page.num}}-T) (20 pts) You earn these team points for ensuring that each team member was again assigned at least one issue that was moved to the Done column of your Kanban board with tested acceptance criteria over the next week **ending on 02/24/23, 23:59:00 PDT**.
 
@@ -54,10 +54,10 @@ You already know the goal and procedure for Retrospectives from your previous Re
 
 # Retro Deliverable
 
-* In your team's repo, under `team/retrospective` directory
+* In your team's repo, under `team/retrospectives` directory
   Add file `RETRO_02.md` (or whatever number you are at if you did other retros already)
 
-* Add a section:
+* Add the following content:
 
   ```
   # Retrospective your-nr-goes-here, date-goes-here 
@@ -91,10 +91,11 @@ You already know the goal and procedure for Retrospectives from your previous Re
   * What advice would you give to the next person leading a retro
     based on what you learned today?
   ```
+  &nbsp;
 
 - Experiment Outcome Documentation 
 
-  The team gets 10 lab points (see above) for documenting the experiment in `team/retrospectives/RETRO_01.md`. Describe the experiment/change soon after your retro, and fill in the outcome and decision for the future when you have the results (insights) from the experiment: 
+  The team gets 10 lab points (see above) for documenting the experiment in `team/retrospectives/RETRO_0?.md`. Describe the experiment/change soon after your retro, and fill in the outcome and decision for the future when you have the results (insights) from the experiment: 
   ```
   ## Experiment/Change
 
