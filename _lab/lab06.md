@@ -78,17 +78,27 @@ You already know the goal and procedure for Retrospectives from your previous Re
 
   ```
 
-* After the Retro
-  
-  Retro leader: add
-  
+ * After the Retro
+
+  **Retro leader**: add Section to `team/retrospectives/RETRO_0?.md` <<Use the correct number of your Retro>>
+
   ```
-  # Retro Assessment
+  ## Retro Assessment
 
   * A brief description of what retro outline or process you used.
   * A brief assessment of how it went.
   * What advice would you give to the next person leading a retro
     based on what you learned today?
+  ```
+
+- Experiment Outcome Documentation 
+  The team gets 10 lab points (see above) for documenting the experiment in `team/retrospectives/RETRO_01.md`. Describe the experiment/change soon after your retro, and fill in the outcome and decision for the future when you have the results (insights) from the experiment: 
+  ```
+  ## Experiment/Change
+
+  * A brief description of what constitutes your change/experiment
+  * A brief assessment of how its results (did it improve things? move the needle at all?)
+  * A decision going forward: keep the change, revert to previous procedure, make a new change? 
   ```
 
 # Grading for new Development / Testing 
@@ -97,9 +107,9 @@ Over the next week, please focus predominantly on **new/improved functionality/r
 
 Again, every team member should be assigned (and complete at least one) new issue towards this goal. Make sure that your issues have clear acceptance criteria in Github Projects and that you have a process for completing and assigning issues (e.g. feature branches or your own "Continuous Delivery" rules). It should be possible at any point in time to deploy your product with new improvements over time! 
 
-So, while focus should be on your product growing/improving, we want you to experiment more with Test-Driven-Development (TDD). This could be a great week to fully embrace TDD, and we think you would get many benefits from it in the long term. It is, however, an investment in the short term, so if you don't think that you are ready to completely switch over to TDD, then at the very least you'lll have to select a tool for component testing (a type of integration or end-to-end testing) and implement **at least one** component test **or** other integration **or** end-to-end test in your source code. Use of a Behavior-Driven Development (BDD) framework would also check this box.  
+So, while focus should be on your product growing/improving, we want you to experiment more with Test-Driven-Development (TDD). This could be a great week to fully embrace TDD, and we think you would get many benefits from it in the long term. It is, however, more work in the short term, so if you don't think that you are ready to completely switch over to TDD, then at the very least you'll have to select a tool for component testing (a type of integration or end-to-end testing) and implement **at least one** component test **or** other integration **or** end-to-end test in your source code. Use of a Behavior-Driven Development (BDD) framework would also check this box.  
 
-Teams working with React could use the [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) or [Enzyme](https://enzymejs.github.io/enzyme/) or [Storybook](https://ucsb-cs148.github.io/jstopics/react_storybook/). Python backends could for example be tested with [TestProject](https://testproject.io/) or the BDD frameworks [Behave](https://behave.readthedocs.io/) or [Lettuce](http://lettuce.it/).
+Teams working with React could use the [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) or [Enzyme](https://enzymejs.github.io/enzyme/) or [Playwright](https://playwright.dev/) or [Storybook](https://ucsb-cs148.github.io/jstopics/react_storybook/). Python backends could for example be tested with [TestProject](https://testproject.io/). Any group could use BDD frameworks [Behave](https://behave.readthedocs.io/) or [Lettuce](http://lettuce.it/). There are many more options! 
 
 Document your testing approach in your `team/TESTING.md` document. List there at a minimum: **1)** how you implemented the unit test requirement from the previous lab (which testing library, which part(s) of the code, etc.), **2)** your plans regarding unit tests going forward (it's ok to not go all in with unit tests, but document and reason your decision.), **3)** how you satisfied the component/integration/end-to-end testing requirement from this lab (which testing library, which part(s) of the code, etc.), **4)** your plans regarding higher-level testing going forward (it's again ok to not commit to an integrated testing solution, but document and reason your decision).
 
