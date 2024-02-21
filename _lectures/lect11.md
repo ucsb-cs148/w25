@@ -13,7 +13,7 @@ ready: true
 ** Project documentation will happen in three major documents: 
     * **design document** (to be started in lab07),
     * **user manual** (to be started in lab08))
-    * **deployment instructions** (started already for MVP, crucial for deployment/UX peer reviewin week 8) and Github **README.md**, which should explain the code folder hierarchy and guide through the implementation effort. 
+    * **deployment instructions** (started already for MVP, crucial for deployment/UX peer review in week 9 (Mon., 03/04) and Github **README.md**, which should explain the code folder hierarchy and guide through the implementation effort. 
 * Project presentations (Final exam slot, March 18th, 4-7pm)
 
 Here, again, is the point percentage breakdown for grading that the teaching team plans to use for the “Final Product” 40% of the course grade.
