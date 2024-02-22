@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab05
-desc: "MVP Demos, Unit Testing"
+desc: "MVP Demos, Unit Testing, Coding with AI"
 assigned: 2024-02-09 13:00
 due: 2024-02-16 23:59
 github_org: "ucsb-cs148-w24"
