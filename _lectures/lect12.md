@@ -7,8 +7,8 @@ ready: true
 
 # Announcements
 * **Second CATME peer eval results just released**: Please discuss with your teams. Use this to keep the team focused and every team member accountable. 
-* [Homework assignment h08](https://ucsb-cs148.github.io/w24/hwk/h08/) on SW Design Patterns and Code Smells still due on Wednesday. 
-* **REMINDER:** Next Monday (03/04) we will do an inter-team eval of your app deployment, functionality, UX. In this week's lab you should determine a question you'd like to have the other team answer about your product.    
+* **[Homework assignment h08](https://ucsb-cs148.github.io/w24/hwk/h08/)** on SW Design Patterns and Code Smells still due on Wednesday. 
+* **REMINDER:** Next Monday (03/04), we will do an inter-team eval of your app deployment, functionality, UX. In this week's lab you should determine a question you'd like to have the other team answer about your product.    
 
 
 * **Focus on your projects**. Lab work in the coming weeks will focus on documentation (**design document**, **user manual**) in order to get your documents started and to utilize cycles of team members not central to ongoing implementation efforts at any given time. 
@@ -32,7 +32,7 @@ ready: true
 * Slide: [UX metrics](https://sites.cs.ucsb.edu/~holl/CS148/handouts/UXMetrics.pdf)
 * Google's current Design Philosophy, Material Design: [Material 3](https://m3.material.io/)
 
-* Tools for Wireframing:  Figma, Canva, Wireframe.cc, (On Mac:) sketch.com
+* Tools for Wireframing:  [Figma](https://www.figma.com/), [Canva](https://www.canva.com/), [Wireframe.cc](https://wireframe.cc/), (On Mac:) [sketch.com](https://www.sketch.com/)
 
 # Today: Work in Breakout Groups
 * Standup
