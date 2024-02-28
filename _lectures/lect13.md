@@ -2,7 +2,7 @@
 desc: "Project Progress and Documentation, UML, UX metrics"
 lecture_date: 2024-02-28
 num: lect13
-ready: false
+ready: true
 ---
 
 # Announcements
@@ -12,11 +12,23 @@ ready: false
     * **design document** started in this lab: [lab07](https://ucsb-cs148.github.io/w24/lab/lab07/))
     * **user manual** (started next lab, [lab08](https://ucsb-cs148.github.io/w24/lab/lab08/))
     * **README.md and deployment instructions** (documenting your code base and deployment from the repo.Explain the code folder hierarchy and guide through the implementation effort.)  
-* Project presentations (Final exam slot, Thursday, March 23, 4-7pm)
+* [Project presentations](https://ucsb-cs148.github.io/w24/exam/project_presentations/) (Final exam slot, Thursday, March 23, 4-7pm)
 
-# High-level SW Design Concepts, UML Diagrams 
-* There is **no** requirement for using UML in your design documentation! 
-* Slides: [Design and UML](https://sites.cs.ucsb.edu/~holl/CS148/handouts/Slides_DesignAndUML.pdf)
+Here, again, is the point percentage breakdown for grading that the teaching team plans to use for the “Final Product” 40% of the course grade.
+
+* 15% Presentation
+* 5% Idea, and Idea Refinement 
+* 25% Functionality, Quality (Reliability & Polish) 
+    * judged by review of demonstration, user manual, peer review, teaching team testing 
+* 10% Technical Difficulty Implemented 
+    * judged by review of code/scope taking into account team background/experience etc.
+* 20% Implementation 
+    * judged by review of Github code, PRs, etc. 
+    * use the README.md to make clear the repository structure and guide through implementation effort! 
+* 15% Design Process 
+    * judged by Design Document, Kanban Board, Meeting Logs, Github TEAM information, etc. Design Document should steer through the process.
+* 10% Manual 
+
 
 # SW Dev News: Popular Programming Languages
 * [Top programming languages: Most popular and fastest growing choices for developers](https://www.tiobe.com/tiobe-index/)
