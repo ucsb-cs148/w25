@@ -77,12 +77,14 @@ We will make sure that all repos are temporarily readable to members of our orga
 
 In a file `team/evaluation/REVIEW_RESPONSE.md`, please document the following:  
 
-A **response** to each of the sections of the reviewers report, including actions that you may take as a team.
-       If the reviewers haven't submitted their report yet, write a response based on the feedback you find
-       on the slack channel by Wednesday that pertains to the reviewing form sections, repeated here: 
+An overall **response** to the sections of the reviewers report, including actions that you may take as a team.
+       You will find an aggregation of all user feedback on your team's slack channel by Wednesday. 
+       As a reminder, the reviewing form sections that will be listed are repeated here: 
        
-        1.  A summary of the features of the product as you understood them, and what you liked or thought could be
+        1.  Feedback based on your own USER_FEEDBACK_NEEDS.md
+        2.  A summary of the features of the product as the other team understood them, and what they liked or thought could be
             improved about each
-        2.  A summary of how helpful / organized you found the other team's repo (README.md, Kanban Board, maybe code) and whether you were able to follow the deployment instructions
-        3.  Your final closing thoughts: something you liked, the most impactful opportunity for improvement,
-            and one more thing you thought was good.
+        3.  How intuitive it was to use the project (comments about the UI/UX design and robustness of the app)
+        4.  A summary of how the other team was able to follow the deployment instructions and how helpful / organized the other team found your team's repo (README.md, Kanban Board, maybe code).
+        5.  The other team's final closing thoughts: something they liked, the most impactful opportunity for improvement,
+            and one more thing they thought was good.
