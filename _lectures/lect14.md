@@ -1,0 +1,88 @@
+---
+desc: Deliver/Critique MVP
+lecture_date: 2024-03-04 14:00
+num: lect14
+ready: true
+
+---
+
+<div style="display:none">
+https://ucsb-cs148.github.io/w24/lect/lect14/
+</div>
+
+Today's session will be all about testing and evaluating your current product as it currently stands in your Continuous Delivery efforts. This will give you the opportunity to get feedback from your mentors and from your peers. We put into place a process in which every team member from one matched-up team run and evaluate your current product (for lab points) and vice versa. Please take the following guidelines into account: 
+
+For the [current lab]({{'/lab/lab08/' | relative_url }}), every team is teamed up with one partner team creating the following pairs: 
+
+| **This team:**   | **is paired with** | ... **this team:** |
+| T01 - University Clothing Resale |<----> | T12 - App blocker with Friends| 
+| T02 - Travel Itinerary Planner |<----> | T14 - UCSB Coral| 
+| T03 - IntelliGrocery |<----> | T08 - Rec Center Helper| 
+| T04 - Course Organization & Recommendation System|<----> | T05 - Code&Grow| 
+| T06 - FoundIt |<----> | T11 - Song/Album Rater| 
+| T07 - DSA: Dating's Scientific Algorithm|<----> | T13 - MedMinder| 
+| T09 - Live or Die With Your Best Friend|<----> | T10 - SpotifAI Playlist Cover Generator| 
+
+
+#  The most helpful attitude and approach for reviewers: friendly helpfulness, not "gotcha"
+
+First, it is important to have the right approach.  You are engaging in this review to *help the other team improve their functionality/code*.  This is not an opportunity for showing off or playing "gotcha".  
+
+On the other hand, don't hold back on sharing what you find.  The lab points on this review are not based on how well team B's product performs. They are based on team A being helpful to team B and vice versa.     
+
+Everything you find that can be perceived as a weakness in team B's product is something that they can address while they still have time, before the end of the quarter.
+
+Don't mock or criticize---be helpful and constructive.   If you have knowledge of a practice or technique that might help another team, make a note of that, and come back and share it either through the feedback form or later (e.g. via Slack).
+
+# The most helpful attitude for reviewees: gratitude, not defensiveness.
+
+For reviewees, it can be really tough to have members from another team go through your product inside and out.  There is a natural human tendency to become defensive.
+
+It may be helpful to resist this urge.
+
+## What if we disagree with the reviewer's assessment?
+
+That's ok.  It's ok to just nod and let it go.
+
+* You do NOT necessarily act on every piece of information or suggestion you receive from the reviewers.  
+* Your team may not agree with all of it.  
+* Your team has every right to decide, if they judge the advice or suggestions to be incorrect or unwise, to let them go.  It isn't necessary to argue back with the reviewer. 
+
+All we're asking of you is to listen and consider it carefully, and discuss it as a team (you get lab points for that).  With a bit of distance in space and time, you may find parts of it you agree with, or really good reasons to go in a different direction from what was suggested. You will document your decisions. 
+
+# Instructions for Reviewers
+
+We will make sure that all repos are temporarily readable to members of our organization at the beginning of the class (and turn permissions back at the end of the class). 
+
+1. Start by looking at (or even better, copying the information from) the `team/evaluation/USER_FEEDBACK_NEEDS.md` file in your partner team's repo. 
+
+2.  On Slack channel of your team, make a note of everyone present at the review.  Any members that are missing hopefully are engaged in the review remotely as much as they can. In order for them to get the lab points, they need to communicate with the partner team on how to best get their project running and tested remotely. Please, teams, communicate that responsibility! 
+    
+3.  Have a brief meeting / huddle with the team you are paired up with and communicate how to run your app. Point them to your installation instructions or deployments. If there are problems, you can help them get things running! 
+
+4.  Once every team member (or as many as possible) from the partner team has the app running, please point them to any information they may need to successfully navigate your app. They will try to give you feedback on your top priority USER_FEEDBACK_NEED. 
+     
+5.  To fully review the partner team's effort and intentions, you should feel free to pull up Team B's README.md and Kanban board and look through the user stories and issues that you see in-progress or done. Comment on whatever you see that either in-line with what you experienced in the demo, out out of alignment, in your perspective as a potential user of the product.  Again, take notes for helpful feedback! 
+    
+6.  [OPTIONAL IF TIME] If you have time for looking through the repo for any helpful comments or suggestions for improvement, or words of praise, that would be great!  Most reviewers won't likely get this far.    
+    
+7.  Closing the review: to close the review on the feedback form, consider offering a sandwich of praise and helpfulness:
+   * One thing you really liked about the project (inside or outside)
+   * The most impactful opportunity for improvement
+   * One more thing you thought was good
+
+
+
+# FOLLOW UP instructions for Reviewers (to be updated) (**points for lab08**)
+
+In a file `team/evaluation/REVIEW_RESPONSE.md`, please document the following:  
+
+A **response** to each of the sections of the reviewers report, including actions that you may take as a team.
+       If the reviewers haven't submitted their report yet, write a response based on the feedback you find
+       on the slack channel by Wednesday that pertains to the reviewing form sections, repeated here: 
+       
+        1.  A summary of the features of the product as you understood them, and what you liked or thought could be
+            improved about each
+        2.  A summary of how helpful / organized you found the other team's repo (README.md, Kanban Board, maybe code) and whether you were able to follow the deployment instructions
+        3.  Your final closing thoughts: something you liked, the most impactful opportunity for improvement,
+            and one more thing you thought was good.
