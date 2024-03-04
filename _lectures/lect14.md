@@ -45,7 +45,7 @@ We will make sure that all repos are temporarily readable to members of our orga
    * One more thing you thought was good
 
 
-# FOLLOW UP instructions for Reviewers (to be updated) (**points for lab08**)
+# FOLLOW UP instructions for Reviewees (**points for lab08**), due on Friday, March 9th (with the rest of lab08)
 
 In a file `team/evaluation/REVIEW_RESPONSE.md`, please document the following:  
 
