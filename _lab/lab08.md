@@ -41,6 +41,18 @@ The first two items are part of the inter-team evaluation taking place **in clas
 </div>
 
 
+# Rotate Exposed Secrets
+For this lab, repositories will be made public to non-team members. Any existing hardcoded secrets (API keys, passwords, access tokens, etc) in your application should be rotated out as soon as possible. In a bad-but-not-worst case scenario, a bad actor with credentials to your infrastructure can [land you a large bill](https://medium.com/flat-pack-tech/hard-coding-secrets-be-aware-of-the-scariest-breach-for-your-organization-3e858ab296f2).
+
+Most major cloud services offer dedicated solutions for securely managing secrets, so the appropriate place for your app depends on your chosen service. Some examples are:
+
+* AWS: https://aws.amazon.com/secrets-manager
+* Azure: https://azure.microsoft.com/en-us/products/key-vault
+* GCP: https://cloud.google.com/security/products/secret-manager
+* Heroku: https://devcenter.heroku.com/articles/config-vars
+* GitHub Actions: https://docs.github.com/en/actions/security-guides/using-secrets-in-github-actions
+
+
 # Start User Manual Document
 Start a User Manual Document (as a Google Doc or another `living document` format of your choice) and link to it in a new ./docs/MANUAL.md file in your GitHub. 
 It should start with a paragraph explaining the purpose and intended user audience for the product (it can share some of this information with your README.MD, but the manual should be entirely oriented towards end users and should make no mention of implementation details that are not relevant to the end user experience).   
