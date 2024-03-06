@@ -47,7 +47,7 @@ We will make sure that all repos are temporarily readable to members of our orga
 
 # FOLLOW UP instructions for Reviewees (**points for lab08**), due on Friday, March 9th (with the rest of lab08)
 
-In a file `team/evaluation/REVIEW_RESPONSE.md`, please document the following:  
+In a file `team/evaluation/EVAL_RESPONSE.md`, please document the following:  
 
 An overall **response** to the sections of the reviewers report, including actions that you may take as a team.
        You will find an aggregation of all user feedback on your team's slack channel by Wednesday. 
