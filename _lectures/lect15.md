@@ -29,7 +29,7 @@ Response rate as of 01:00pm 03/06/2024:
 | CMPSC 148 	| 99	| 4 |	4.04% |
 {:.table .table-sm .table-striped .table-bordered}
 
-![QR Code](course_eval_QRCode.png)
+![QR Code]({{ 'lectures/course_eval_QRCode.png' | relative_url }})
 
 You are likely getting reminders from the automated system about course evaluations. Please enter your feedback about the course.  It is very important for the university to evaluate the quality of the instructor's teaching (Question A) and the overall quality of the course (Question B). 
 
