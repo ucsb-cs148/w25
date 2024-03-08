@@ -37,7 +37,7 @@ The following graded items will be due on **Mon, 03/18, 23:59:59**:
 
 The following graded items will be due on **Wed, 03/20, 23:59:59**: 
 
-**Graded**: ({{page.num}}-T) (15 pts) Finalize team CONTRIBS.md (coordinating on one response or by submitting individual commentary) documents team roles and github contributions.
+**Graded**: ({{page.num}}-T) (15 pts) Finalize team CONTRIBS.md (coordinating on one response or by submitting individual commentary) documents team roles and github contributions. Also, your final 
 
 **Graded** : ({{page.num}}-I) (20 pts) You earn these points for submitting feedback on overall team performance via a third and last CATME.org form survey that you will get email invitations for.
 
@@ -49,11 +49,11 @@ The following graded items will be due on **Wed, 03/20, 23:59:59**:
 
 # Final Code Release and Deployment
 
-Look back on [Lab04 MVP Tag/Release instructions](https://ucsb-cs148.github.io/w23/lab/lab04/) to remind yourselves on how to do a tag and release and do a "Project Demo" Tag and numbered Release for your Code Freeze by **Fri, 03/17, 23:59:59**.
+Look back on [Lab04 MVP Tag/Release instructions](https://ucsb-cs148.github.io/w23/lab/lab04/) to remind yourselves on how to do a tag and release and do a "Project Demo" Tag and numbered Release for your Code Freeze by **Fri, 03/15, 23:59:59**.
 
 By the same deadline, add a `#Deployment` section at the bottom of your README.md, which points to a live testable version of your project, either on your deployment platform of choice, or to platform binaries (e.g. hosted on Google Drive). 
 
-The deadline for your Manual and for the Design Document remains the coming **Fri 03/24, 23:59:59**, a day after the live project demonstration.
+The deadline for your Manual and for the Design Document remains the coming **Wed 03/20, 23:59:59**, two days after the live project demonstration.
 
 # Team Roles and Github Contributions
 
