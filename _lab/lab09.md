@@ -59,7 +59,7 @@ The deadline for your Manual and for the Design Document remains the coming **We
 
 As started during the last lab, we ask every team to comment on the code contributions that every team member made. Finalize documenting the roles the team members played in the code development effort. You can comment on team contributions otther than coding as well. In your github team folder, you created a `contributions` subfolder during the last lab. 
 
-By **Tue, 03/19 23:59:59**: finalize commentary on team member code and/or other contributions in `team/contributions/CONTRIBS.md`: 
+By **Wed, 03/20 23:59:59**: finalize commentary on team member code and/or other contributions in `team/contributions/CONTRIBS.md`: 
 *each team member* should make sure their own section is fully updated:     
   - Each team member document their contributions in `team/contributions/contrib_Alice.md`, `team/contributions/contrib_Bob.md`, `team/contributions/contrib_Carol.md`, `team/contributions/contrib_Danny.md`...
   - Then: the person assembling the overall report summarizes all the individual contributions in a team-wide CONTRIBS.md
