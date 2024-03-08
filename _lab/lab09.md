@@ -37,7 +37,7 @@ The following graded items will be due on **Mon, 03/18, 23:59:59**:
 
 The following graded items will be due on **Wed, 03/20, 23:59:59**: 
 
-**Graded**: ({{page.num}}-T) (15 pts) Finalize team CONTRIBS.md (coordinating on one response or by submitting individual commentary) documents team roles and github contributions. Also, your final 
+**Graded**: ({{page.num}}-T) (15 pts) Finalize team CONTRIBS.md (coordinating on one response or by submitting individual commentary) documents team roles and github contributions. Also, your final versions of the Manual and Design Document are due.
 
 **Graded** : ({{page.num}}-I) (20 pts) You earn these points for submitting feedback on overall team performance via a third and last CATME.org form survey that you will get email invitations for.
 
