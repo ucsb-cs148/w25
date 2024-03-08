@@ -53,6 +53,8 @@ Look back on [Lab04 MVP Tag/Release instructions](https://ucsb-cs148.github.io/w
 
 By the same deadline, add a `#Deployment` section at the bottom of your README.md, which points to a live testable version of your project, either on your deployment platform of choice, or to platform binaries (e.g. hosted on Google Drive). 
 
+If it is not possible for you to create a distributable binary of your product for some reason (e.g. IOS ipa) or if you're using ExpoGO, please document the exact installation/run procedure or assist the teaching team members individually in getting your app deployed to their devices (ideally during Friday's lab session).
+
 The deadline for your Manual and for the Design Document remains the coming **Wed 03/20, 23:59:59**, two days after the live project demonstration.
 
 # Team Roles and Github Contributions
