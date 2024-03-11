@@ -7,23 +7,26 @@ ready: true
 
 # Announcements
 
-* Full focus on finalizing your product! 
+Full focus on finalizing your product! 
 
-* Final lab, [Lab09](https://ucsb-cs148.github.io/w24/lab/lab09/), has the following deadlines: 
+Final lab, [Lab09](https://ucsb-cs148.github.io/w24/lab/lab09/), has the following deadlines: 
+
 **Fri, 03/15, 23:59:59**: 
-    * Final Github Code Release and Deployment (tagged release of binaries in repo)
-    * Code should be testable by teaching team 
+
+* Final Github Code Release and Deployment (tagged release of binaries in repo)
+* Code should be testable by teaching team 
 
 **Mon, 03/18, 23:59:59**: 
-    * Participate in [final project demonstrations](https://ucsb-cs148.github.io/w24/exam/project_presentations/) 
-    * audience choice awards voting
+
+* Participate in [final project demonstrations](https://ucsb-cs148.github.io/w24/exam/project_presentations/) 
+* audience choice awards voting
 
 **Wed, 03/20, 23:59:59**: 
-    * Finalize team CONTRIBS.md (coordinating on one response or by submitting individual commentary) 
-    * Final version of the Manual 
-    * Final version of Design Document 
-    * third and last CATME.org survey (not released yet) 
-    * list at least one insight in `#lessons_learned` Slack channel.
+* Finalize team CONTRIBS.md (coordinating on one response or by submitting individual commentary) 
+* Final version of the Manual 
+* Final version of Design Document 
+* third and last CATME.org survey (not released yet) 
+* list at least one insight in `#lessons_learned` Slack channel.
 
 
 # ESCIs (Course Evaluations)
