@@ -1,21 +1,29 @@
 ---
-desc: "Lab08: Team Eval Response, 3rd Retro, Team Work Towards Code Freeze"
-lecture_date: 2024-03-06
-num: lect15
+desc: "Countdown to Final Release"
+lecture_date: 2024-03-11
+num: lect16
 ready: true
 ---
 
 # Announcements
-* **Thank You** for participating in the inter-team eval exercise on Monday! You should have a spreadsheet with feedback from the other team in your Slack channel by now. Please discuss and craft your (brief!) response/action items going forward.  
-
-* [Lab08](https://ucsb-cs148.github.io/w24/lab/lab08/) has deadlines coming up: 
-    * team/EVAL_RESPONSE.md 
-    * team/Contribs.md started
-    * User Manual document started
-    * Third and last required retrospective 
 
 * Full focus on finalizing your product! 
-    * **Friday, 03/15** (Code Freeze, Final Code Release)
+
+* Final lab, [Lab09](https://ucsb-cs148.github.io/w24/lab/lab09/), has the following deadlines: 
+**Fri, 03/15, 23:59:59**: 
+    * Final Github Code Release and Deployment (tagged release of binaries in repo)
+    * Code should be testable by teaching team 
+
+**Mon, 03/18, 23:59:59**: 
+    * Participate in [final project demonstrations](https://ucsb-cs148.github.io/w24/exam/project_presentations/) 
+    * audience choice awards voting
+
+**Wed, 03/20, 23:59:59**: 
+    * Finalize team CONTRIBS.md (coordinating on one response or by submitting individual commentary) 
+    * Final version of the Manual 
+    * Final version of Design Document 
+    * third and last CATME.org survey (not released yet) 
+    * list at least one insight in `#lessons_learned` Slack channel.
 
 
 # ESCIs (Course Evaluations)
@@ -26,10 +34,11 @@ Response rate as of 01:00pm 03/06/2024:
 
 | Course ID |	Enrollment Count	|Surveys Completed	|Percent Completed|
 |-|-|-|-|
-| CMPSC 148 	| 99	| 4 |	4.04% |
+| CMPSC 148 	| 99	| 16 |	16% |
 {:.table .table-sm .table-striped .table-bordered}
 
 ![QR Code]({{ 'lectures/course_eval_QRCode.png' | relative_url }})
+![Please submit!]({{ 'lectures/course_evals.png' | relative_url }})
 
 You are likely getting reminders from the automated system about course evaluations. Please enter your feedback about the course.  It is very important for the university to evaluate the quality of the instructor's teaching (Question A) and the overall quality of the course (Question B). 
 
@@ -43,14 +52,4 @@ Thank you all for taking the time!
 # Today: Work Towards Lab08 and Code Freeze: 
 
 * Standup 
-* Possibly: 3rd required team retro! 
 * Team-based Coordination and Development
-
-
-
-
-
-
-
-
-
