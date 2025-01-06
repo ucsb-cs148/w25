@@ -1,10 +1,10 @@
 ---
-assigned: 2024-01-12 13:00
+assigned: 2024-01-10 13:00
 desc: Getting Started
-due: 2024-01-19 23:59
+due: 2024-01-17 23:59
 layout: lab
 num: lab01
-ready: true
+ready: false
 signup_app: https://ucsb-cs-github-linker.herokuapp.com/
 slack_url: https://ucsb-cs148-w24.slack.com
 github_org_name: ucsb-cs148-w24
