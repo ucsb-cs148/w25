@@ -1,5 +1,5 @@
 ---
-title: "Syllabus, CMPSC 148, Winter 2024"
+title: "Syllabus, CMPSC 148, Winter 2025"
 ready: true
 ---
 
