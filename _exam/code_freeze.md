@@ -1,7 +1,7 @@
 ---
 layout: exam_info
 num: project
-ready: true
+ready: false
 desc: "Code Freeze and Final Release"
 exam_date: 2025-03-14 23:59
 ---
