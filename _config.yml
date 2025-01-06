@@ -5,7 +5,7 @@ plugins:
 remote_theme: ucsb-cs-course-repos/course-repo-jekyll-theme
 
 url: https://ucsb-cs148.github.io # the base hostname & protocol for your site
-baseurl: /w24  # the subpath of your site, e.g. "/blog"
+baseurl: /w25  # the subpath of your site, e.g. "/blog"
 
 include:
   - _pages
@@ -16,20 +16,20 @@ exclude:
   - .bundle
 
 course: "CS148"
-qtr: "W24"
-qxx: "W24"
-quarter: "Winter 2024"
+qtr: "W25"
+qxx: "W25"
+quarter: "Winter 2025"
 piazza_url: none
 gauchospace_course_page: https://ucsb.instructure.com/courses/3302
-github_org_name: ucsb-cs148-w24
-github_org_url: https://github.com/ucsb-cs148-w24
-slack_url: https://ucsb-cs148-w24.slack.com
+github_org_name: ucsb-cs148-w25
+github_org_url: https://github.com/ucsb-cs148-w25
+slack_url: https://ucsb-cs148-w25.slack.com
 
-ta_list: "Kristin Hu, Aditya Sharma, Luke Yoffe"
-ta_list_full: "Kristin Hu, Aditya Sharma, Luke Yoffe"
-mentors_list: "Ryan He, Anushka Lodha, Matthew Nguyen, Mateo Wang, Christopher Chang"
+ta_list: "Will (Zifeng) Zhang, Yunhao Luo, Jamie (Chieh-Ying) Lai"
+ta_list_full: "Will (Zifeng) Zhang, Yunhao Luo, Jamie (Chieh-Ying) Lai"
+mentors_list: "Anderson Lee, Samuel Zhu, Rachel Jian, Lixing (Leo) Guo"
 
-github_url: https://github.com/ucsb-cs148/w24
+github_url: https://github.com/ucsb-cs148/w25
 mentor_url: https://ucsb-cs148-holl-mentors.github.io
 
 on_campus: http://proquest.safaribooksonline.com
@@ -40,20 +40,20 @@ hfdp_url: book/software-engineering-and-development/patterns/0596007124
 submit_cs_course: TBD
 
 start_week: 1
-start_date: 2024-01-07
+start_date: 2025-01-06
 num_weeks: 10
 extra_exam_week: true
 sections: "1pm, 2pm, 3pm"
 
 cal_dates: >
   [
-    {"label":"W24 1st day of instruction", "date":"2024-01-08" },	
-    {"label":"Univ Holiday: Martin Luther King Jr. Day", "date":"2024-01-15" },
-    {"label":"Univ Holiday: Presidents' Day", "date":"2024-02-19" },
-    {"label":"W24 instruction ends", "date":"2024-03-15" },
-    {"label":"W24 finals start", "date":"2024-03-16" },
-    {"label":"W24 finals end", "date":"2024-03-22" },
-    {"label":"W24 qtr ends", "date":"2024-03-22" }
+    {"label":"W25 1st day of instruction", "date":"2025-01-06" },	
+    {"label":"Univ Holiday: Martin Luther King Jr. Day", "date":"2025-01-20" },
+    {"label":"Univ Holiday: Presidents' Day", "date":"2025-02-17" },
+    {"label":"W24 instruction ends", "date":"2025-03-14" },
+    {"label":"W24 finals start", "date":"2025-03-15" },
+    {"label":"W24 finals end", "date":"2025-03-21" },
+    {"label":"W24 qtr ends", "date":"2025-03-21" }
   ]
 
 
