@@ -1,8 +1,8 @@
 ---
 desc: Project Team Formation
-lecture_date: 2024-01-10 14:00
+lecture_date: 2025-01-08 14:00
 num: lect01
-ready: true
+ready: false
 
 ---
 
