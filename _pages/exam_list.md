@@ -1,5 +1,5 @@
 ---
-title: Proj. Milestones
+title: Proj.Milestones
 permalink: "/exam/"
 ---
 
