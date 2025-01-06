@@ -1,14 +1,14 @@
 ---
 layout: exam_info
 num: project
-ready: true
+ready: false
 desc: "Final Presentations"
-exam_date: 2024-03-18 16:00
+exam_date: 2025-03-17 16:00
 ---
 
 # Final Presentations 
 
-**4pm to 7pm, Monday March 18** (original finals slot)
+**4pm to 7pm, Monday March 17** (original finals slot)
 This will be an in-person session everyone is expected to attend. 
 
 Here is the point percentage breakdown for grading that the teaching team plans to use for the “Final Product” 40% of the course grade.

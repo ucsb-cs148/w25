@@ -1,9 +1,9 @@
 ---
 layout: exam_info
 num: project
-ready: true
+ready: false
 desc: "MVP Code Freeze, Release, and Video"
-exam_date: 2024-02-08 23:59
+exam_date: 2025-02-06 23:59
 ---
 
 
@@ -13,7 +13,7 @@ By today's deadline, you should have reviewed and accepted your final pull reque
 Also, the Deployment Instructions linked from your README.md are filled in and workable.  
 Please fill in a link to your deployment (or to your README deployment instructions if you don't maintain a live deployment) in [the team links spreadsheet](https://docs.google.com/spreadsheets/d/1dXhvtRPpwhPkopjN_JF59bV_RtqDguA2QaIEntIMFLk/edit)
 
-This is the version of your code that will be featured in your MVP videos, which will be reviewed in Section on Friday, February 09. So, also due tonight (02/08/2024, 23:59:59) is your: 
+This is the version of your code that will be featured in your MVP videos, which will be reviewed in Section on Friday, February 07. So, also due tonight (02/06/2025, 23:59:59) is your: 
 
 # MVP Video
 link to your video in your GitHub repo in team/MVP_DEMO.md and enter it in [the team links spreadsheet](https://docs.google.com/spreadsheets/d/1dXhvtRPpwhPkopjN_JF59bV_RtqDguA2QaIEntIMFLk/edit?usp=sharing) !
