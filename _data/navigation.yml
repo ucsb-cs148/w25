@@ -50,7 +50,7 @@ offering_menus:
       - title: Lectures
         url: /lectures/
         description: "Project"
-      - title: Exam
+      - title: Proj. Milestones
         url: /exam/
         description: "Exams"
       - title: Cal
