@@ -1,11 +1,11 @@
 ---
-title: Exams
+title: Proj. Milestones
 permalink: "/exam/"
 ---
 
 # {{site.course}}, {{site.quarter}}
 
-## Exams:
+## Project Milestones:
 
 {% include exam_table.html %}
 
