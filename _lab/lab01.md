@@ -1,17 +1,17 @@
 ---
-assigned: 2024-01-10 13:00
+assigned: 2025-01-10 13:00
 desc: Getting Started
-due: 2024-01-17 23:59
+due: 2025-01-17 23:59
 layout: lab
 num: lab01
-ready: false
+ready: true
 signup_app: https://ucsb-cs-github-linker.herokuapp.com/
-slack_url: https://ucsb-cs148-w24.slack.com
-github_org_name: ucsb-cs148-w24
+slack_url: https://ucsb-cs148-w25.slack.com
+github_org_name: ucsb-cs148-w25
 ---
 
 <div style="display:none">
-https://ucsb-cs148.github.io/w24/lab/lab01/
+https://ucsb-cs148.github.io/w25/lab/lab01/
 </div>
 
 <style>
@@ -43,12 +43,13 @@ We have 14 teams set up:
 
 | Table # | 1pm | 2pm | 3pm |
 |-----|-----|-----|-----|
-|1 | **pj01-universityclothing** (mentor(s) TBD) | **pj04-courserecs** (mentor(s) TBD) | **pj05-codegrow** (mentor(s) TBD) |
-|2 | **pj02-travelplanner** (mentor(s) TBD) | **pj06-foundit** (mentor(s) TBD) | **pj07-datingalgorithm** (mentor(s) TBD) |
-|3 | **pj03-intelligrocery** (mentor(s) TBD) | **pj10-spotifai** (mentor(s) TBD) | **pj08-reccen** (mentor(s) TBD) |
-|4 | **pj11-songrater** (mentor(s) TBD) | **pj13-researchhelper** (mentor(s) TBD) | **pj09-liveordie** (mentor(s) TBD) |
-|5 | **pj12-appblocker** (mentor(s) TBD) |   |  |  |
-|6 | **pj14-ucsbcoral** (mentor(s) TBD) |   |  |  |
+|1 | **pj02-lyricgenerator** (mentor(s) TBD) | **pj03-clothtracker** (mentor(s) TBD) | **pj01-scheduleconverter** (mentor(s) TBD) |
+|2 | **pj05-rideshare** (mentor(s) TBD) | **pj04-restaurantdecider** (mentor(s) TBD) | **pj09-socialrunning** (mentor(s) TBD) |
+|3 | **pj06-studyconnect** (mentor(s) TBD) | **pj07-mafia** (mentor(s) TBD) | **pj10-timebendingpuzzle** (mentor(s) TBD) |
+|4 | **pj13-sportsbetting** (mentor(s) TBD) | **pj08-studytimer** (mentor(s) TBD) |  |
+|5 |  | **pj11-recipegenerator** (mentor(s) TBD) |  |  |
+|6 |  | **pj12-closettracker** (mentor(s) TBD) |  |  |
+|7 |  | **pj14-lootfinder** (mentor(s) TBD) |  |  |
 
 {:.table .table-sm .table-striped .table-bordered}
 
@@ -56,7 +57,7 @@ Teams: Let's start meeting at the table numbers listed in the above table. We ca
 
 Please check in with any team members who are not in the classroom via your team channel in Slack right away!
 
-This lab has two components. One part to complete ASAP (Step 1 to Step 4 below, to be completed mostly today in Section or as soon as possible afterwards) and one graded part that is due by the end of next Friday, Jan. 19th 2024. One week is the typical time period for lab assignments. In each lab starting with next week, you should make sure as a team that you have completed all lab deliverables from the previous week.
+This lab has two components. One part to complete ASAP (Step 1 to Step 4 below, to be completed mostly today in Section or as soon as possible afterwards) and one graded part that is due by the end of next Friday, Jan. 17th 2025. One week is the typical time period for lab assignments. In each lab starting with next week, you should make sure as a team that you have completed all lab deliverables from the previous week.
 
 <div class="grade" markdown="1">
 
@@ -203,7 +204,7 @@ Notes:
 
 For this step, please wait until you get the ok from the instructors that your project group repos have been generated.
 
-Then, on your computer of choice, `cd` in the directory where you plan to do your work for this course (e.g. perhaps `~/cs148`), type this command to clone your empty repo into that directory. In place of `repo-url-goes-here`, copy the URL for the new repo you created. That will be, for example: `git@github.com:ucsb-cs148-w24/cgaucho_lab00.git` but with `cgaucho` replaced with your GitHub id.
+Then, on your computer of choice, `cd` in the directory where you plan to do your work for this course (e.g. perhaps `~/cs148`), type this command to clone your empty repo into that directory. In place of `repo-url-goes-here`, copy the URL for the new repo you created. That will be, for example: `git@github.com:ucsb-cs148-w25/cgaucho_lab00.git` but with `cgaucho` replaced with your GitHub id.
 
 ```
 git clone repo-url-goes-here
