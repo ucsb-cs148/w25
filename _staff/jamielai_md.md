@@ -2,7 +2,7 @@
 name: Chieh-Ying (Jamie) Lai
 role: Teaching Assistant
 img: jamielai.jpg
-img100w: jamielai_100w.jpg
+img100w: jamielai_100w.jpeg
 bio: >
   Chieh-Ying (Jamie) Lai is a Master student in Computer Science.
   She has extensive experience in full-stack development, working with React, the
