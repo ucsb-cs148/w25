@@ -368,7 +368,7 @@ This component of your team grade is designed to encourage each team member to r
 
   - Have a _branch and a pull request_ for your hello world app (the one that you did as an individual or as part of a sub-group) by the due date of this assignment (i.e. {{page.due |  date: "%a, %b %d at %l:%M%p"}})
     and:
-  - deployed your app live on the public web (if it is a webapp) through Heroku, or another provider, _or_ demoed your app to your mentor during open lab hours, or another mentor if that doesn't work for your schedule.
+  - deployed your app live on the public web (if it is a webapp) through Vercel, or another provider, _or_ demoed your app to your mentor during open lab hours, or another mentor if that doesn't work for your schedule.
 
 - By functionality normal to the framework, we mean for example:
   - If it a "game", there should be a "start game" button, and then after a moment, it displays "game over" with a "play again" button.
@@ -378,8 +378,7 @@ This component of your team grade is designed to encourage each team member to r
 
 ## _Each_ webapp "Hello, World" branch/pull-request should be deployed
 
-If your app is being deployed as a webapp: you should have have DEPLOYED it so that it runs on a service such as Heroku, Google App Engine, Amazon Web Services, etc. at a stable URL. The easiest platform on which to do this
-for Java Spring Boot, and Python Flask is Heroku. If you don't know how to go about it, ask on the slack channel (well in advance, not at the last minute),
+If your app is being deployed as a webapp: you should have have DEPLOYED it so that it runs on a service such as Vercel, Heroku, Google App Engine, Amazon Web Services, etc. at a stable URL. The easiest platform on which to do this is Vercel. If you don't know how to go about it, ask on the slack channel (well in advance, not at the last minute),
 and mentors and other students can point you to the resources to get started with this.
 
 Put the URL of your running app in the README in your branch.
