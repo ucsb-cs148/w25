@@ -53,9 +53,11 @@ We have 14 teams set up:
 
 {:.table .table-sm .table-striped .table-bordered}
 
-Teams: Let's start meeting at the table numbers listed in the above table. Please check in with any team members who are not in the classroom via your team channel in Slack right away!
+Teams: Let's start meeting at the table numbers listed in the above table. We can decide later to spread out more if that is preferred.
 
-This lab has two components. One part to complete ASAP (Step 1 to Step 4 below, to be completed mostly today in Section or as soon as possible afterwards) and one graded part (multiple steps) that is due by the end of next Friday, Jan. 17th 2025. One week is the typical time period for lab assignments. In each lab starting with next week, you should make sure as a team that you have completed all lab deliverables from the previous week.
+Please check in with any team members who are not in the classroom via your team channel in Slack right away!
+
+This lab has two components. One part to complete ASAP (Step 1 to Step 4 below, to be completed mostly today in Section or as soon as possible afterwards) and one graded part that is due by the end of next Friday, Jan. 17th 2025. One week is the typical time period for lab assignments. In each lab starting with next week, you should make sure as a team that you have completed all lab deliverables from the previous week.
 
 <div class="grade" markdown="1">
 
@@ -70,6 +72,7 @@ This lab has two components. One part to complete ASAP (Step 1 to Step 4 below, 
 
 - your group logged your first Scrum meetings (including `lec02.md` and at least one of `lab01.md`,`lab02.md`) in the `sprint01` subfolder.
 - you took accurate attendance, accounting for all members of your group
+  (See the [teams page]({{'/teams_page/' | relative_url }}) for a list of group members)
 - the meeting notes the scribe took are added to the above files. For future meetings, you will replace `lab01` with the respective meeting time denominator (e.g. `lec05` or `10-17-2pm`)
 
 **Graded**: (20 pts) You earn these points if/only if:
@@ -117,7 +120,7 @@ To join this organization, you need to do three things.
 1. If you don't already have a github.com account, create one on the
    "free" plan. Visit [https://github.com/](https://github.com/)
 
-2. If you don't already have your @ucsb.edu email address
+2. If you don't already have your @umail.ucsb.edu email address
    associated with your github.com account. go to "settings", add that
    email, and confirm that email address.
 
@@ -227,15 +230,19 @@ In your branch, NOT on the `main` branch of the main repo, please do the followi
 
 Make a directory called `team`. Inside this, create a markdown file named `your_first_name.md` containing a brief description of you and of your ideas for the project.
 
+- NOTE: Not literally `team/your-first-name.md`, but something like `team/chris.md` or `team/taylor.md`
+
 Each team member should do this individually. Note that this will be publicly displayed on the course site.
 
 ### Step 3b: Do a pull request from your branch that has your file called `team/your_first_name.md`.
 
-Do a [pull request](https://www.better.dev/create-your-first-github-pull-request) from your branch to the `main` branch of the repo. Each team member should have done at least one pull request from their github id.
+Do a [pull request](https://www.better.dev/create-your-first-github-pull-request) from your branch to the `main` branch of the repo. Each team member should have done at least
+one pull request from their github id.
 
 ## Step 4: Create your team/NORMS.md file
 
-This is a list of ideal team behaviors written as a team, e.g. everyone arrives to meetings on time or everyone starts things tasks early. Only one student needs to submit a pull request containing this file, however it is ok if there are multiple pull requests for this file. You should be careful, however to avoid merge conflicts!
+This is a list of ideal team behaviors, e.g. everyone arrives to meetings on time or everyone starts things tasks early. You should write this as a team. Only one student needs to submit a pull request containing this file, however it is ok
+if there are multiple pull requests for this file. You should be careful, however to avoid merge conflicts!
 
 The `team/NORMS.md` file should contain all of the team norms. It is ok to "suggest" team norms in your individual team/first-name.md files, but the team, ultimately, should consolidate all of these into one `team/NORMS.md` file.
 
@@ -243,7 +250,7 @@ The `team/NORMS.md` file should contain all of the team norms. It is ok to "sugg
 
 **Graded**: (20) You earn these points if/only if:
 
-- your group reached **Milestone 1** described in Step 2, on top of which every member branched the team repo and did a pull request to submit a file named after themselves in the teams folder from their own branch, and the team together created a NORMS.md file. This is the goal for Section today.
+- your group reached **Milestone 1** described in Step 2, on top of which every member branched the team repo and did a pull request to submit a file named after themselves in the teams folder from their own branch, and the team together created a NORMS.md file.
 
 </div>
 
@@ -257,8 +264,9 @@ During [lec02]({{'/lectures/lec02/' | relative_url }}), you will have first prac
 
 **Graded**: (20) You earn these points if/only if:
 
-- your group logged your first Scrum meetings (including `lec02.md` and at least one of `lab01.md` `lab02.md`) in the `sprint01` subfolder.
+- your group logged `lec02.md` and at least one of `lab01.md` `lab02.md` meetings in the `sprint01` subfolder.
 - you took accurate attendance, accounting for all members of your group
+  (See the [teams page]({{'/teams_page/' | relative_url }}) for a list of group members)
 - the meeting notes the scribe took are added to the above files. For future meetings, you will replace `lab01` with the respective meeting time denominator (e.g. `lec05` or `10-17-2pm`)
 </div>
 
@@ -266,7 +274,9 @@ From now on, please document all your meetings in the github repository in this 
 
 ## Step 6: Discuss the User Journey
 
-As a team, discuss the "user journey" for your proposed application. That is, try to describe all of the events that lead someone to seek out your product and have an interaction with it.
+As a team, discuss the "user journey" for your proposed application.
+
+That is, try to describe all of the events that lead someone to seek out your product and have an interaction with it, or perhaps a series of interactions.
 
 There should be a beginning, a middle and an end, where **value is exchanged**:
 
@@ -282,11 +292,12 @@ Discuss this with your group, and capture (perhaps in a Google Doc?) whatever co
 
 The beginning of your user journey is a _Problem Scenario_ as discussed in class, which is basically a short story, involving a subset of the concrete _Personas_ you came up with in assignment _h02_ and expressing what the people eventually will want to achieve with your product and what the problem is with current solutions.
 
-Beyond the problem scenario, you can document the design of your user journey in free form: a list, or pictures, a collection of <tt>As a ** I can ** so that \_\_ </tt> type stories, or any combination of those.
+Beyond the problem scenario, you can document the design of your user journey in free form.
 
 At this stage, it is important to get the ideas flowing. There is no specific "right or wrong" way to get your ideas down on paper (or, rather, eventually, a GitHub markdown file). Just write something
 that captures the group consensus, or the candidate proposals, for the "user journey".
 
+It can take any form: a list, or pictures, a collection of <tt>As a ** I can ** so that \_\_ </tt> type stories, or any combination of those. Don't get bogged down on what form it takes. Just get something down.
 
 NOTE: Try to keep your description VERY HIGH LEVEL, avoiding specific implementation details.
 
@@ -295,12 +306,17 @@ NOTE: Try to keep your description VERY HIGH LEVEL, avoiding specific implementa
 
 You don't have to do this "perfectly" the first time. You may need to first get it all out as "brain dump" that contains too much detail, and then move to a higher level. But get to the higher level as soon as you can.
 
-Don't move on to the next step until you have the "spine" of your customer journey captured in some fashion. You'll know you have it, and you are ready for this step when:
+Don't move on to the next step until you have the "spine" of your customer journey captured in some fashion.
 
-- It tells a coherent story. You can describe this to any reasonable person (e.g. a UCSB student that isn't in this class or a target user) and they will be able to follow what you are saying.
-- None of your "spine" should be "implementation" focused. It shouldn't depend, for example, even on whether it happens to be a webapp, or a mobile app, or even an app at all. It shoudn't depend on technology specifics.
+You'll know you have it, and you are ready for this step when:
 
-- The <b>value exchange</b> part is clearly identified: the goal/need/desire of the user, and how that gets acheived/met/fulfilled.
+- It tells a coherent story. You can describe this to any reasonable person
+  (e.g. a UCSB student that isn't in this class, particularly one that might be a target user)
+  and they will be able to follow what you are saying.
+- None of your "spine" should be "implementation" focused. It shouldn't depend, for example, even on whether
+  it happens to be a webapp, or a mobile app, or even an app at all. It shoudn't depend on technology specifics.
+
+- The <b>value exchange</b> part is clearly identified: the goal/need/desire of the user, and how that gets acheived/met/fulfilled
 
 <div class="grade" markdown="1">
 
@@ -332,29 +348,33 @@ be part of your MVP.
 
 The big question to keep in mind is:
 
-> How can we make "this" (goal/need/desire) possible for the user with less complexity, less code, less time
+> How can we make "this" possible for the user with less complexity, less code, less time
+
+Here, "this" is the goal/need/desire.
 
 ## Development deliverables for lab01
 
-Agile methodology aims to deliver working software quickly for continuous improvement. It is now time to experiment with potential technology stacks, so that your team has a good basis for choosing a particular implementation platform and framework in an informed fashion!
+As the Agile Methodology strives to get to a working live software as quickly as possible (to be improved constantly thereupon), it is now also time to experiment with potential technology stacks, so that your team has a good basis for choosing a particular implementation platform and framework in an informed fashion!
 
 By the due date of this assignment (i.e. {{page.due |  date: "%a, %b %d at %l:%M%p"}}), every team member (either individually or as part of a group of team members all following the same steps on their own host computers) should have created a simple running `Hello World` app on a platform and with a technology stack of each person's choice. Variety among your team members w.r.t. the tried technologies will help you gather valuable information about the pros and cons of different choices, but it is not required that you all do something different. It is also ok to do this as a group experience or in breakout groups of 2 or 3 people.
 
 A `Hello World` app demonstration includes all of the following:
 
 - Each team member has participated either as a solo programmer, or as part of a group (but with their own deployed demo), in producing a "Hello World" type app for a
-  framework you are exploring for your project. You will get two grades for this: one as part of your team grade, and another as an individual grade, as explained below.
+  framework you are exploring for your project. You will get two grades for this: one as part of your team grade, and another as
+  an individual grade, as explained below.
 - As a team, you've settled on the work you are going to do after the Hello World phase to move towards your minimum viable product (MVP).
 
 More on this below, and on how we'll be assessing this for both a team and an individual grade.
 
 <div class="grade" markdown="1">
 
-**Graded (lab01-I)**: (20) towards (lab01-I) is your individual grade for lab01. Your mentor will check with each of the team members to see if they got a `Hello World` app running. These reviews can be as simple as pointing the mentor to a deployed web app, or it could involve the team member demoing an app to the mentor via Zoom. Your TA or instructor will then do an independent assessment, informed by the mentors review, and assign a grade. If you are unsure about your code/project following good practice, you are encouraged to complete it early and meet with your mentor, your TA, or another mentor/TA during arranged meeting time or office hours to go over it in advance. The components of this grade are listed below. These points cover the basic functionality and code of your Hello World app on the basis of the app review. The remaining points cover mechanics of the release process (issues, version control, deployment/demos).
+**Graded (lab01-I)**: (30) towards (lab01-I) is your individual grade for lab01. Your mentor will check with each of the team members to see if they got a `Hello World` app running. These reviews can be as simple as pointing the mentor to a deployed web app, or it could involve the team member demoing an app to the mentor via Zoom. Your TA or instructor will then do an independent assessment, informed by the mentors review, and assign a grade. If you are unsure about your code/project following good practice, you are encouraged to complete it early and meet with your mentor, your TA, or another mentor/TA during arranged meeting time or office hours to go over it in advance.
+The components of this grade are listed below. These points cover the basic functionality and code of your Hello World app on the basis of the app review. The remaining points cover mechanics of the release process (issues, version control, deployment/demos).
 
-**Graded (lab01-T)**: (20) (lab01-T) is your Team grade for lab01. As part of this grade, each team member should have contributed to a hello world assignment as an individual or as part of a group by the due date/time of this lab, i.e. ({{page.due |  date: "%a, %b %d at %l:%M%p"}})
+**Graded (lab01-T)**: (30) (lab01-T) is your Team grade for lab01. As part of this grade, each team member should have contributed to a hello world assignment as an individual or as part of a group by the due date/time of this lab, i.e. ({{page.due |  date: "%a, %b %d at %l:%M%p"}})
 
-For teams of 6, this part of your grade is 5 points per team member. For teams of 7, it is 4.28 points, for the team of 8 it is 3.75 Those points are all or nothing; if you've made a reasonable attempt, even if you didn't earn 100% on lab01, your team will earn the points for your contribution towards the whole.
+For teams of 4, this part of your grade is 7.5 points per team member. For teams of 7, it is 4.28 points. Those points are all or nothing; if you've made a reasonable attempt, even if you didn't earn 100% on lab01, your team will earn 7.5 or 4.28 points for your contribution towards the whole.
 
 This component of your team grade is designed to encourage each team member to reach out to all the other members of the team, and be aware of the progress they are making towards the goal of having every team member complete a hello world assignment as an individual or as part of a pair. The most important learning goal of the course is to learn to work as a team, supporting one another.
 
@@ -363,8 +383,11 @@ This component of your team grade is designed to encourage each team member to r
 ## What _each_ "Hello World" branch/pull-request must contain for full credit.
 
 - Each individual or pair should have built a hello world app suitable for your framework.
-- You should have instructions in your ReadMe on what software must be installed in order to deploy your app. A TA, Mentor, or another class member should be able to follow these instructions and successfully deploy your app.
-- The app does not have to have any particular functionality other than what is normal for the framework. It should display either the text "Hello, World", or something similar such as "Welcome to the foobar app" (where "foobar" is the name of your team's app.) To get full credit here you must also:
+- You should have instructions in your ReadMe on what software must be installed in order to deploy your app.
+  A TA, Mentor, or another class member should be able to follow these instructions and successfully deploy your app.
+- The app does not have to have any particular functionality other than what is normal for the framework. It should display
+  either the text "Hello, World", or something similar such as "Welcome to the foobar app" (where "foobar" is the name of your
+  team's app.) To get full credit here you must also:
 
   - Have a _branch and a pull request_ for your hello world app (the one that you did as an individual or as part of a sub-group) by the due date of this assignment (i.e. {{page.due |  date: "%a, %b %d at %l:%M%p"}})
     and:
@@ -386,29 +409,20 @@ Put the URL of your running app in the README in your branch.
 
 ## _Each_ non-webapp "Hello, World" branch/pull-request should be demoed
 
-If you are NOT doing a webapp, you must set up a time with your mentor or TA to demo your app to them. Mobile apps should be demoed deployed on a physical device through Zoom. You need to do the demonstration BEFORE the lab next Friday. The TAs hold office hours and you can arrange meeting times with your mentors during which you can schedule this demo. The last opportunity to do this demo is right after or just before lab on the due date for this assignment, if you can grab your mentor or TA, but it may not be possible to fit all of those in, and in that case, regrettably, you may lose the opportunity to do so (and earn the points.) Please coordinate with your team to get as many of these demos done _before_ lab on the due date of this assignment.
+If you are NOT doing a webapp, you must set up a time with your mentor, or your TA, to demo your app to them. Mobile apps should be demoed deployed on a physical device through Zoom. You need to do
+the demonstration BEFORE the lab next Friday. The TAs hold
+office hours and you can arrange meeting times with your mentors during which you can schedule this demo. The last opportunity to do this demo
+is right after or just before lab on the due date for this assignment, if you can grab your mentor or TA, but it may not be possible to fit all of those in, and in that case, regrettably, you may lose the opportunity to do so (and earn the points.) Please coordinate with your team to
+get as many of these demos done _before_ lab on the due date of this assignment.
 
 If working in a pair/sub-group, _each_ member of the pair should demo the app, to show that they understand how to run it.
 
 NOTE: If you cannot schedule with your own mentor, you may coordinate on slack between your mentor and another mentor/TA holding open lab hours that better fit your schedule. Please use the slack to coordinate this.
 
-
 ## Some starting points for selected platforms:
 
-Christopher Chang has put together [a list of technologies](https://docs.google.com/document/d/1zclZUWWnAu6cXh5_b4wvkVKJ6Ch_OAagchXqigEzmZQ/edit?usp=sharing) for inspiration. Feel free to take a look at it and use it as a starting point for deciding what technologies you may want to use.
+Vincent Tieu has put together [a Github repository with starter code for React and Google Authentication ](https://github.com/vincentktieu101/ReactGoogleAuthStarter) The README.md and [an accompanying YouTube video](https://www.youtube.com/watch?v=XZceEXlYC1w&ab_channel=VincentTieu) also cover how to use the Google Developer Console and how to host the application on Heroku.
 
-React Starters:
+Christopher Chang has put together [a list of technologies](https://docs.google.com/document/d/1M4YBp1USOQzYZhF7uk7oXFoWrf6hwokw-rRdlmCvU1o/edit?usp=sharing) for inspiration. Feel free to take a look at it and use it as a starting point for deciding what technologies you may want to use.
 
-- Vincent Tieu has put together [a Github repository with starter code for React and Google Authentication ](https://github.com/vincentktieu101/react-google-auth-starter)
-- React Documentation for creating a [basic React App](https://create-react-app.dev/docs/getting-started/)
-
-Node.js Starters
-- [Tutorial](https://github.com/Subham-Maity/node-js-full-stack-tutorial)
-- [Getting Started](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
-
-
-## Hosting applications
-
-If you are using Vercel for hosting a web app (recommended for web apps), you may also find [this page](https://vercel.com/docs/getting-started-with-vercel) helpful.
-
-If you are deploying a Unity game, we recommend viewing the FAQ section of [this page](https://play.unity.com/en/faq).
+If you are using Heroku for hosting a web app, you may also find [these instructions from CS48 some time ago](https://ucsb-cs48.github.io/s20/lab/lab01/) helpful.
