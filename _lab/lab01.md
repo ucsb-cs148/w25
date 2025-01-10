@@ -410,7 +410,7 @@ If you have at least a little experience in git already, you will maybe only use
 
 ## Some starting points for selected platforms:
 
-Christopher Chang has put together [a list of technologies](https://docs.google.com/document/d/1zclZUWWnAu6cXh5_b4wvkVKJ6Ch_OAagchXqigEzmZQ/edit?usp=sharing) for inspiration. Feel free to take a look at it and use it as a starting point for deciding what technologies you may want to use.
+Christopher Chang, some time back, has put together [a list of technologies](https://docs.google.com/document/d/1zclZUWWnAu6cXh5_b4wvkVKJ6Ch_OAagchXqigEzmZQ/edit?usp=sharing) for inspiration. Rachel Jiang made some updates for this quarter, but it's not her fault if things are outdated. Feel free to take a look at it and use it as a starting point for deciding what technologies you may want to use.
 
 React Starters:
 
