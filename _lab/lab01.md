@@ -399,7 +399,7 @@ Christopher Chang has put together [a list of technologies](https://docs.google.
 
 React Starters:
 
-- Vincent Tieu has put together [a Github repository with starter code for React and Google Authentication ](https://github.com/vincentktieu101/react-google-auth-starter)
+- Vincent Tieu has put together [a Github repository with starter code for React and Google Authentication ](https://github.com/vincentktieu101/react-google-auth-starter) (CAVEAT: This is from last year (2024). May already be dated!)
 - React Documentation for creating a [basic React App](https://create-react-app.dev/docs/getting-started/)
 
 Node.js Starters
