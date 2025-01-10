@@ -396,15 +396,15 @@ NOTE: If you cannot schedule with your own mentor, you may coordinate on slack b
 
 Here are a few git resources/tutorials:
 
-If you want a comprehensive start on git from the ground up, Fireship is a really good resource: https://www.youtube.com/watch?v=HkdAHXoRtos&.
+If you want a comprehensive start on git from the ground up, [Fireship is a really good resource](https://www.youtube.com/watch?v=HkdAHXoRtos&).
 
-If you are already a bit more familiar with git and just want a quick reference, this is provided by github themselves: https://education.github.com/git-cheat-sheet-education.pdf
+If you are already a bit more familiar with git and just want a quick reference, [this is provided by github themselves](https://education.github.com/git-cheat-sheet-education.pdf).
 
-For a good disambiguation between git merge and git rebase, this is a good resource: https://www.youtube.com/watch?v=0chZFIZLR_0
+For a good disambiguation between git merge and git rebase, [this is a good resource](https://www.youtube.com/watch?v=0chZFIZLR_0)
 
-Here is an MIT lecture on GIT (a little bit slower and going more in detail, but the student Q&A is interesting!): https://www.youtube.com/watch?v=2sjqTHE0zok
+Here is an [MIT lecture on GIT](https://www.youtube.com/watch?v=2sjqTHE0zok) (a little bit slower and going more in detail, but the student Q&A is interesting!). 
 
-Quick FAQ on common git issues: https://ohshitgit.com/  
+[Quick FAQ on common git issues](https://ohshitgit.com/)
 
 If you have at least a little experience in git already, you will maybe only use the quick reference + ask a member when you get stuck. But the youtube videos are definitely nice resources for anyone who wants to fully learn it from scratch!
 
