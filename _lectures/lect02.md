@@ -1,6 +1,6 @@
 ---
 desc: "Meeting Logs, Initial README, Team Agreements"
-lecture_date: 2024-01-13
+lecture_date: 2025-01-13
 num: lect02
 ready: true
 ---
