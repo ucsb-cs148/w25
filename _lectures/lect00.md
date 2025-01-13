@@ -1,6 +1,6 @@
 ---
 desc: First day of class 
-lecture_date: 2024-01-06 14:00
+lecture_date: 2025-01-06 14:00
 num: lect00
 ready: true
 
