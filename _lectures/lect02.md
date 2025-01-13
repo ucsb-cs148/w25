@@ -14,7 +14,7 @@ ready: true
 
 You should have been:
 - active on a team channel on the [Slack](https://ucsb-cs148-w25.slack.com)
-- added to one of the [teams](https://github.com/orgs/ucsb-cs148-w25/teams) on the [ucsb-cs148-w24 Github org](https://github.com/ucsb-cs148-w25).
+- added to one of the [teams](https://github.com/orgs/ucsb-cs148-w25/teams) on the [ucsb-cs148-w25 Github org](https://github.com/ucsb-cs148-w25).
 - given admin access to a project repo for your team
 
 Today, you'll also again be working in groups with your team during the class time.    
