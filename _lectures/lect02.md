@@ -68,7 +68,7 @@ On the Slack, we will make available several channels that have the endings `_he
 * [`#unity_help`]()
 * etc.
 
-* *If your team would like to see additional help channels on specific topics*, make a suggestion in the new #teaching-team-suggestions Slack channel (you need to browse channels and join this one.)
+* *If your team would like to see additional help channels on specific topics*, make a suggestion in the new #questions-to-teachingteam Slack channel (you need to browse channels and join this one.)
 * *If you want to share a useful article, tip, blog post, video, etc.* about the topic,  post in the `_help` channel for the topic.
 * *If you need help* with the topic, i.e. you want to ask a question, post in the channel corresponding with the topic.   You are also encouraged to provide help in the `_help` channel if you think you know the answer to someone's question.
 
