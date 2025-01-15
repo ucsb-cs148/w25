@@ -1,5 +1,5 @@
 ---
-title: CS148 W24
+title: CS148 W25
 permalink: "/"
 ---
 

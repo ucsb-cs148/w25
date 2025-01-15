@@ -25,8 +25,8 @@ github_org_name: ucsb-cs148-w25
 github_org_url: https://github.com/ucsb-cs148-w25
 slack_url: https://ucsb-cs148-w25.slack.com
 
-ta_list: "Will (Zifeng) Zhang, Yunhao Luo, Jamie (Chieh-Ying) Lai"
-ta_list_full: "Will (Zifeng) Zhang, Yunhao Luo, Jamie (Chieh-Ying) Lai"
+ta_list: "Will (Zifeng) Zhang, Yunhao Luo, Jamie (Chieh-Ying) Lai, Yilin (Michael) Wang"
+ta_list_full: "Will (Zifeng) Zhang, Yunhao Luo, Jamie (Chieh-Ying) Lai, Yilin (Michael) Wang"
 mentors_list: "Anderson Lee, Samuel Zhu, Rachel Jian, Lixing (Leo) Guo"
 
 github_url: https://github.com/ucsb-cs148/w25
@@ -50,10 +50,10 @@ cal_dates: >
     {"label":"W25 1st day of instruction", "date":"2025-01-06" },	
     {"label":"Univ Holiday: Martin Luther King Jr. Day", "date":"2025-01-20" },
     {"label":"Univ Holiday: Presidents' Day", "date":"2025-02-17" },
-    {"label":"W24 instruction ends", "date":"2025-03-14" },
-    {"label":"W24 finals start", "date":"2025-03-15" },
-    {"label":"W24 finals end", "date":"2025-03-21" },
-    {"label":"W24 qtr ends", "date":"2025-03-21" }
+    {"label":"W25 instruction ends", "date":"2025-03-14" },
+    {"label":"W25 finals start", "date":"2025-03-15" },
+    {"label":"W25 finals end", "date":"2025-03-21" },
+    {"label":"W25 qtr ends", "date":"2025-03-21" }
   ]
 
 
