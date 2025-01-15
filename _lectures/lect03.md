@@ -9,7 +9,7 @@ ready: true
 * Homework for next Wednesday (since Monday is a holiday): On Retrospectives <https://ucsb-cs148.github.io/w25/hwk/h03/>
 
 # ToDos: 
-* Please fill in some information on your planned tech stack(s) at [our gr<https://bit.ly/148-teams>. Look through the [Technologies for Inspiration](https://docs.google.com/document/d/1M4YBp1USOQzYZhF7uk7oXFoWrf6hwokw-rRdlmCvU1o/edit?usp=sharing) doc we pointed you to, and start requesting/using the Slack channels you need to succeed! 
+* Please fill in some information on your planned tech stack(s) at [our team formation spreadsheet](https://docs.google.com/spreadsheets/d/1pmSM2xKFMApx9oLGiodp4H2IstDNx2p2xTtCFjgzToc/edit?usp=sharing). Look through the [Technologies for Inspiration](https://docs.google.com/document/d/1zclZUWWnAu6cXh5_b4wvkVKJ6Ch_OAagchXqigEzmZQ/edit?usp=sharing) doc we pointed you to, and start requesting/using the Slack channels you need to succeed! 
 
 # Topics: 
 * User Analysis / Task Analysis - the first two steps of any design process. 
