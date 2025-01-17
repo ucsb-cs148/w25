@@ -9,7 +9,7 @@ github_org: ucsb-cs148-w25
 
 # A few things to add to your README.md:
 
-1. In your README.md, add a line for which app type / tech stack you are using.
+1. In your README.md, add a line specifying the app type and the tech stack you are using.
 2. Add some more detail about the plan for your app to your README.md
    * Minimum, a single paragraph that expands on the one-sentence description
    * Better: Instead of, or in addition to that, a list of user roles (see below), and few things that
@@ -53,7 +53,7 @@ What will each different kind of user be able to do in your app?
 
 ## Team Homework: `.gitignore` and `LICENSE.md`
 
-Before Thursday's lecture, as a team, please add a `.gitignore` and a `LICENSE.md` to your repo.
+Before Wednesday's lecture, as a team, please add a `.gitignore` and a `LICENSE.md` to your repo.
 
 The `.gitignore` will depend on your tech stack choice.
 * Create a file called `.gitignore` in the root of your repo

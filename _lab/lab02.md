@@ -48,9 +48,9 @@ lab02 is a team-based grade for several check points towards the MVP demo.
 
 <div class="grade" markdown="1">
  
-**Graded: ({{page.num}}-T)** (10 pts) When at least one Sprint Planning meeting took place and was documented in a team/sprint0?/ folder in your main repo (question mark for number of your current sprint, which may vary from team to team). For the purpose and mechanisms of a Sprint Planning meeting see, e.g., pages 25-27 of [our Scrum booklet](https://sites.cs.ucsb.edu/~holl/CS148/handouts/Scrum.pdf).
+**Graded: ({{page.num}}-T)** (10 pts) Conduct at least one Sprint Planning meeting and document it in a team/sprint0?/ folder in your main repo (question mark for number of your current sprint, which may vary from team to team). For the purpose and mechanisms of a Sprint Planning meeting see, e.g., pages 25-27 of [our Scrum booklet](https://sites.cs.ucsb.edu/~holl/CS148/handouts/Scrum.pdf).
 
-**Graded: ({{page.num}}-I)**: (10 pts) You earn these points if/when you, within one week from the start of this assignment (i.e. by {{page.due |  date: "%a, %b %d at %l:%M%p"}}):
+**Graded: ({{page.num}}-I)**: (10 pts) Within one week from the start of this assignment (i.e. by {{page.due |  date: "%a, %b %d at %l:%M%p"}}):
 
 * are assigned to an issue that has been moved from To-Do to In-Progress to Done on the Kanban board, tracking the progress of your issue from start to finish.
 
@@ -63,7 +63,7 @@ But doing it "after the fact" is better than not doing it at all; if nothing els
 * (20 pts) Your README.md file is updated with information about your technology stack and approach, as well as listing user roles (see [this description](https://ucsb-cs148.github.io/w25/lab/lab02-addendum))  
 * (10 pts) There should be at least one user story in the In-Progress or Done column for your team. If there is more than one in the In-Progress column at any given time, it is because the issues for the first one are insufficient to keep the team making progress, and it was necessary to bring over additional ones to have enough issues to work on and keep every team member active.
 * (10 pts) There should be at least one issue under each user story that supports implementing that user story.
-* (20 pts) Each user on the team should have been assigned to at least one issue in the in-progress column.   
+* (20 pts) Each member on the team should have been assigned to at least one issue in the in-progress column.   
    For teams of 6, this part of your grade is 3.3 points per team member.  For teams of 7, it is 2.9 points per team member, for teams of 8 it is 2.5 points. 
 
 This component of your team grade is designed to encourage each team member to reach out to all the other members of the team, and be aware of the progress they are making towards the goal of having every team member be making a contribution to the project.  The most important learning goal of the course is to learn to work as a team, supporting one another.
@@ -88,6 +88,8 @@ What we don't encourage is for Alice and Bob to be assigned to the
 issue, and then Alice and Bob take turns "solo programming" on the
 issue.  That's a way of working but not the one we are encouraging you
 to pursue.
+
+Typically, each issue can be assigned to 1 - 2 members, but **no more than 3 memebers** should be assigned to a single issue.
 
 # About limiting work in progress
 
@@ -117,6 +119,6 @@ Note, for full course credit, each of you needs to take a turn taking a leadersh
 **Graded ({{page.num}}-T)**: towards the team part of your grade for {{page.num}}.  
 
 This part of the team grade is for the mechanics of:
-* (10 pts) naming a retro leader for the [lab03](https://ucsb-cs148.github.io/w25/lab/lab03/)) retro and record their name in your new LEADERSHIP.md file (described in [lect04](https://ucsb-cs148.github.io/w25/lectures/lect04/)). Also list there the leaders for previous and scheduled Sprint planning meetings, and other major coordination meetings. 
+* (10 pts) naming a retro leader for [lab03](https://ucsb-cs148.github.io/w25/lab/lab03/) retro and record their name in your new LEADERSHIP.md file (described in [lect04](https://ucsb-cs148.github.io/w25/lectures/lect04/)). Also list there the leaders for previous and scheduled Sprint planning meetings, and other major coordination meetings. 
 * (10 pts) your LEARNING.md file (described in [lect04](https://ucsb-cs148.github.io/w25/lectures/lect04/)) is filled with information about your tech stack background and learning trajectory.  
 </div>
