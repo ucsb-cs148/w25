@@ -48,7 +48,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 # Today: Retrospective
 
-- As always, you group into teamwork. You know from your homework, from [the Retro entry in Topics](https://ucsb-cs148.github.io/topics/retros/) and from page 33 in the [Scrum booklet](https://ucsb-cs148.github.io/w24/hwk/h05/) how to do hold a retrospective meeting. Now do it. You get points for the deliverables listed on this page.
+- As always, you group into teamwork. You know from your homework, from [the Retro entry in Topics](https://ucsb-cs148.github.io/topics/retros/) and from page 33 in the [Scrum booklet](https://ucsb-cs148.github.io/w25/hwk/h05/) how to do hold a retrospective meeting. Now do it. You get points for the deliverables listed on this page.
 
 Below is a suggested procedure/timeline for your Retro. Ultimately, the format is up to you, but you need to start somewhere, so we propose the following guidelines:  
 
@@ -86,14 +86,15 @@ Staff will be dropping in to observe.
 
 We have assigned mentors to each team. Please see the table below for your mentor assignment. Mentors will be actively involved in facilitating your project and helping you with any questions you may have. Feel free to directly tag them in your team Slack Channel. You should use the Slack Channel actively to communicate with your team, that way your mentors can see what you are working on and help you out. Mentors will be walking around during the class to check in with you team.
 
-| Row | 1pm | 2pm | 3pm |
+| Table # | 1pm | 2pm | 3pm |
 |-----|-----|-----|-----|
-|1 | **pj01-universityclothing** (Tobias/Luke/Matt) | **pj04-courserecs** (Chris/Mateo) | **pj05-codegrow** (Luke/Ryan) |
-|2 | **pj02-travelplanner** (Kristin/Matt) | **pj06-foundit** (Anushka/Mateo) | **pj07-datingalgorithm** (Ryan/Anushka) |
-|3 | **pj03-intelligrocery** (Chris/Matt) | **pj10-spotifai** (Ryan/Aditya) | **pj08-reccen** (Anushka/Aditya) |
-|4 | **pj11-songrater** (Luke/Chris) | **pj13-researchhelper** (Aditya/Luke) | **pj09-liveordie** (Kristin/Chris) |
-|5 | **pj12-appblocker** (Matt/Kristin) |   |  |
-|6 | **pj14-ucsbcoral** (Aditya/Mateo) |   |  |
+|1 | **pj02-lyricgenerator** (Will, Rachel) | **pj03-clothtracker** (Anderson, Jamie) | **pj01-scheduleconverter** (Samuel) |
+|2 | **pj05-rideshare** (Yunhao, Will) | **pj04-restaurantdecider** (Leo, Anderson) | **pj09-socialrunning** (Samuel, Jamie) |
+|3 | **pj06-studyconnect** (Yunhao, Rachel) | **pj07-mafia** (Yunhao, Rachel) | **pj10-timebendingpuzzle** (Rachel, Leo) |
+|4 | **pj13-sportsbetting** (Will, Samuel) | **pj08-studytimer** (Leo, Yilin) |  |
+|5 |  | **pj11-recipegenerator** (Leo, Yilin) |  |  |
+|6 |  | **pj12-closettracker** (Anderson, Yunhao) |  |  |
+|7 |  | **pj14-lootfinder** (Yilin, Jamie) |  |  |
 {:.table .table-sm .table-striped .table-bordered}
 
 # Deliverable
@@ -223,7 +224,7 @@ explains how you can create an MVP demo video using Zoom and YouTube:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k0Je8ASh4jo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[This page](https://ucsb-cs148.github.io/w24/exam/mvp_code_freeze_and_release/) tells you how to document and list the link to your demo when it is complete. The video may be public, or "unlisted", as you see fit.
+[This page](https://ucsb-cs148.github.io/w25/exam/mvp_code_freeze_and_release/) tells you how to document and list the link to your demo when it is complete. The video may be public, or "unlisted", as you see fit.
 Links to videos will be shared with the class, but the class is asked not to share links to non-public videos (unlisted videos)
 with people other than enrolled students and course staff.
 
