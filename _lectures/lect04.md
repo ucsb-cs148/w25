@@ -7,8 +7,8 @@ ready: false
 
 
 Announcements:  
-* H03 (Retrospectives) was due today. New [h04](https://ucsb-cs148.github.io/w24/hwk/h04/)(Agile Basics 3/3) posted, due on Monday.  
-* Work on [lab02](https://ucsb-cs148.github.io/w24/lab/lab02/)
+* H02 was due today. New [h03](https://ucsb-cs148.github.io/w25/hwk/h03/)(Retrospectives) posted, due on Monday, but go over it before Friday, to get informed about Retros before you do the assigned one. 
+* Work on [lab02](https://ucsb-cs148.github.io/w25/lab/lab02/)
 * Sprint Planning! 
 * #lessons-learned channel
 
@@ -145,14 +145,14 @@ repo that contains extra "proof of concept", and "practice code" for your projec
 
 These are sometimes called *spikes*.
 
-You can name these with private or public repos in the `ucsb-cs148-w24` github org names such as `spike-t1-try-spotify-api` and then give your team access to them.
+You can name these with private or public repos in the `ucsb-cs148-w25` github org names such as `spike-t1-try-spotify-api` and then give your team access to them.
 
 You may want to make such repos part of your learning plan.
 
 # If you have extra time
 
 * Kanban board column (if not *fully* done)
-  - If the Kanban board column for [lab02](https://ucsb-cs148.github.io/w24/lab/lab02/) is not complete (i.e all stories groomed with clear acceptance criteria), work on that.   
+  - If the Kanban board column for [lab02](https://ucsb-cs148.github.io/w25/lab/lab02/) is not complete (i.e all stories groomed with clear acceptance criteria), work on that.   
   - This should be finished by Thursday if possible, Friday midnight *at the latest* so your team is making progress! Note that Friday's Section will be all taken up by the First Retrospective
 * Finish anything you were "in the middle of" when time ran out last meeting.
 * If that's done, choose either:
