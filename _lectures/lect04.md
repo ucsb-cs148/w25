@@ -83,7 +83,7 @@ An ideal plan will incorporate both breadth and depth:
 
 # A *Partial* List of important technologies, by Stack
 
-You might use the technology list we pointed you to before and the pointers in our Slack `_help` channels to come up with ideas for your `/team/LEARNING.md` file.
+You might use [the technology list we pointed you to](https://docs.google.com/document/d/1zclZUWWnAu6cXh5_b4wvkVKJ6Ch_OAagchXqigEzmZQ/edit?usp=sharing) before and the pointers in our Slack `_help` channels to come up with ideas for your `/team/LEARNING.md` file.
 
 Also, think about any project-specific APIs, data sources, etc. Your project may have specific APIs, data sources, specialized skills etc. that you may need to work with.
 It may helpful to identify the ones needed for your project, and be sure that at least one team member is looking into each of those.
