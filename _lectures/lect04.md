@@ -2,13 +2,14 @@
 desc: "Project Management: README.md, Leadership, Retros, Learning plan"
 lecture_date: 2024-01-22
 num: lect04
-ready: false
+ready: true
 ---
 
 
 Announcements:  
 * H02 was due today. New [h03](https://ucsb-cs148.github.io/w25/hwk/h03/)(Retrospectives) posted, due on Monday, but go over it before Friday, to get informed about Retros before you do the assigned one. 
 * Work on [lab02](https://ucsb-cs148.github.io/w25/lab/lab02/)
+* MVP Code Freeze amended again (to Mon. 02/03) 
 * Sprint Planning! 
 * #lessons-learned channel
 
@@ -41,9 +42,9 @@ Example:
 
 | Date      | Name              | Activity                                               |
 |-----------|-------------------|--------------------------------------------------------|
-| Mon 10/04 | Chris Gaucho      | Led team discussion to define MVP                      | 
-| Tue 10/05 | Lauren del Playa  | Led team discussion of Sprint01 and learning plan      | 
-| Wed 10/13 | Taylor Chen       | Will lead first Retro                                  | 
+| Mon 01/06 | Chris Gaucho      | Led team discussion to define MVP                      | 
+| Tue 01/07 | Lauren del Playa  | Led team discussion of Sprint01 and learning plan      | 
+| Fri 01/24 | Taylor Chen       | Will lead first Retro                                  | 
 
 ```
 
@@ -82,61 +83,21 @@ An ideal plan will incorporate both breadth and depth:
 
 # A *Partial* List of important technologies, by Stack
 
-You might use this list to come up with ideas for your `/team/LEARNING.md` file.
+You might use the technology list we pointed you to before and the pointers in our Slack `_help` channels to come up with ideas for your `/team/LEARNING.md` file.
 
-Note that:
-* This list is not at all complete. It's just a "good start" for a few technologies.
-* The tutorials linked to are just a starting point.   They aren't the only, or necessarily even the "best" tutorials---just the first ones that seemed reasonable to link to.
-* As you find better resources, you are *strongly encouraged* to share those. We will create `<technology>_help` channels on the Slack.
-
-
-## General Web Dev Skills
-
-* HTML <https://www.w3schools.com/html>
-* CSS <https://www.w3schools.com/css>
-* Bootstrap 4 <https://www.w3schools.com/bootstrap4>
-
-
-## Javascript libraries: Node.js, React, Next.js
-
-* Node.js and npm <https://docs.npmjs.com/about-npm/>, <https://dzone.com/articles/a-beginners-guide-to-npm-the-node-package-manager>
-* React / JSX  <https://reactjs.org/docs/getting-started.html#learn-react>, <https://www.w3schools.com/react/default.asp>
-* react-bootstrap <https://react-bootstrap.github.io/>
-* next.js in general <https://nextjs.org/learn/basics/getting-started>
-* Zeit now.sh <https://zeit.co/docs>
-* MongoDb Cloud Atlas <https://www.mongodb.com/cloud/atlas/>, Free Course: <https://university.mongodb.com/courses/M001/about>
-* A GitHub repository of links to resources: https://github.com/enaqx/awesome-react
-* A helpful tutorial outside of the official documentation: https://www.simplilearn.com/tutorials/reactjs-tutorial/what-is-reactjs
-
-
-## Python web frameworks
-
-* Flask, Django, or FastAPI are all mentioned in [this article](https://dev.to/theme_selection/the-best-python-web-frameworks-d2d)
-
-## Databases
-* [MongoDB](https://www.mongodb.com/docs/)
-* [Firebase](https://firebase.google.com/learn)
-
-## Mobile (Phone/Tablet) Development 
-* [ReactNative](https://reactnative.dev/)
-* [Flutter](https://flutter.dev/)       
-* [Native IOS in Swift](https://developer.apple.com/swift/resources/)
-* [Native Android Development in Kotlin and Jetpack Compose](https://developer.android.com/kotlin)
-
-## Project Specific APIs, data sources, etc.
-
-Your project may have specific APIs, data sources, specialized skills etc. that you may need to work with.  
-
+Also, think about any project-specific APIs, data sources, etc. Your project may have specific APIs, data sources, specialized skills etc. that you may need to work with.
 It may helpful to identify the ones needed for your project, and be sure that at least one team member is looking into each of those.
 
 Examples:
-* Spotify API <https://developer.spotify.com/documentation/web-api/>
-* Low level `<canvas>` element access for game element graphics, or frameworks that allow it
-* Pusher (for real-time communication between the server and the client, e.g. for real-time chat, games, etc.) <https://pusher.com/>
-* Mapping/Routing services such as <https://openrouteservice.org/services/> and [OpenStreetMap](https://wiki.openstreetmap.org/wiki/Frameworks#Displaying_interactive_maps) (Note that Google Maps is awesome, but it may be tough to get free access.)
-* Reading data files into usable application data
-  - Hard coded data objects for very small tables
-  - Databases (SQL or MongoDB) for larger tables
+
+Spotify API https://developer.spotify.com/documentation/web-api/
+Low level <canvas> element access for game element graphics, or frameworks that allow it
+Pusher (for real-time communication between the server and the client, e.g. for real-time chat, games, etc.) https://pusher.com/
+Mapping/Routing services such as https://openrouteservice.org/services/ and OpenStreetMap (Note that Google Maps is awesome, but it may be tough to get free access for web apps. It should be free for Mobile apps, but may require a credit card regardless.)
+Reading data files into usable application data
+Hard coded data objects for very small tables
+Databases (Firebase, SQL, or MongoDB) for larger tables
+
 
 ## Spikes, Skunk-works, Proofs of Concepts
 
