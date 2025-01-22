@@ -91,7 +91,7 @@ It may helpful to identify the ones needed for your project, and be sure that at
 Examples:
 
 Spotify API <https://developer.spotify.com/documentation/web-api/>
-Low level <canvas> element access for game element graphics, or frameworks that allow it
+Low level `canvas` element access for game element graphics, or frameworks that allow it
 Pusher (for real-time communication between the server and the client, e.g. for real-time chat, games, etc.) <https://pusher.com/>
 Mapping/Routing services such as <https://openrouteservice.org/services/> and OpenStreetMap (Note that Google Maps is awesome, but it may be tough to get free access for web apps. It should be free for Mobile apps, but may require a credit card regardless.)
 Reading data files into usable application data
