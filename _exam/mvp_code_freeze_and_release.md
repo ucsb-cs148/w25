@@ -1,9 +1,9 @@
 ---
 layout: exam_info
 num: project
-ready: false
+ready: true
 desc: "MVP Code Freeze, Release, and Video"
-exam_date: 2025-01-31 23:59
+exam_date: 2025-02-03 23:59
 ---
 
 
