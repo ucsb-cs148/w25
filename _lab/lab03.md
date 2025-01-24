@@ -88,13 +88,13 @@ We have assigned mentors to each team. Please see the table below for your mento
 
 | Table # | 1pm | 2pm | 3pm |
 |-----|-----|-----|-----|
-|1 | **pj02-lyricgenerator** (Will, Rachel) | **pj03-clothtracker** (Anderson, Jamie) | **pj01-scheduleconverter** (Samuel) |
-|2 | **pj05-rideshare** (Yunhao, Will) | **pj04-restaurantdecider** (Leo, Anderson) | **pj09-socialrunning** (Samuel, Jamie) |
-|3 | **pj06-studyconnect** (Yunhao, Rachel) | **pj07-mafia** (Yunhao, Rachel) | **pj10-timebendingpuzzle** (Rachel, Leo) |
-|4 | **pj13-sportsbetting** (Will, Samuel) | **pj08-studytimer** (Leo, Yilin) |  |
-|5 |  | **pj11-recipegenerator** (Leo, Yilin) |  |  |
-|6 |  | **pj12-closettracker** (Anderson, Yunhao) |  |  |
-|7 |  | **pj14-lootfinder** (Yilin, Jamie) |  |  |
+|1 | **pj02-lyricgenerator** (Will, Rachel) | **pj03-clothtracker** (Anderson, **Jamie**) | **pj01-scheduleconverter** (Samuel) |
+|2 | **pj05-rideshare** (Yunhao, Will) | **pj04-restaurantdecider** (Leo, **Anderson**) | **pj09-socialrunning** (Samuel, Jamie) |
+|3 | **pj06-studyconnect** (Yunhao, Rachel) | **pj07-mafia** (Yunhao, **Rachel**) | **pj10-timebendingpuzzle** (Rachel, Leo) |
+|4 | **pj13-sportsbetting** (Will, Samuel) | **pj08-studytimer** (**Leo**, Yilin) |  |
+|5 |  | **pj11-recipegenerator** (Leo, **Yilin**) |  |  |
+|6 |  | **pj12-closettracker** (Anderson, **Yunhao**) |  |  |
+|7 |  | **pj14-lootfinder** (Yilin, **Jamie**) |  |  |
 {:.table .table-sm .table-striped .table-bordered}
 
 # Deliverable
