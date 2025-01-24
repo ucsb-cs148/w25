@@ -89,7 +89,7 @@ issue, and then Alice and Bob take turns "solo programming" on the
 issue.  That's a way of working but not the one we are encouraging you
 to pursue.
 
-Typically, each issue can be assigned to 1 - 2 members, but **no more than 3 memebers** should be assigned to a single issue.
+Typically, each issue can be assigned to 1 - 2 members, but **no more than 3 members** should be assigned to a single issue.
 
 # About limiting work in progress
 
