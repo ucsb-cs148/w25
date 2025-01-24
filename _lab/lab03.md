@@ -1,11 +1,11 @@
 ---
 layout: lab
 num: lab03
-ready: false
+ready: true
 desc: "First Retro and MVP Preparation"
 assigned: 2025-01-24
 due: 2025-01-31 23:59
-due_2_weeks: 2025-02-07 23:59
+due_2_weeks: 2025-02-03 23:59
 github_org: "ucsb-cs148-w25"
 ---
 
@@ -48,7 +48,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 # Today: Retrospective
 
-- As always, you group into teamwork. You know from your homework, from [the Retro entry in Topics](https://ucsb-cs148.github.io/topics/retros/) and from page 33 in the [Scrum booklet](https://ucsb-cs148.github.io/w25/hwk/h05/) how to do hold a retrospective meeting. Now do it. You get points for the deliverables listed on this page.
+- As always, you group into teamwork. You know from your homework, from [the Retro entry in Topics](https://ucsb-cs148.github.io/topics/retros/), from [homework h03](https://ucsb-cs148.github.io/w25/hwk/h03/) and from page 33 in the [Scrum booklet](https://sites.cs.ucsb.edu/~holl/CS148/handouts/Scrum.pdf) how to do hold a retrospective meeting. Now do it. You get points for the deliverables listed on this page.
 
 Below is a suggested procedure/timeline for your Retro. Ultimately, the format is up to you, but you need to start somewhere, so we propose the following guidelines:  
 
@@ -105,7 +105,7 @@ We have assigned mentors to each team. Please see the table below for your mento
 - Add the following information:
 
   ```
-  # Date of Retrospective: 01/27/23
+  # Date of Retrospective: 01/24/25
 
   * Led by: name-goes-here
   * Present: name1, name2, ... , nameN
@@ -146,7 +146,7 @@ We have assigned mentors to each team. Please see the table below for your mento
   * A decision going forward: keep the change, revert to previous procedure, make a new change? 
   ```
 
-# Two weeks to MVP Code Freeze and peer review. Please prepare:
+# Nine days to MVP Code Freeze and peer review. Please prepare:
 
 - When you are finished with the Retrospective, you are free to coordinate further as a group towards your MVP. Help each other with pointers on technologies you are experimenting with!
 
