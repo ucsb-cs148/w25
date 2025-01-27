@@ -9,6 +9,14 @@ ready: true
 * [h05](https://ucsb-cs148.github.io/w25/hwk/h05/) (More on Agile: Manifesto and 12 principles) is due on Wednesday. 
 * Reminder: We have listed advice from previous generations of CS148 students in the #lessons_learned channel in Slack. 
 * catme.org team peer review invitations have gone out to your ucsb.edu address (without the `umail.` part). Due on Friday as part of your current [lab03](https://ucsb-cs148.github.io/w25/lab/lab03/).  
+* Question on web hosting: What are you currently using? 
+
+
+# Dokku as an option we're setting up
+
+If interested, look at [these instructions for Dokku application deployment](https://dokku.com/docs/deployment/application-deployment/) but we are still in the process of getting you all access to our server. 
+
+Please note that your students should typically ignore the first sections of the documentation (``Getting Started`` to ``Dokku Pro`` on first read — these are instructions that are useful for the ECI sysadmins that are installing and maintaining dokku, but not as useful for the students that are users of dokku. Instead, start with the section of the docs about ``deploying an application``, and then read from there on down:
 
 
 # Scrum Concepts  
