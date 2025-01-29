@@ -6,7 +6,7 @@ ready: true
 ---
  
 # Announcements
-* [h05](https://ucsb-cs148.github.io/w25/hwk/h05/) (More on Agile: Manifesto and 12 principles) is due on Wednesday. 
+* [h04](https://ucsb-cs148.github.io/w25/hwk/h04/) (More on Agile: Manifesto and 12 principles) is due on Wednesday. 
 * Reminder: We have listed advice from previous generations of CS148 students in the #lessons_learned channel in Slack. 
 * catme.org team peer review invitations have gone out to your ucsb.edu address (without the `umail.` part). Due on Friday as part of your current [lab03](https://ucsb-cs148.github.io/w25/lab/lab03/).  
 * Question on web hosting: What are you currently using? 
