@@ -45,7 +45,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
   of the time, you should be sharing your screen and showing us your app.
 * At the end, tell us a bit about upcoming features planned for the next iteration.
 
-At next week's Wednesday class [lect08](https://ucsb-cs148.github.io/w25/lectures/lect08/) you'll be asked to evaluate other teams' presentation(s), so plan to watch at least your partner's presentation in advance, and be ready to do some very brief commenting after each presentation in class. Here is the pairing of teams: 
+At next week's Wednesday class [lect08](https://ucsb-cs148.github.io/w25/lectures/lect08/) you'll be asked to evaluate other teams' presentation(s), so plan to watch at least your partner's presentation in advance, and be ready to do some very brief commenting after each presentation in class. 
 
 Every team is teamed up with one partner team creating the following evaluation pairings: 
 
