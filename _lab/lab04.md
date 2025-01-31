@@ -30,7 +30,6 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 ## Finalizing your demo (MVP video)
 
-* Plan a five minute presentation video
 * Please prepare an up-to 5 minute (likely more around 3 minute) YouTube video (unlisted or public, your choice)
   - See the bottom of the [lab03](https://ucsb-cs148.github.io/w24/lab/lab03/) description for information about creating your MVP video.
   - Links to videos will be made available to the class for peer review, but will not be made public
