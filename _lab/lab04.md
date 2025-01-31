@@ -49,7 +49,7 @@ At next week's Wednesday class [lect08](https://ucsb-cs148.github.io/w25/lecture
 
 Every team is teamed up with one partner team creating the following evaluation pairings: 
 
-| **This team:**   | **evaluates / asks question to** | ... **this team:** |
+| **This team:**   | **evaluates** | ... **this team:** |
 | pj09-socialrunning |<----> | pj11-recipegenerator| 
 | pj11-recipegenerator |<----> | pj12-closettracker| 
 | pj12-closettracker |<----> | pj09-socialrunning| 
@@ -80,7 +80,7 @@ Every team is teamed up with one partner team creating the following evaluation 
 
 **Graded**: ({{page.num}}-I) (25 pts) You earn these individual points if you participate in the MVP review during [lect08](https://ucsb-cs148.github.io/w25/lectures/lect08/) and submit an evaluation form to briefly review all other groups' MVPs by **Fri, 02/07/2025, 23:59pm PDT**
 
-**Graded**: ({{page.num}}-T) (15 pts) You earn these team points in the MVP review during [lect08](https://ucsb-cs148.github.io/w25/lectures/lect08/)  on **Wed, 02/05/2025** if at least one member of your team asks a question after the video of one other team (pairing listed above!). 
+**Graded**: ({{page.num}}-T) (15 pts) You earn these team points in the MVP review during [lect08](https://ucsb-cs148.github.io/w25/lectures/lect08/)  on **Wed, 02/05/2025** if at least one member of your team (left column above) asks a question after the video of one paired other team (right column above). 
 
 **Graded**: ({{page.num}}-T) (25 pts) You earn these team points for ensuring that each team member was assigned at least one issue that was moved to the Done column of your Kanban board **with tested acceptance criteria** over the next week **ending on Fri, 02/09/23, 23:59 PDT**. When you complete work on the last open issue you were assigned to (yay!) and you move it to the Done column, immediately assign this team member a new issue from the Sprint backlog and move it to the in-progress column. Make sure that all these issues have clear **acceptance tests/criteria** and that you verified these before calling the issue Done.
 
