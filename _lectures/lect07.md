@@ -1,4 +1,4 @@
-    ---
+---
 desc: "MVP preparation, final stretch"
 lecture_date: 2025-02-03
 num: lect07
