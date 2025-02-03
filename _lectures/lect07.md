@@ -22,7 +22,7 @@ ready: true
 # MVP Deliverables
 
 * Up-to-date github repo with complete README.md file that provides complete instructions for deploying your product
-* MVP Code Release as per [lab04 instructions][https://ucsb-cs148.github.io/w25/lab/lab04] 
+* MVP Code Release as per [lab04 instructions](https://ucsb-cs148.github.io/w25/lab/lab04)
 * Up-to-5min video of your MVP (link to it in `<github>`/team/MVP_DEMO.md) 
 * Github Projects Kanban board should reflect all your activity leading up to the MVP 
 
