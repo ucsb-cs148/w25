@@ -7,7 +7,7 @@ ready: true
 
 # Announcements
 
-* [h04](https://ucsb-cs148.github.io/w25/hwk/h04/) (More on Agile: Manifesto and 12 principles) still due this coming Wednesday. 
+* [h05](https://ucsb-cs148.github.io/w25/hwk/h05/) (More on Agile: Manifesto and 12 principles) still due this coming Wednesday. 
 * CATME.org team peer reviews have been released. Discuss if there is need for discussion! 
 
 * MVP code freeze **tonight**: [Minimum Viable Product](https://en.wikipedia.org/wiki/Minimum_viable_product)
