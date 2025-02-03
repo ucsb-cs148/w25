@@ -35,6 +35,8 @@ We will play your MVP videos in the order below. After each video is played, we 
 | pj14-lootfinder| 
 | pj10-timebendingpuzzle| 
 
+and questions are being asked (and documented) by: 
+
 | **This team:**   | **evaluates** | ... **this team:** |
 | pj09-socialrunning |----> | pj11-recipegenerator| 
 | pj11-recipegenerator |----> | pj12-closettracker| 
@@ -57,7 +59,7 @@ We will play your MVP videos in the order below. After each video is played, we 
     * Please fill in the review form announced on Slack during your session during the video presentations. Submission of this form will count towards your lab04 points. If you cannot attend today's lecture, you can watch the [prepared videos](https://docs.google.com/spreadsheets/d/16dpihuLjsv3rjEDqbXLjG7wxP24qtgpuWBBsVncedO8/edit?usp=sharing) and fill the form in before the end of the current lab. 
 
 <br />   
-*After each video presentation, a representative from *the group listed above as being teamed with you* will **ask a question** to the team whose video was just shown. That question should be typed in a special Slack Channel @mvp-presentation (so that we capture it) and read out by the representative for the team asking the question. 
+* After each video presentation, a representative from *the group listed above as being teamed with you* will **ask a question** to the team whose video was just shown. That question should be typed in a special Slack Channel @mvp-presentation (so that we capture it) and read out by the representative for the team asking the question. 
     * The question can be of any type, e.g. a follow-up on something that was not entirely clear, a low-level implementation question, a question about possible future functionality, or a high-level question about the product landscape connected to the project. 
 
 <br />
