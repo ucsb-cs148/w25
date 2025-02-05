@@ -18,40 +18,23 @@ ready: false
 
 # Procedure for Today's MVP Review
 
-We will play your MVP videos in the order below. After each video is played, we will have Q&A, and during and after the presentation you will collect feedback on a Google Form we posted on the new Slack mvp-presentation channel.  
+We will play your MVP videos in the order below. After each video is played, we will have Q&A, and during and after the presentation you will collect feedback on a Google Form we posted on the new Slack mvp-presentation channel. On the left is the presentation order of the teams, and the teams on right will ask questions (and document) to presenting teams on the left.
 
-| pj11-recipegenerator| 
-| pj12-closettracker| 
-| pj09-socialrunning| 
-| pj02-lyricgenerator| 
-| pj08-studytimer| 
-| pj01-scheduleconverter| 
-| pj05-shelfshare|
-| pj06-studyconnect| 
-| pj03-gauchograduate| 
-| pj07-mafia| 
-| pj13-sportsbetting| 
-| pj04-restaurantdecider| 
-| pj14-lootfinder| 
-| pj10-timebendingpuzzle| 
-
-and questions are being asked (and documented) by: 
-
-| **This team:**   | **evaluates** | ... **this team:** |
-| pj09-socialrunning |----> | pj11-recipegenerator| 
-| pj11-recipegenerator |----> | pj12-closettracker| 
-| pj12-closettracker |----> | pj09-socialrunning| 
-| pj01-scheduleconverter |----> | pj02-lyricgenerator| 
-| pj02-lyricgenerator |----> | pj08-studytimer| 
-| pj08-studytimer |----> | pj01-scheduleconverter| 
-| pj03-gauchograduate |----> | pj05-shelfshare|
-| pj05-shelfshare |----> | pj06-studyconnect| 
-| pj06-studyconnect |----> | pj03-gauchograduate| 
-| pj04-restaurantdecider|----> | pj07-mafia| 
-| pj07-mafia|----> | pj13-sportsbetting| 
-| pj13-sportsbetting|----> | pj04-restaurantdecider| 
-| pj10-timebendingpuzzle|----> | pj14-lootfinder| 
-| pj14-lootfinder|----> | pj10-timebendingpuzzle| 
+| **This team:**   | **is evaluated by** | ... **this team:** |
+| pj06-studyconnect|----> | pj05-shelfshare |
+| pj07-mafia|----> | pj04-restaurantdecider|
+| pj08-studytimer|----> | pj02-lyricgenerator |
+| pj09-socialrunning|----> | pj12-closettracker |
+| pj10-timebendingpuzzle|----> | pj14-lootfinder|
+| pj11-recipegenerator|----> | pj09-socialrunning |
+| pj12-closettracker|----> | pj11-recipegenerator |
+| pj13-sportsbetting|----> | pj07-mafia|
+| pj14-lootfinder|----> | pj10-timebendingpuzzle|
+| pj01-scheduleconverter|----> | pj08-studytimer |
+| pj02-lyricgenerator|----> | pj01-scheduleconverter |
+| pj03-gauchograduate|----> | pj06-studyconnect |
+| pj04-restaurantdecider|----> | pj13-sportsbetting|
+| pj05-shelfshare|----> | pj03-gauchograduate |
 
 &nbsp;
 
