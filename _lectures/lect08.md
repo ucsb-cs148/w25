@@ -2,7 +2,7 @@
 desc: "MVP preparation, final stretch"
 lecture_date: 2025-02-05
 num: lect08
-ready: false
+ready: true
 ---
 
 
@@ -11,7 +11,7 @@ ready: false
 
 * Today (part of lab04): 
   * MVP video demonstrations with peer eval 
-  * Voting for favorite MVPs from your Section
+  * Voting for favorite MVPs
   * Celebration of our progress
   * You get points from today's activities to finish up the [lab04 deliverables](https://ucsb-cs148.github.io/w25/lab/lab04/) 
   
