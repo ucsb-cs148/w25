@@ -42,11 +42,11 @@ We will play your MVP videos in the order below. After each video is played, we 
     * Please fill in the review form announced on Slack during your session during the video presentations. Submission of this form will count towards your lab04 points. If you cannot attend today's lecture, you can watch the [prepared videos](https://docs.google.com/spreadsheets/d/16dpihuLjsv3rjEDqbXLjG7wxP24qtgpuWBBsVncedO8/edit?usp=sharing) and fill the form in before the end of the current lab. 
 
 <br />   
-* After each video presentation, a representative from *the group listed above as being teamed with you* will **ask a question** to the team whose video was just shown. That question should be typed in a special Slack Channel @mvp-presentation (so that we capture it) and read out by the representative for the team asking the question. 
+* After each video presentation, a representative from *the group listed above as being teamed with you* will **ask a question** to the team whose video was just shown. That question should be typed in a special Slack Channel `#mvp-presentation` so that we capture it. Please log it there in the form: "Q from teamXX to team YY: <question text>") and also asked aloud by the representative for the team asking the question. 
     * The question can be of any type, e.g. a follow-up on something that was not entirely clear, a low-level implementation question, a question about possible future functionality, or a high-level question about the product landscape connected to the project. 
 
 <br />
-* After the peer team asked their question, there will be an opportunity for **anyone to ask a question** to the team whose video was shown, but if there are many questions, we may have to cut it short. We ask that any questions that are asked be captured in the Slack channel! We also may chime in with questions and comments from the teaching team. 
+* After the peer team asked their question, there will be an opportunity for **anyone to ask a question** to the team whose video was shown, but if there are many questions, we may have to cut it short. The teaching team will do their best to capture general audience questions in the Slack channel, but please also check there to make sure your question is correctly captured! We also may chime in with questions and comments from the teaching team. 
 
 * After all project videos have been shown, everyone will be asked to **vote for their favorite MVPs**. You will receive the link to that review form in the Slack channel.  We will announce the audience choice award winner for best MVP in your Section next week, as well as on Slack (which gives you bragging rights, but no influence on your grades. Grades will solely be based on final product presentations and quality).  
 
