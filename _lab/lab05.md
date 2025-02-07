@@ -46,6 +46,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 </div>
 
 **(35 pts) Review, assess, and summarize the feedback you received on your MVP evaluation and formulate an action plan going forward.**
+
     * Feedback has been posted in your project Slack channel. Please review and organize (group). Then discuss action items and user stories in response and prioritize them.  
     * Please create a `team/MVP_FOLLOWUP.md` file, where you document this process (e.g., with subheadings such as):  
         * Feedback Grouped and Sorted 
