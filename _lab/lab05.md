@@ -41,7 +41,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 **Graded**: ({{page.num}}-T) (35 pts) You earn these team points for identifying at least one testing library to experiment with for your coding needs, and for implementing and documenting at least one unit test in your code base by next week, {{page.due}} (see instructions below).
 
-**Graded**: ({{page.num}}-I) (30 pts) You earn these individual points by doing and documenting at least one "Coding with AI" experiment over the coming week. This can take multiple forms: Using AI to prototype UI possibilities (e.g. using ChatGPT or v0.dev for React-based web pages), help with writing testing code (see previous bullet, e.g. using Github Copilot or Codeium), generating documentation (e.g. using Github Copilot, Codeium, or similar plugins), researching scalability suggestions for your app, etc. More details in [Lecture 09](https://ucsb-cs148.github.io/w24/lectures/lect09/) (now, 02/12/24, also copied below).
+**Graded**: ({{page.num}}-I) (30 pts) You earn these individual points by doing and documenting at least one "Coding with AI" experiment over the coming week. This can take multiple forms: Using AI to prototype UI possibilities (e.g. using ChatGPT or v0.dev for React-based web pages), help with writing testing code (see previous bullet, e.g. using Github Copilot or Codeium), generating documentation (e.g. using Github Copilot, Codeium, or similar plugins), researching scalability suggestions for your app, etc. More details below. 
 
 </div>
 
