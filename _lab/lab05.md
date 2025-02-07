@@ -61,4 +61,4 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
         * how useful this tool was / potentially could be for your coding effort going forward
         * what steps you needed to (or couldn't) take to ensure that the AI output was correct, understandable, and fair use  
 
-* A new Slack channel `help_ai` was created to provide pointers to useful AI coding tools. In addition to documenting your efforts in your own team-internal `team/AI_CODING.md` file, please share pointers to the tools you were most excited about in there.  
+    * A new Slack channel `help_ai` was created to provide pointers to useful AI coding tools. In addition to documenting your efforts in your own team-internal `team/AI_CODING.md` file, please share pointers to the tools you were most excited about in there.  
