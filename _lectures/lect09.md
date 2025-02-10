@@ -2,11 +2,11 @@
 desc: "Overview: Software Testing"
 lecture_date: 2025-02-10
 num: lect09
-ready: false
+ready: true
 ---
 
 # Announcements
-* H08 due next Wednesday (next Monday is Presidents' Day holiday)
+* H08 due at **End of Day** next Monday (Presidents' Day holiday)
 * Lab05 updates as follows: 
 
 # Lab05 Updates: 
