@@ -1,7 +1,7 @@
 ---
 layout: exam_info
 num: project
-ready: true
+ready: false
 desc: "Inter-Team Evaluation and Feedback"
 exam_date: 2025-02-26 14:00
 ---
