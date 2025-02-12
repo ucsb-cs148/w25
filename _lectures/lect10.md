@@ -10,6 +10,8 @@ ready: true
 * We still focus on the momentum from your MVPs and move towards CI/CD!
 * Finish up [lab05](https://ucsb-cs148.github.io/w25/lab/lab05/) requirements: 1) MVP **review response** in `team/MVP_FOLLOWUP.md` 2) **Unit Testing** experiments, documented in `team/TESTING.md`, 3) **Individual** AI coding experiments, documented in `team/AI_CODING.md`
 
+* [Upcoming CHI paper on AI in knowledge work](https://www.microsoft.com/en-us/research/uploads/prod/2025/01/lee_2025_ai_critical_thinking_survey.pdf), [reflected in popular press](https://www.vice.com/en/article/ai-is-making-us-dumber-shocker/)
+
 * [lab06](https://ucsb-cs148.github.io/w24/lab/lab06/) will require you to go beyond unit testing:
 * Implement at least one higher-level (Integration, Component, or BDD) test with a testing library of your choice over the next week!
 * Another RETRO meeting is also part of lab06. Plan for it now and do it either this Friday, or schedule outside of class!
