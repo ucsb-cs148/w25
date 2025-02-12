@@ -1,7 +1,7 @@
 ---
 layout: exam_info
 num: project
-ready: false
+ready: true
 desc: "Inter-Team Evaluation and Feedback"
 exam_date: 2025-02-26 14:00
 ---
@@ -24,3 +24,4 @@ Every team is teamed up with one partner team creating the following pairs:
 
 
 
+More details to follow...
