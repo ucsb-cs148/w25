@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab06
-ready: false
+ready: true
 desc: "Higher-Level Testing, UX Planning, Second Retrospective"
 assigned: 2025-02-14 13:00
 due: 2025-02-21 23:59
