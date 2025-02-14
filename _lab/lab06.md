@@ -64,7 +64,7 @@ The more specific you can be on these items, the better. You get the points just
 
 # Second Retrospective
 
-Either today, or at a time you schedule by you as a team, you will hold your second retrospective 
+**Schedule your next retrospective!** You can do it today, or next Wednesday in class, or next Friday, or at a time outside of class, but you need to do it before the end of next Friday to get these lab points.  
 
 You already know the goal and procedure for Retrospectives from your previous Retrospective(s). This particular Retrospective allows you to discuss things that emerged from the MVP effort and feedback you received.
 
