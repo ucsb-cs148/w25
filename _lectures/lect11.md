@@ -11,7 +11,7 @@ ready: true
 
 * **Inter-Team Evaluation** next Wednesday!  
     * Get your project to a point where all members from another team can get your project deployed and tested.
-    * For this week's lab you are enumerating evaluation needs. For next Wednesday, you/we will pick one of these for the other team to give you feedback!
+    * For this week's lab you are enumerating evaluation needs. For next Wednesday, you/we will pick one of these for the other team to give you feedback! 
 
 * **Focus on your projects**. Lab work in the coming weeks will focus on documentation (**design document**, **user manual**) in order to get your documents started and to utilize cycles of team members not central to ongoing implementation efforts at any given time. 
 ** Project documentation will happen in three major documents: 
