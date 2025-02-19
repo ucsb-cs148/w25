@@ -34,9 +34,9 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 **Graded**: ({{page.num}}-T) (20 pts) You earn these team points if you list in a new `team/evaluation/USER_FEEDBACK_NEEDS.md` document (in priority order) three things about your product that you would love to have user feedback on. Just to give example possibilities: user preference between two designs, an A/B study on the consequences of two designs, user satisfaction with a particular feature, user satisfaction with your overall current product, but there are many more possibilities. 
 
-**Graded**: ({{page.num}}-T) (20 pts) You earn these team points based on the logged attendance/participation in your second retrospective; 20/n points per team member for teams of n participants.
+**Graded**: ({{page.num}}-T) (20 pts) You earn these team points for holding and documenting your second retrospective including logged attendance/participation per the instructions.
 
-**Graded**: ({{page.num}}-T) (10 pts) You earn these team points when the content in the `team/retrospectives` directory is updated per the instructions **by Tuesday, Feb. 25, 11:59pm!**
+**Graded**: ({{page.num}}-T) (10 pts) You earn these team points when your retro experiment outcome is documented in the `team/retrospectives` directory **by Tuesday, Feb. 25, 11:59pm!**
 
 **Graded**: ({{page.num}}-I) (20 pts) You earn these points for submitting feedback on overall team performance via a second CATME.org form survey that you will get email invitations for.
 </div>
@@ -113,9 +113,9 @@ You already know the goal and procedure for Retrospectives from your previous Re
   ```
   &nbsp;
 
-- Experiment Outcome Documentation (this part only is due **EOD Tue, 02/25**!)
+- Experiment Outcome Documentation (**this part only** is due **EOD Tue, 02/25**!)
 
-  The team gets 10 lab points (see above) for documenting the experiment in `team/retrospectives/RETRO_0?.md`. Describe the experiment/change soon after your retro, and fill in the outcome and decision for the future when you have the results (insights) from the experiment: 
+  The team gets 10 lab points for documenting the experiment in `team/retrospectives/RETRO_0?.md`. Describe the experiment/change right after your retro (but definitely by the Friday 02/21 lab deadline) and fill in the outcome and decision when you have the results (insights) from the experiment (by Tue, 02/25 the latest): 
   ```
   ## Experiment/Change
 
