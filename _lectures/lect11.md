@@ -9,6 +9,10 @@ ready: true
 * **Second CATME peer eval**: You earn 20 individual points towards lab06 for submitting feedback on overall team performance via a second CATME.org form survey that you got email invitations for today. Deadline for submittting is **Friday 02/21/25, 11:59pm PDT**.
 * [Homework assignment h08](https://ucsb-cs148.github.io/w25/hwk/h08/) on SW Design Patterns / Code Smells posted. Due **Monday in a week**. 
 
+* **Inter-Team Evaluation** next Wednesday!  
+    * Get your project to a point where all members from another team can get your project deployed and tested.
+    * For this week's lab you are enumerating evaluation needs. For next Wednesday, you/we will pick one of these for the other team to give you feedback!
+
 * **Focus on your projects**. Lab work in the coming weeks will focus on documentation (**design document**, **user manual**) in order to get your documents started and to utilize cycles of team members not central to ongoing implementation efforts at any given time. 
 ** Project documentation will happen in three major documents: 
     * **design document** (to be started in lab07),
