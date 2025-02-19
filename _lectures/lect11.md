@@ -34,6 +34,7 @@ Here, again, is the point percentage breakdown for grading that the teaching tea
 
 # UX Design
 * [SW Hierarchy of Needs](https://www.cs.ucsb.edu/~holl/CS148/handouts/HierarchyOfNeeds.pdf)
+* [UX Metrics](https://www.cs.ucsb.edu/~holl/CS148/handouts/UXMetrics.pdf)
 * [8 Golden Rules of UI Design](https://sites.cs.ucsb.edu/~holl/CS148/handouts/Slides_UIPrinciples.pdf) 
 
 * Tools for Wireframing: Figma, Wireframe.cc, miro.com, (Sketch on Mac, but no free option anymore(?),  Adobe XD in maintenance mode)...
