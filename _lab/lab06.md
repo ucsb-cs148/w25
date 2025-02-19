@@ -36,7 +36,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 **Graded**: ({{page.num}}-T) (20 pts) You earn these team points based on the logged attendance/participation in your second retrospective; 20/n points per team member for teams of n participants.
 
-**Graded**: ({{page.num}}-T) (10 pts) You earn these team points when the content in the `team/retrospectives` directory is updated per the instructions.
+**Graded**: ({{page.num}}-T) (10 pts) You earn these team points when the content in the `team/retrospectives` directory is updated per the instructions **by Tuesday, Feb. 25, 11:59pm!**
 
 **Graded**: ({{page.num}}-I) (20 pts) You earn these points for submitting feedback on overall team performance via a second CATME.org form survey that you will get email invitations for.
 </div>
@@ -113,7 +113,7 @@ You already know the goal and procedure for Retrospectives from your previous Re
   ```
   &nbsp;
 
-- Experiment Outcome Documentation 
+- Experiment Outcome Documentation (this part only is due **EOD Tue, 02/25**!)
 
   The team gets 10 lab points (see above) for documenting the experiment in `team/retrospectives/RETRO_0?.md`. Describe the experiment/change soon after your retro, and fill in the outcome and decision for the future when you have the results (insights) from the experiment: 
   ```
