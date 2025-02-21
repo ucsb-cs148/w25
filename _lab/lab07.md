@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab07
-ready: false
+ready: true
 desc: "Review and Plan Leadership Roles / Start Design Document / Inter-team Eval"
 assigned: 2025-02-21 12:00
 due: 2025-02-28 23:59
