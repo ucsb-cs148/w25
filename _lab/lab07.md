@@ -122,9 +122,3 @@ The exact structure of the Design Document is left to your team to determine, bu
 # User Flow 
 A high-level overview (diagram and associated explanation) of your product's 
 [Task/User Flow](https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/) can be used as the starting point for the UX section in your Design Document and also for planning/structuring your user manual.
-
-# User Feedback Needs
-
-List in a new `team/evaluation/USER_FEEDBACK_NEEDS.md` document (in priority order) three things about your product that you would love to have user feedback on. Just to give example possibilities: user preference between two designs, an A/B study on the consequences of two designs, user satisfaction with a particular feature, user satisfaction with your overall current product, but there are many more possibilities. 
-
-The more specific you can be on these items, the better. You get the points just for the ideation, but the idea is that this process facilitate and help you prepare one of the evaluations you list for the Monday March 4th inter-team project evaluation exercise and the other team will actually try to answer your question. Basically, you have 8 user study participants, the other team members, at your disposal for concrete feedback. Presumably, you will prepare your top priority user feedback solicitation, but maybe a different option if the top priority is not feasible to be evaluated by March 4th. 
