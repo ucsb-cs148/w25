@@ -34,11 +34,10 @@ The first item is part of the inter-team evaluation taking place **in class on W
 **Graded**: ({{page.num}}-T) (15 pts) You earn these team points if you have planned future team leadership roles and logged them in your GitHub `team/LEADERSHIP.md` as per instructions below 
 
 **Graded**: ({{page.num}}-T) You earn these team points if you started a design document that you link to in your Github ./docs/DESIGN.md and that contains at least:
-* (10 pts) an overview system architecture diagram and associated explanation.  
-* (10 pts) a Section summarizing important team decisions since the start of the project, referring to meetings logged in your GitHub repo
-* (15 pts) the beginnings of a Section talking about your User Experience (UX) considerations. A high-level task/user flow (see below) might be the first thing to document there, and it would also be helpful for determining the structure of your manual (next week's lab).
+* (15 pts) an overview system architecture diagram and associated explanation.  
+* (20 pts) a Section summarizing important team decisions since the start of the project, referring to meetings logged in your GitHub repo
+* (20 pts) the beginnings of a Section talking about your User Experience (UX) considerations. A high-level task/user flow (see below) might be the first thing to document there, and it would also be helpful for determining the structure of your manual (next week's lab).
 
-**Graded**: ({{page.num}}-T) (20 pts) You earn these team points if you list in a new `team/evaluation/USER_FEEDBACK_NEEDS.md` document (in priority order) three things about your product that you would love to have user feedback on. Just to give example possibilities: user preference between two designs, an A/B study on the consequences of two designs, user satisfaction with a particular feature, user satisfaction with your overall current product, but there are many more possibilities. 
 </div>
 
 
