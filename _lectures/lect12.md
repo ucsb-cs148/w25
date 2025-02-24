@@ -21,12 +21,6 @@ follow these best practices:
 1. **Use a .gitignore File**
    - Store your API keys in a separate configuration file (e.g., `.env`, `config.json`).
    - Add that file to `.gitignore` before committing to GitHub.
-   - **Example `.gitignore`:**
-     ```bash
-     .env
-     config.json
-     secrets.yaml
-     ```
 
 2. **Use Environment Variables**
    - Store API keys in environment variables instead of hardcoding them in your code.
@@ -39,11 +33,13 @@ follow these best practices:
      api_key = os.getenv("API_KEY")
      ```
 
+
      **Node.js (JavaScript/TypeScript):**
      ```javascript
      const apiKey = process.env.API_KEY;
      ```
-
+   
+   
 3. **Use GitHub Secrets for Actions**
    - If you're using GitHub Actions, store API keys as [GitHub Secrets](https://docs.github.com/en/actions/security-guides/encrypted-secrets) and access them within workflows.
 
