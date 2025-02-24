@@ -1,8 +1,8 @@
 ---
-desc: "Patterns, Code Smells, UX Principles"
+desc: "Prepare Inter-Team Eval, Secrets, (Patterns, Code Smells, UX Principles)"
 lecture_date: 2025-02-24
 num: lect12
-ready: false
+ready: true
 ---
 
 # Announcements
