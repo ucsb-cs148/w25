@@ -179,10 +179,8 @@ follow these best practices:
 	- [About Secret Scanning](docs.github.com/en/code-security/secret-scanning/about-secret-scanning)
 	  *	Explains what secret scanning is, which types of secrets are detected by default, and how it works for public vs. private repositories.
 	  *	Clarifies that for public repos, secret scanning is free. For private repos, it’s part of GitHub Advanced Security (paid).
-
-  - [Configuring Secret Scanning](docs.github.com/en/code-security/secret-scanning/configuring-secret-scanning)
+	- [Configuring Secret Scanning](docs.github.com/en/code-security/secret-scanning/configuring-secret-scanning)
 	  *	Explains how to enable or disable secret scanning, manage alerts, and handle custom patterns.
-    
 	- [Managing Secret Scanning Alerts](docs.github.com/en/code-security/secret-scanning/managing-secret-scanning-alerts)
 	  *	Walks you through viewing, triaging, and resolving discovered secrets.
 	  *	Shows how to revoke and rotate credentials if needed.
