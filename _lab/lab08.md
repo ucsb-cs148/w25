@@ -118,7 +118,7 @@ For this lab, repositories will be made public to non-team members. Any existing
 To ensure your API keys are not exposed in a public GitHub repository,
 follow these best practices:
 
-**1. Use a .gitignore File**
+1. **Use a .gitignore File**
 • Store your API keys in a separate configuration file (e.g., .env, config.json).
 • Add that file to .gitignore before committing to GitHub.
 Example for .gitignore:
@@ -128,7 +128,7 @@ config.json
 secrets.yaml
 ```
  
-**2. Use Environment Variables**
+2. **Use Environment Variables**
 • Store API keys in environment variables instead of hardcoding them in your code.
 • Access them in your code like:
 
