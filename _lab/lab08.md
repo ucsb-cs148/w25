@@ -129,9 +129,8 @@ secrets.yaml
 ```
  
 2. **Use Environment Variables**
-• Store API keys in environment variables instead of hardcoding them in your code.
-• Access them in your code like:
-
+* Store API keys in environment variables instead of hardcoding them in your code.
+* Access them in your code like:
 **Python:**
 ```python
 import os
@@ -143,26 +142,26 @@ api_key = os.getenv(\"API_KEY\")
 const apiKey = process.env.API_KEY;
 ```
 3. **Use GitHub Secrets for Actions**
-• If you're using GitHub Actions, store API keys as [GitHub Secrets](https://docs.github.com/en/actions/security-guides/encrypted-secrets) and access them within workflows.
+* If you're using GitHub Actions, store API keys as [GitHub Secrets](https://docs.github.com/en/actions/security-guides/encrypted-secrets) and access them within workflows.
 
 4. **Scan for Secrets Before Committing**
 Use tools to scan for sensitive information before pushing to GitHub:
-• [git-secrets](https://github.com/awslabs/git-secrets)
-• [truffleHog](https://github.com/trufflesecurity/trufflehog)
-• [gitleaks](https://github.com/gitleaks/gitleaks)
+* [git-secrets](https://github.com/awslabs/git-secrets)
+* [truffleHog](https://github.com/trufflesecurity/trufflehog)
+* [gitleaks](https://github.com/gitleaks/gitleaks)
 
 5. **Remove Secrets from Git History**
 If you've already committed a secret, **do not just delete it**---it remains in the Git history. Instead:
 
-• Use [git filter-repo](https://github.com/newren/git-filter-repo) (recommended over git rebase) to remove it from history:
+* Use [git filter-repo](https://github.com/newren/git-filter-repo) (recommended over git rebase) to remove it from history:
 ```asciidoc
 git filter-repo \--path \<file-with-secret\> \--invert-paths
 ```
-• Force-push to overwrite history (**Be cautious**):
+* Force-push to overwrite history (**Be cautious**):
 ```asciidoc
 git push origin \--force \--all
 ```
-• If the secret is compromised, **revoke and regenerate it** immediately.
+* If the secret is compromised, **revoke and regenerate it** immediately.
 
 6. **Use a Secret Management Service**
 Most major cloud services offer dedicated solutions for securely managing secrets, so the appropriate place for your app depends on your chosen service. Some examples are:
