@@ -130,17 +130,18 @@ secrets.yaml
  
 2. **Use Environment Variables**
 * Store API keys in environment variables instead of hardcoding them in your code.
-* Access them in your code like:
-**Python:**
-```python
-import os
+* Access them in your code like this:
+  **Python:**
+  ```python
+  import os
 
-api_key = os.getenv(\"API_KEY\")
-```
-**Node.js (JavaScript/TypeScript):**
-```javascript
-const apiKey = process.env.API_KEY;
-```
+  api_key = os.getenv(\"API_KEY\")
+  ```
+  **Node.js (JavaScript/TypeScript):**
+  ```javascript
+  const apiKey = process.env.API_KEY;
+  ```
+
 3. **Use GitHub Secrets for Actions**
 * If you're using GitHub Actions, store API keys as [GitHub Secrets](https://docs.github.com/en/actions/security-guides/encrypted-secrets) and access them within workflows.
 
