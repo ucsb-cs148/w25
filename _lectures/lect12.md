@@ -32,14 +32,16 @@ follow these best practices:
 
      api_key = os.getenv("API_KEY")
      ```
+&nbsp;
 
 
      **Node.js (JavaScript/TypeScript):**
      ```javascript
      const apiKey = process.env.API_KEY;
      ```
-   
-   
+&nbsp;
+
+
 3. **Use GitHub Secrets for Actions**
    - If you're using GitHub Actions, store API keys as [GitHub Secrets](https://docs.github.com/en/actions/security-guides/encrypted-secrets) and access them within workflows.
 
