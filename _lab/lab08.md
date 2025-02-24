@@ -113,69 +113,69 @@ You already know the goal and procedure for Retrospectives from your RETRO_01 an
   ```
  
 # Rotate Exposed Secrets
-For this lab, repositories will be made public to non-team members. Any existing hardcoded secrets (API keys, passwords, access tokens, etc) in your application should be rotated out as soon as possible. In a bad-but-not-worst case scenario, a bad actor with credentials to your infrastructure can [land you a large bill](https://medium.com/flat-pack-tech/hard-coding-secrets-be-aware-of-the-scariest-breach-for-your-organization-3e858ab296f2).
+
+For this lab, repositories will be made public to non-team members. Any existing hardcoded secrets (API keys, passwords, access tokens, etc.) in your application should be rotated out as soon as possible. In a bad-but-not-worst case scenario, a bad actor with credentials to your infrastructure can [land you a large bill](https://medium.com/flat-pack-tech/hard-coding-secrets-be-aware-of-the-scariest-breach-for-your-organization-3e858ab296f2).
 
 To ensure your API keys are not exposed in a public GitHub repository,
 follow these best practices:
 
 1. **Use a .gitignore File**
-• Store your API keys in a separate configuration file (e.g., .env, config.json).
-• Add that file to .gitignore before committing to GitHub.
-Example for .gitignore:
-```
-.env
-config.json
-secrets.yaml
-```
- 
+   - Store your API keys in a separate configuration file (e.g., `.env`, `config.json`).
+   - Add that file to `.gitignore` before committing to GitHub.
+   - **Example `.gitignore`:**
+     ```bash
+     .env
+     config.json
+     secrets.yaml
+     ```
+
 2. **Use Environment Variables**
-* Store API keys in environment variables instead of hardcoding them in your code.
-* Access them in your code like this:
+   - Store API keys in environment variables instead of hardcoding them in your code.
+   - Access them in your code like this:
 
-    **Python:**
-  ```python
-  import os
+     **Python:**
+     ```python
+     import os
 
-  api_key = os.getenv(\"API_KEY\")
-  ```
-    **Node.js (JavaScript/TypeScript):**
-  ```javascript
-  const apiKey = process.env.API_KEY;
-  ```
+     api_key = os.getenv("API_KEY")
+     ```
+
+     **Node.js (JavaScript/TypeScript):**
+     ```javascript
+     const apiKey = process.env.API_KEY;
+     ```
 
 3. **Use GitHub Secrets for Actions**
-* If you're using GitHub Actions, store API keys as [GitHub Secrets](https://docs.github.com/en/actions/security-guides/encrypted-secrets) and access them within workflows.
+   - If you're using GitHub Actions, store API keys as [GitHub Secrets](https://docs.github.com/en/actions/security-guides/encrypted-secrets) and access them within workflows.
 
 4. **Scan for Secrets Before Committing**
-Use tools to scan for sensitive information before pushing to GitHub:
-* [git-secrets](https://github.com/awslabs/git-secrets)
-* [truffleHog](https://github.com/trufflesecurity/trufflehog)
-* [gitleaks](https://github.com/gitleaks/gitleaks)
+   - Use tools to scan for sensitive information before pushing to GitHub:
+     - [git-secrets](https://github.com/awslabs/git-secrets)
+     - [truffleHog](https://github.com/trufflesecurity/trufflehog)
+     - [gitleaks](https://github.com/gitleaks/gitleaks)
 
 5. **Remove Secrets from Git History**
-If you've already committed a secret, **do not just delete it**---it remains in the Git history. Instead:
-
-* Use [git filter-repo](https://github.com/newren/git-filter-repo) (recommended over git rebase) to remove it from history:
-```asciidoc
-git filter-repo \--path \<file-with-secret\> \--invert-paths
-```
-* Force-push to overwrite history (**Be cautious**):
-```asciidoc
-git push origin \--force \--all
-```
-* If the secret is compromised, **revoke and regenerate it** immediately.
+   - If you've already committed a secret, **do not just delete it** — it remains in the Git history. Instead:
+     - Use [git filter-repo](https://github.com/newren/git-filter-repo) (recommended over `git rebase`) to remove it from history:
+       ```bash
+       git filter-repo --path <file-with-secret> --invert-paths
+       ```
+     - Force-push to overwrite history (**be cautious**):
+       ```bash
+       git push origin --force --all
+       ```
+     - If the secret is compromised, **revoke and regenerate it** immediately.
 
 6. **Use a Secret Management Service**
-Most major cloud services offer dedicated solutions for securely managing secrets, so the appropriate place for your app depends on your chosen service. Some examples are:
-
-* AWS Secrets Manager: https://aws.amazon.com/secrets-manager
-* Azure Key Vault: https://azure.microsoft.com/en-us/products/key-vault
-* GCP, Google Cloud Secret Manager: https://cloud.google.com/security/products/secret-manager
-* Heroku: https://devcenter.heroku.com/articles/config-vars
-* GitHub Actions: https://docs.github.com/en/actions/security-guides/using-secrets-in-github-actions
-* Vault solutions like [**HashiCorp Vault**](https://www.vaultproject.io/)
+   - Most major cloud services offer dedicated solutions for securely managing secrets, so the appropriate place for your app depends on your chosen service. Some examples are:
+     - [AWS Secrets Manager](https://aws.amazon.com/secrets-manager)
+     - [Azure Key Vault](https://azure.microsoft.com/en-us/products/key-vault)
+     - [Google Cloud Secret Manager (GCP)](https://cloud.google.com/security/products/secret-manager)
+     - [Heroku Config Vars](https://devcenter.heroku.com/articles/config-vars)
+     - [GitHub Actions Secrets](https://docs.github.com/en/actions/security-guides/using-secrets-in-github-actions)
+     - Vault solutions like [**HashiCorp Vault**](https://www.vaultproject.io/)
 
 7. **Enable GitHub Advanced Security (For Private Repos)**
-If you're working on a private repo, **GitHub Advanced Security** can automatically detect secrets and notify you.
+   - If you're working on a private repo, **GitHub Advanced Security** can automatically detect secrets and notify you.
 
-By following these practices, you can safely make your GitHub repo public without exposing sensitive API keys. 
+By following these practices, you can safely make your GitHub repo public without exposing sensitive API keys.
