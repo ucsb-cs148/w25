@@ -96,15 +96,15 @@ By following these practices, you can safely make your GitHub repo public withou
 
 # Today: Work in Breakout Groups
 * Standup
-* Continue [lab07](https://ucsb-cs148.github.io/w24/lab/lab07/) 
+* Continue [lab07](https://ucsb-cs148.github.io/w25/lab/lab07/) 
     * Review of Leadership Roles 
     * Design Document (including a high-level system diagram)
-    * Identify and prepare an evaluation goal for next Monday 
-    
+
+
 In general: 
 * **Focus on your projects**. Lab work in the coming weeks will continue to focus on documentation (**design document**, **user manual**) in order to get your documents started and to utilize cycles of team members not central to ongoing implementation efforts at any given time. 
 ** Project documentation will happen in three major documents: 
-    * **design document** (to be started in lab07),
+    * **design document** (started this week in lab07),
     * **user manual** (to be started in lab08),
     * **deployment instructions** (started for MVP peer review) and Github **README.md**, which should explain the code folder hierarchy and guide through the implementation effort. 
-* Project presentations (Final exam slot, Mon, March 18th, 4-7pm)
+* Project presentations (Final exam slot, Mon, March 17th, 4-7pm)
