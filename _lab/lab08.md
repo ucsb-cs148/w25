@@ -137,7 +137,7 @@ secrets.yaml
 
   api_key = os.getenv(\"API_KEY\")
   ```
-  **Node.js (JavaScript/TypeScript):**
+    **Node.js (JavaScript/TypeScript):**
   ```javascript
   const apiKey = process.env.API_KEY;
   ```
