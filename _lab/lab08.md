@@ -173,7 +173,7 @@ follow these best practices:
      - [Google Cloud Secret Manager (GCP)](https://cloud.google.com/security/products/secret-manager)
      - [Heroku Config Vars](https://devcenter.heroku.com/articles/config-vars)
      - [GitHub Actions Secrets](https://docs.github.com/en/actions/security-guides/using-secrets-in-github-actions)
-     - Vault solutions like [**HashiCorp Vault**](https://www.vaultproject.io/)
+     - Vault solutions like [HashiCorp Vault](https://www.vaultproject.io/)
 
 7. **Official GitHub Docs on Secret Scanning**
 	* [About Secret Scanning](docs.github.com/en/code-security/secret-scanning/about-secret-scanning)
