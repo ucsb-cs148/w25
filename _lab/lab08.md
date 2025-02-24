@@ -131,7 +131,8 @@ secrets.yaml
 2. **Use Environment Variables**
 * Store API keys in environment variables instead of hardcoding them in your code.
 * Access them in your code like this:
-  **Python:**
+
+    **Python:**
   ```python
   import os
 
