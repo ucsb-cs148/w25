@@ -149,7 +149,8 @@ follow these best practices:
    - If you're using GitHub Actions, store API keys as [GitHub Secrets](https://docs.github.com/en/actions/security-guides/encrypted-secrets) and access them within workflows.
 
 4. **Scan for Secrets Before Committing**
-   - Use tools to scan for sensitive information before pushing to GitHub:
+   - [Official GitHub Docs on Secret Scanning](https://docs.github.com/en/code-security/secret-scanning)
+   - Other tools to scan for sensitive information before pushing to GitHub:
      - [git-secrets](https://github.com/awslabs/git-secrets)
      - [truffleHog](https://github.com/trufflesecurity/trufflehog)
      - [gitleaks](https://github.com/gitleaks/gitleaks)
@@ -175,14 +176,5 @@ follow these best practices:
      - [GitHub Actions Secrets](https://docs.github.com/en/actions/security-guides/using-secrets-in-github-actions)
      - Vault solutions like [HashiCorp Vault](https://www.vaultproject.io/)
 
-7. **Official GitHub Docs on Secret Scanning**
-	- [About Secret Scanning](https://docs.github.com/en/code-security/secret-scanning/about-secret-scanning)
-	  *	Explains what secret scanning is, which types of secrets are detected by default, and how it works for public vs. private repositories.
-	  *	Clarifies that for public repos, secret scanning is free. For private repos, it’s part of GitHub Advanced Security (paid).
-	- [Configuring Secret Scanning](https://docs.github.com/en/code-security/secret-scanning/configuring-secret-scanning)
-	  *	Explains how to enable or disable secret scanning, manage alerts, and handle custom patterns.
-	- [Managing Secret Scanning Alerts](https://docs.github.com/en/code-security/secret-scanning/managing-secret-scanning-alerts)
-	  *	Walks you through viewing, triaging, and resolving discovered secrets.
-	  *	Shows how to revoke and rotate credentials if needed.
 
 By following these practices, you can safely make your GitHub repo public without exposing sensitive API keys.
