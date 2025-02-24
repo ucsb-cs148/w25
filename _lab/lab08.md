@@ -112,7 +112,7 @@ You already know the goal and procedure for Retrospectives from your RETRO_01 an
     based on what you learned today?
   ```
  
- # Rotate Exposed Secrets
+# Rotate Exposed Secrets
 For this lab, repositories will be made public to non-team members. Any existing hardcoded secrets (API keys, passwords, access tokens, etc) in your application should be rotated out as soon as possible. In a bad-but-not-worst case scenario, a bad actor with credentials to your infrastructure can [land you a large bill](https://medium.com/flat-pack-tech/hard-coding-secrets-be-aware-of-the-scariest-breach-for-your-organization-3e858ab296f2).
 
 To ensure your API keys are not exposed in a public GitHub repository,
@@ -127,7 +127,7 @@ Example for .gitignore:
 config.json
 secrets.yaml
 ```
-
+ 
 **2. Use Environment Variables**
 • Store API keys in environment variables instead of hardcoding them in your code.
 • Access them in your code like:
