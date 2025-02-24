@@ -142,16 +142,16 @@ api_key = os.getenv(\"API_KEY\")
 ```javascript
 const apiKey = process.env.API_KEY;
 ```
-**3. Use GitHub Secrets for Actions**
+3. **Use GitHub Secrets for Actions**
 • If you're using GitHub Actions, store API keys as [GitHub Secrets](https://docs.github.com/en/actions/security-guides/encrypted-secrets) and access them within workflows.
 
-**4. Scan for Secrets Before Committing**
+4. **Scan for Secrets Before Committing**
 Use tools to scan for sensitive information before pushing to GitHub:
 • [git-secrets](https://github.com/awslabs/git-secrets)
 • [truffleHog](https://github.com/trufflesecurity/trufflehog)
 • [gitleaks](https://github.com/gitleaks/gitleaks)
 
-**5. Remove Secrets from Git History**
+5. **Remove Secrets from Git History**
 If you've already committed a secret, **do not just delete it**---it remains in the Git history. Instead:
 
 • Use [git filter-repo](https://github.com/newren/git-filter-repo) (recommended over git rebase) to remove it from history:
@@ -164,7 +164,7 @@ git push origin \--force \--all
 ```
 • If the secret is compromised, **revoke and regenerate it** immediately.
 
-**6. Use a Secret Management Service**
+6. **Use a Secret Management Service**
 Most major cloud services offer dedicated solutions for securely managing secrets, so the appropriate place for your app depends on your chosen service. Some examples are:
 
 * AWS Secrets Manager: https://aws.amazon.com/secrets-manager
@@ -174,7 +174,7 @@ Most major cloud services offer dedicated solutions for securely managing secret
 * GitHub Actions: https://docs.github.com/en/actions/security-guides/using-secrets-in-github-actions
 * Vault solutions like [**HashiCorp Vault**](https://www.vaultproject.io/)
 
-**7. Enable GitHub Advanced Security (For Private Repos)**
+7. **Enable GitHub Advanced Security (For Private Repos)**
 If you're working on a private repo, **GitHub Advanced Security** can automatically detect secrets and notify you.
 
 By following these practices, you can safely make your GitHub repo public without exposing sensitive API keys. 
