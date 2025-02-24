@@ -36,7 +36,7 @@ We will make sure that all repos are temporarily readable to members of our orga
 
 4.  Once every team member (or as many as possible) from the partner team has the app running, please point them to any information they may need to successfully navigate your app. They will try to give you feedback on your top priority USER_FEEDBACK_NEED. 
      
-5.  To fully review the partner team's effort and intentions, you should feel free to pull up Team B's README.md and Kanban board and look through the user stories and issues that you see in-progress or done. Comment on whatever you see that either in-line with what you experienced in the demo, out out of alignment, in your perspective as a potential user of the product.  Again, take notes for helpful feedback! 
+5.  To fully review the partner team's effort and intentions, you should feel free to pull up Team B's README.md and Kanban board and look through the user stories and issues that you see in-progress or done. Comment on whatever you see that is either in-line with what you experienced in the demo, or out out of alignment, in your perspective as a potential user of the product.  Again, take notes for helpful feedback! 
     
 6.  [OPTIONAL IF TIME] If you have time for looking through the repo for any helpful comments or suggestions for improvement, or words of praise, that would be great!  Most reviewers won't likely get this far.    
     
@@ -46,18 +46,18 @@ We will make sure that all repos are temporarily readable to members of our orga
    * One more thing you thought was good
 
 
-# FOLLOW UP instructions for Reviewees (**points for lab08**), due on Friday, March 9th (with the rest of lab08)
+# FOLLOW UP instructions for Reviewees (**points for lab08**), due on Friday, March 7th (with the rest of lab08)
 
 In a file `team/evaluation/EVAL_RESPONSE.md`, please document the following:  
 
 An overall **response** to the sections of the reviewers report, including actions that you may take as a team.
-       You will find an aggregation of all user feedback on your team's slack channel by Wednesday. 
+       You will find an aggregation of all user feedback on your team's slack channel. 
        As a reminder, the reviewing form sections that will be listed are repeated here: 
        
         1.  Feedback based on your own USER_FEEDBACK_NEEDS.md
         2.  A summary of the features of the product as the other team understood them, and what they liked or thought could be
             improved about each
-        3.  How intuitive it was to use the project (comments about the UI/UX design and robustness of the app)
+        3.  How effective it was to use the project in its current state (comments about the robustness of the app and the current UI/UX design)
         4.  A summary of how the other team was able to follow the deployment instructions and how helpful / organized the other team found your team's repo (README.md, Kanban Board, maybe code).
         5.  The other team's final closing thoughts: something they liked, the most impactful opportunity for improvement,
             and one more thing they thought was good.
