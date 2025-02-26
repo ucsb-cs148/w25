@@ -2,12 +2,12 @@
 desc: Deliver/Critique MVP
 lecture_date: 2025-02-26 14:00
 num: lect13
-ready: false
+ready: true
 
 ---
 
 <div style="display:none">
-https://ucsb-cs148.github.io/w24/lect/lect14/
+https://ucsb-cs148.github.io/w25/lect/lect14/
 </div>
 
 Today's session will be all about testing and evaluating your current product as it currently stands in your Continuous Delivery efforts. This will give you the opportunity to get feedback from your mentors and from your peers. We put into place a process in which every team member from one matched-up team run and evaluate your current product (for lab points) and vice versa. Please take the following guidelines into account: 
