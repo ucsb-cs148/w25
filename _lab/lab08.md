@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab08
-ready: false
+ready: true
 desc: "Inter-Team Eval Response, Start Manual, User Stories and Issues towards Final Release, Retro 3"
 assigned: 2025-02-28 13:00
 due: 2025-03-07 23:59
