@@ -82,7 +82,7 @@ By following these practices, you can safely make your GitHub repo public withou
 * Slides: [Software Patterns](https://sites.cs.ucsb.edu/~holl/CS148/handouts/Slides_Patterns.pdf)
 * Code Smells: [Coding Horror Blog](https://blog.codinghorror.com/code-smells/), [refactoring.guru](https://refactoring.guru/refactoring/smells)
 * [Software Design Patterns: A Guide](https://airbrake.io/blog/design-patterns/software-design-patterns-guide), supported by the [Pattern Catalog at refactoring.guru](https://refactoring.guru/design-patterns/catalog)
-* [AntiPatterns](https://sourcemaking.com/antipatterns)
+* [AntiPatterns](https://en.wikipedia.org/wiki/Anti-pattern), [AntiPattern List](https://deviq.com/antipatterns/antipatterns-overview)
 
 
 # UX Design
