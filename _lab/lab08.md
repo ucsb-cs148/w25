@@ -33,7 +33,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 **Graded**: ({{page.num}}-I) (25 pts) Team starts documenting (coordinating on one response or by submitting individual commentary) team roles and github contributions in `team/contributions/CONTRIBS.md`(see below). 
 
-**Graded**: ({{page.num}}-T) (15 pts) You earn these team points based on the attendance/participation in your third and last retrospective some time over the next week as fits your Sprint cycle; 20/n per team member for teams of n members.
+**Graded**: ({{page.num}}-T) (15 pts) You earn these team points based on the attendance/participation in your third and last retrospective some time over the next week as fits your Sprint cycle
    
 </div>
 
