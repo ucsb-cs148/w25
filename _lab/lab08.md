@@ -27,7 +27,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 <div class="grade" markdown="1">
 
-**Graded**: ({{page.num}}-T) (30 pts) For joint team review of all received comments and compiling a team response report to the [team eval last Wednesday](https://ucsb-cs148.github.io/w25/lectures/lect14/) in a `team/EVAL_RESPONSE.md` file in your team repo. The report should be created in response to the peer feedback you received and should contain all items indicated on the [lect14 notes](https://ucsb-cs148.github.io/w25/lectures/lect14/).
+**Graded**: ({{page.num}}-T) (30 pts) For joint team review of all received comments and compiling a team response report to the [team eval last Wednesday](https://ucsb-cs148.github.io/w25/lectures/lect14/) in a `team/evaluation/EVAL_RESPONSE.md` file in your team repo. The report should be created in response to the peer feedback you received and should contain all items indicated on the [lect14 notes](https://ucsb-cs148.github.io/w25/lectures/lect14/).
 
 **Graded**: ({{page.num}}-T) (30 pts) You earn these team points if you started a user manual document that you link to in your Github `docs/MANUAL.md` and that contains at the very least a description of the product purpose, lists the intended user audience, and has section headings (which are allowed to change until the final material submission deadline) with placeholder information (could even be [Lorem Ipsum text](https://www.lipsum.com/) for now) that document (or in the future will document) the various features of your product and how to operate them (with the final version using plenty of screenshots - for now, you can just put placeholders as is most convenient for you).  
 
