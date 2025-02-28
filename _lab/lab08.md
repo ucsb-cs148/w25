@@ -27,13 +27,13 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 <div class="grade" markdown="1">
 
-**Graded**: ({{page.num}}-T) (20 pts) For joint team review of all received comments and compiling a team response report to the [team eval last Wednesday](https://ucsb-cs148.github.io/w25/lectures/lect14/) in a `team/EVAL_RESPONSE.md` file in your team repo. The report should be created in response to the peer feedback you received and should contain all items indicated on the [lect14 notes](https://ucsb-cs148.github.io/w25/lectures/lect14/).
+**Graded**: ({{page.num}}-T) (30 pts) For joint team review of all received comments and compiling a team response report to the [team eval last Wednesday](https://ucsb-cs148.github.io/w25/lectures/lect14/) in a `team/EVAL_RESPONSE.md` file in your team repo. The report should be created in response to the peer feedback you received and should contain all items indicated on the [lect14 notes](https://ucsb-cs148.github.io/w25/lectures/lect14/).
 
-**Graded**: ({{page.num}}-T) (20 pts) You earn these team points if you started a user manual document that you link to in your Github `docs/MANUAL.md` and that contains at the very least a description of the product purpose, lists the intended user audience, and has section headings (which are allowed to change until the final material submission deadline) with placeholder information (could even be [Lorem Ipsum text](https://www.lipsum.com/) for now) that document (or in the future will document) the various features of your product and how to operate them (with the final version using plenty of screenshots - for now, you can just put placeholders as is most convenient for you).  
+**Graded**: ({{page.num}}-T) (30 pts) You earn these team points if you started a user manual document that you link to in your Github `docs/MANUAL.md` and that contains at the very least a description of the product purpose, lists the intended user audience, and has section headings (which are allowed to change until the final material submission deadline) with placeholder information (could even be [Lorem Ipsum text](https://www.lipsum.com/) for now) that document (or in the future will document) the various features of your product and how to operate them (with the final version using plenty of screenshots - for now, you can just put placeholders as is most convenient for you).  
 
-**Graded**: ({{page.num}}-I) (20 pts) Team starts documenting (coordinating on one response or by submitting individual commentary) team roles and github contributions in `team/contributions/CONTRIBS.md`(see below). 
+**Graded**: ({{page.num}}-I) (25 pts) Team starts documenting (coordinating on one response or by submitting individual commentary) team roles and github contributions in `team/contributions/CONTRIBS.md`(see below). 
 
-**Graded**: ({{page.num}}-T) (10 pts) You earn these team points based on the attendance/participation in your third and last retrospective some time over the next week as fits your Sprint cycle; 20/n per team member for teams of n members.
+**Graded**: ({{page.num}}-T) (15 pts) You earn these team points based on the attendance/participation in your third and last retrospective some time over the next week as fits your Sprint cycle; 20/n per team member for teams of n members.
    
 </div>
 
@@ -52,7 +52,7 @@ Document and write commentary on team member code (and/or other) contributions i
   - Suggestion: each team member should initially create a draft of their part in `team/contributions/contrib_Alice.md`, `team/contributions/contrib_Bob.md`, `team/contributions/contrib_Carol.md`, `team/contributions/contrib_Danny.md`...
   - Then: the person asseembling the overall CONTRIBS.md report can copy/paste those separate files into one unified CONTRIBS.md file.
 * Today: Review and discuss the `/graphs/contributors` report for your project repo.    
-  - You can find it by clicking "insights" then "contributors".
+  - You can find it by clicking "insights" then "contributors" on Github.
   
 ## Is the `Contributors` graph accurate?
 
@@ -72,10 +72,10 @@ Even distribution of the coding effort among all team members is definitely not 
 
 # Third (and last) Retrospective 
 
-You will get time on Wed, 03/06, to hold your third and last team Scrum Retrospective, but you can move the time of this meeting to whatever time within this lab period your team prefers, including right this lab session (03/01). Note though that Monday lecture (03/04) will be taken up entirely by team activity towards inter-team product testing. 
+Hold your third and last team Scrum Retrospective during this lab.  We suggest that you do this either on Wed., 03/05, or on Fri, 03/07.
 Make sure you have a Retro leader assigned (should be the case since it was part of the Leadership review last lab).
 
-You already know the goal and procedure for Retrospectives from your RETRO_01 and RETRO_02. This Retrospective allows you to discuss things that are relevant on your final stretch to product deployment, documentation, and presentation. Instead of designing an experiment this time, review what worked and what didn't from previous meetings, and make strong commitments towards the final stretch of product development towards launch! 
+You already know the goal and procedure for Retrospectives from your RETRO_01 and RETRO_02. This Retrospective allows you to discuss things that are relevant on your final stretch to product deployment, documentation, and presentation. **Instead of designing an experiment this time, review what worked and what didn't from previous meetings, and make strong commitments towards the final stretch of product development towards launch**! 
 
 
 * In your team's repo, under `team/retrospectives` directory, add a file `RETRO_03.md` (or whatever number you are at if you did other retros already) capturing the following:
@@ -86,17 +86,7 @@ You already know the goal and procedure for Retrospectives from your RETRO_01 an
   * Led by: name-goes-here
   * Present: name1, name2, ... , nameN
   * Absent: name1, name2, ...
-
-  ## Action item
-
-  * a goal: identify something the team wants to get better at
-  * a commitment: identify one thing that the team pledges to do to maximize productivity towards launch
-  * a measurement: identify at least one way to assess and ensure that the commitment(s) is/are kept
-
-  ## Optional
-
-  * Record anything else you think the team might want to remember from this retro
-
+  
   ```
 
 * After the Retro
@@ -104,10 +94,17 @@ You already know the goal and procedure for Retrospectives from your RETRO_01 an
   Retro leader: add
   
   ```
-  # Retro Assessment
+  # Retro Outcomes
 
   * A brief description of what retro outline or process you used.
-  * A brief assessment of how it went.
-  * What advice would you give to the next person leading a retro
-    based on what you learned today?
+
+  Report:
+  * successes: a list of things that worked well over the quarter so far. 
+  * a goal: identify something the team wants to get better at
+  * a commitment: identify one thing that the team pledges to do to maximize productivity towards launch
+
+  # Optional
+
+  * Record anything else you think the team might want to remember from this retro
+
   ```
