@@ -153,9 +153,9 @@ We have assigned mentors to each team. Please see the table below for your mento
 ## Planning your demo (MVP video)
 
 - Plan an up-to-five minute presentation video
-- Please prepare a max. 5 minute YouTube video (unlisted or public, your choice)
+- Please prepare a max. 5 minute (typically 3 mins or less) YouTube video (unlisted or public, your choice)
   - See the [bottom of this page](#mvp-demo-due-pagedue_2_weeks) for information about creating your MVP video.
-  - Links to videos will be made available to (some of) the class for peer review, but will not be made public
+  - Links to videos will be made available to the class for peer review, but will not be made public
 - Present to an audience of **potential users**
   - Not to an audience of CS148 students, or the instructor or TAs.
   - Explain what problem the app solves, or what need it fulfills, as you demo the features of
