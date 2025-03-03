@@ -35,6 +35,7 @@ An overall **response** to the sections of the reviewers report, including actio
             and one more thing they thought was good.
 
 
+    
 Your response should at least have the following content: 
        
         1.  Decisions your team is making regarding the feedback on your USER_FEEDBACK_NEEDS.md
