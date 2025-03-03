@@ -33,9 +33,9 @@ An overall **response** to the sections of the reviewers report, including actio
         4.  A summary of how the other team was able to follow the deployment instructions and how helpful / organized the other team found your team's repo (README.md, Kanban Board, maybe code).
         5.  The other team's final closing thoughts: something they liked, the most impactful opportunity for improvement,
             and one more thing they thought was good.
+<br><br>
 
 
-    
 Your response should at least have the following content: 
        
         1.  Decisions your team is making regarding the feedback on your USER_FEEDBACK_NEEDS.md
