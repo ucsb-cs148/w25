@@ -9,7 +9,7 @@ ready: true
 * **Thank You** for participating in the inter-team eval exercise last Wednesday! You did receive a spreadsheet with feedback from the other team in your Slack channel on Friday. Please discuss and craft your (brief!) response/action items going forward.  
 
 * [Lab08](https://ucsb-cs148.github.io/w25/lab/lab08/) has deadlines coming up: 
-    * team/EVAL_RESPONSE.md (see [lect13](https://ucsb-cs148.github.io/w25/lect/lect13/))
+    * team/EVAL_RESPONSE.md (see [lect13](https://ucsb-cs148.github.io/w25/lectures/lect13/))
     * team/Contribs.md started
     * User Manual document started
     * Third and last required retrospective 
