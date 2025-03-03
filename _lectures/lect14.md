@@ -9,13 +9,36 @@ ready: true
 * **Thank You** for participating in the inter-team eval exercise last Wednesday! You did receive a spreadsheet with feedback from the other team in your Slack channel on Friday. Please discuss and craft your (brief!) response/action items going forward.  
 
 * [Lab08](https://ucsb-cs148.github.io/w25/lab/lab08/) has deadlines coming up: 
-    * team/EVAL_RESPONSE.md (see [lect13](https://ucsb-cs148.github.io/w25/lectures/lect13/))
+    * team/EVAL_RESPONSE.md (see below)
     * team/Contribs.md started
     * User Manual document started
     * Third and last required retrospective 
 
 * Full focus on finalizing your product! 
     * **Friday, 03/14** (Code Freeze, Final Code Release)
+
+
+# FOLLOW-UP instructions for Reviewees (**points for lab08**), due on Friday, March 7th (with the rest of lab08)
+
+In a file `team/evaluation/EVAL_RESPONSE.md`, please document the following:  
+
+An overall **response** to the sections of the reviewers report, including actions that you may take as a team.
+       You will find an aggregation of all user feedback on your team's slack channel. 
+       As a reminder, the reviewing form sections that will be listed are repeated here: 
+       
+        1.  Feedback based on your own USER_FEEDBACK_NEEDS.md
+        2.  A summary of the features of the product as the other team understood them, and what they liked or thought could be
+            improved about each
+        3.  How effective it was to use the project in its current state (comments about the robustness of the app and the current UI/UX design)
+        4.  A summary of how the other team was able to follow the deployment instructions and how helpful / organized the other team found your team's repo (README.md, Kanban Board, maybe code).
+        5.  The other team's final closing thoughts: something they liked, the most impactful opportunity for improvement,
+            and one more thing they thought was good.
+
+
+Your response should at least have the following content: 
+        - Decisions your team is making regarding the feedback on your USER_FEEDBACK_NEEDS.md
+        - Additional decisions your team is making based on feedback you received. Please reference what reviewing form section (numbers 2-5 above) the feedback you are reacting to came from (this is important to the teaching team!) and state your plans regarding that feedback. 
+        - (Not all plans need to be able to be implemented - it is ok to talk about stretch goals. The important part is the team discussion regarding the best possible end product.)
 
 
 # ESCIs (Course Evaluations)
