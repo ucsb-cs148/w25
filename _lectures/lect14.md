@@ -42,7 +42,7 @@ Your response should at least have the following content:
         (Not all plans need to be able to be implemented - it is ok to talk about stretch goals. The important part is the team discussion regarding the best possible end product.)
 
 
-# ESCIs (Course Evaluations)
+# SET: Student Evaluations of Teaching (Bluera Course Evaluations)
 
 The [W25 Instructor Survey](https://go.blueja.io/PqwV_o3TlkyuvzxpPp_91w) course evaluation will be due on **Friday, March 14, 23:59**
 
