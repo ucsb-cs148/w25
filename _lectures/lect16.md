@@ -41,7 +41,6 @@ Response rate as of 01:00pm 03/10/2024:
 {:.table .table-sm .table-striped .table-bordered}
 
 ![QR Code]({{ 'lectures/course_eval_QRCode.png' | relative_url }})
-![Please submit!]({{ 'lectures/course_evals.png' | relative_url }})
 
 You are likely getting reminders from the automated system about course evaluations. Please enter your feedback about the course.  It is very important for the university to evaluate the course quality via several ratings under "Your experience of the course and instruction". 
 
