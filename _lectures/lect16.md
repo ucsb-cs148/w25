@@ -33,7 +33,7 @@ Final lab, [Lab09](https://ucsb-cs148.github.io/w25/lab/lab09/), has the followi
 
 The [W25 Instructor Survey](https://go.blueja.io/PqwV_o3TlkyuvzxpPp_91w) course evaluation will be due on **Friday, March 14, 23:59**
 
-Response rate as of 01:00pm 03/10/2024:
+Response rate as of 01:00pm 03/10/2025:
 
 | Course ID |	Enrollment Count	|Surveys Completed	|Percent Completed|
 |-|-|-|-|
