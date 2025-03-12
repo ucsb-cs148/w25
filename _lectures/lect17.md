@@ -26,7 +26,7 @@ There remain the following deadlines, listed again in [Lab10](https://ucsb-cs148
 * Final version of the Manual 
 * Final version of Design Document 
 * third and last CATME.org survey (not released yet) x
-* list at least one insight in `#lessons_learned` Slack channel.
+* list at least one insight in `#wish-i-had-known` Slack channel.
 
 
 # ESCIs (Course Evaluations)
@@ -37,7 +37,7 @@ Response rate as of 01:00pm 03/12/2025:
 
 | Course ID |	Enrollment Count	|Surveys Completed	|Percent Completed|
 |-|-|-|-|
-| CMPSC 148 	| 99	| 26 |	21.2% |
+| CMPSC 148 	| 99	| 26 |	26.1% |
 {:.table .table-sm .table-striped .table-bordered}
 
 ![QR Code]({{ 'lectures/course_eval_QRCode.png' | relative_url }})
