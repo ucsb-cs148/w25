@@ -1,5 +1,5 @@
 ---
-desc: "Countdown to Final Release"
+desc: "Final Countdown to Final Release"
 lecture_date: 2025-03-12
 num: lect17
 ready: true
