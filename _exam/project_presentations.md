@@ -33,14 +33,14 @@ Each group will have up to 10 minutes for a prepared presentation.
 You should have your product up and running, shareable via Zoom (please prepare a setup where you can screen share), so that the teaching team can perform an up-to 5 minutes of live exploration of the app (asking questions and possibly asking you to take certain actions). Each member of the group should be
 available for the question session.
 
-The ten minute presentation should include a demo (functionality, similar in style to what was done in the MVP video), as well as some discussion of technical matters and design process.
+The ten minute presentation should include a demo (functionality, similar in style to what was done in the MVP video), as well as **some limited** discussion of technical matters and design process.
 
-**Example technical matters to cover:**
+**Example technical matters to cover, focus on what you are most proud of!**
 * Authorization and Authentication (if applicable)
 * Database technologies used (if applicable)
 * External APIs or libraries used (if applicable)
 * Setup needed for app (configuration to get up a running instance.)
-* Optional: Testing strategies (unit test, integration test, end-to-end tests). Since this wasn't a major focus point in this course, solid testing strategies are simply a bonus this quarter.
+* Testing strategies (unit test, integration test, end-to-end tests). Since this wasn't a major focus point in this course, solid testing strategies are simply a bonus this quarter.
 
 
 **Additional Notes:**
