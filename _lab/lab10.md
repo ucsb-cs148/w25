@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab10
-ready: false
+ready: true
 desc: "Code Release Tonight"
 assigned: 2025-03-14 13:00
 github_org: "ucsb-cs148-w25"
