@@ -1,7 +1,7 @@
 ---
 layout: exam_info
 num: project
-ready: false
+ready: true
 desc: "Final Presentations"
 exam_date: 2025-03-17 16:00
 ---
